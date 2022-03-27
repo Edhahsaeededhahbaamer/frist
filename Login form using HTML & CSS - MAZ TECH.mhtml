@@ -1,0 +1,1322 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://maztars.com/login-form-using-html-css/amp/
+Subject: Login form using HTML & CSS - MAZ TECH
+Date: Mon, 28 Feb 2022 10:21:14 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----"
+
+
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: text/html
+Content-ID: <frame-D1B678FC3CF1F22CBC9F3484453E6AA6@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://maztars.com/login-form-using-html-css/amp/
+
+<!DOCTYPE html><html amp="" lang="ar" transformed="self;v=1" i-amphtml-layout="" i-amphtml-no-boilerplate="" amp-version="2202142035002" class="i-amphtml-singledoc i-amphtml-standalone translated-rtl"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-f804871f-7488-4914-8c09-4a95d20d6263@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-0c864a90-77e5-47de-b8d0-58e40ea06ef4@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-1a74c7c7-8d9f-4e84-a18f-70191643de84@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-d1a6b727-2f17-4d91-b3bc-05539ef09bcb@mhtml.blink" /><meta name="viewport" content="width=device-width,minimum-scale=1"><link rel="preconnect" href="https://cdn.ampproject.org/"><meta name="amp-to-amp-navigation" content="AMP-Redirect-To; AMP.navigateTo"><meta name="description" content="Here we are create a colorful login form. It is very simple to create. Here I design a login page interface using Html and CSS."><meta property="og:locale" content="en_US"><meta property="og:type" content="article"><meta property="og:title" content="Login form using HTML &amp; CSS - MAZ TECH"><meta property="og:description" content="Here we are create a colorful login form. It is very simple to create. Here I design a login page interface using Html and CSS."><meta property="og:url" content="https://maztars.com/login-form-using-html-css/"><meta property="og:site_name" content="MAZ TECH"><meta property="article:author" content="https://www.facebook.com/Nimashi-Jayawickrama"><meta property="article:published_time" content="2020-05-16T08:28:14+00:00"><meta property="article:modified_time" content="2021-07-28T06:18:21+00:00"><meta property="og:image" content="https://maztars.com/wp-content/uploads/2020/05/css1.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="675"><meta property="og:image:type" content="image/png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:label1" content="Written by"><meta name="twitter:data1" content="Nimashi Jayawickrama"><meta name="twitter:label2" content="Est. reading time"><meta name="twitter:data2" content="3 minutes"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="generator" content="AMP Plugin v2.2.1; mode=reader; theme=legacy"><meta name="generator" content="WordPress 5.9.1"><meta name="generator" content="Everest Forms 1.7.7"><link rel="canonical" href="https://maztars.com/login-form-using-html-css/"><title>Login form using HTML &amp; CSS - MAZ TECH</title><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css" media="all" i-amphtml-timeout="1"></head>
+
+<body class="amp-mode-touch" style="opacity: 1; visibility: visible; animation: 0s ease 0s 1 normal none running none;">
+
+<header id="top" class="amp-wp-header">
+	<div>
+		<a href="https://maztars.com/?amp">
+										<amp-img src="https://maztars.com/wp-content/uploads/2020/03/cropped-maztarslogo-2-32x32.png" width="32" height="32" class="amp-wp-site-icon amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined i-amphtml-element i-amphtml-built i-amphtml-layout" data-hero-candidate="" alt="Site icon" layout="intrinsic" data-hero="" i-amphtml-ssr="" i-amphtml-layout="intrinsic" i-amphtml-auto-lightbox-visited=""><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjMyIiB3aWR0aD0iMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+" i-amphtml-auto-lightbox-visited=""></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" alt="Site icon" src="https://maztars.com/wp-content/uploads/2020/03/cropped-maztarslogo-2-32x32.png" data-hero-candidate="" data-hero="" i-amphtml-auto-lightbox-visited=""></amp-img>
+						<span class="amp-site-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+				Ù…Ø§Ø² ØªÙƒ			</font></font></span>
+		</a>
+	</div>
+</header>
+
+<article class="amp-wp-article">
+	<header class="amp-wp-article-header">
+		<h1 class="amp-wp-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù†Ù…ÙˆØ°Ø¬ ØªØ³Ø¬ÙŠÙ„ Ø§Ù„Ø¯Ø®ÙˆÙ„ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… HTML &amp; CSS</font></font></h1>
+			<div class="amp-wp-meta amp-wp-byline">
+					<amp-img src="https://secure.gravatar.com/avatar/d444b6c5d68fd6c41e9e93e9a8a3801e?s=24&amp;d=mm&amp;r=g" alt="Nimashi Jayawickrama" width="24" height="24" layout="fixed" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-element i-amphtml-built i-amphtml-layout" style="width: 24px; height: 24px; --loader-delay-offset:352ms !important;" i-amphtml-layout="fixed" i-amphtml-auto-lightbox-visited=""><img decoding="async" alt="Nimashi Jayawickrama" src="https://secure.gravatar.com/avatar/d444b6c5d68fd6c41e9e93e9a8a3801e?s=24&amp;d=mm&amp;r=g" class="i-amphtml-fill-content i-amphtml-replaced-content" i-amphtml-auto-lightbox-visited=""></amp-img>
+				<span class="amp-wp-author author vcard"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù†ÙŠÙ…Ø§Ø´ÙŠ Ø¬Ø§ÙŠØ§ÙˆÙŠÙƒØ±Ø§Ù…Ø§</font></font></span>
+	</div>
+<div class="amp-wp-meta amp-wp-posted-on">
+	<time datetime="2020-05-16T08:28:14+00:00"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+		Ù…Ù†Ø° Ø¹Ø§Ù…ÙŠÙ†	</font></font></time>
+</div>
+	</header>
+
+	<figure class="amp-wp-article-featured-image wp-caption">
+	<amp-img width="800" height="450" src="https://maztars.com/wp-content/uploads/2020/05/css1-1024x576.png" class="attachment-large size-large wp-post-image amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined i-amphtml-element i-amphtml-built i-amphtml-layout" alt="" srcset="https://maztars.com/wp-content/uploads/2020/05/css1-1024x576.png 1024w, https://maztars.com/wp-content/uploads/2020/05/css1-300x169.png 300w, https://maztars.com/wp-content/uploads/2020/05/css1-768x432.png 768w, https://maztars.com/wp-content/uploads/2020/05/css1.png 1200w" sizes="(max-width: 800px) 100vw, 800px" data-hero-candidate="" layout="intrinsic" disable-inline-width="" data-hero="" i-amphtml-ssr="" i-amphtml-layout="intrinsic" i-amphtml-auto-lightbox-visited="" lightbox="i-amphtml-auto-lightbox-0"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ1MCIgd2lkdGg9IjgwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" i-amphtml-auto-lightbox-visited=""></i-amphtml-sizer><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" loading="lazy" alt="" src="https://maztars.com/wp-content/uploads/2020/05/css1-1024x576.png" data-hero-candidate="" data-hero="" i-amphtml-auto-lightbox-visited="" width="360" height="203"></amp-img>	</figure>
+
+	<div class="amp-wp-article-content">
+		
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø³Ù†Ù†Ø´Ø¦ Ø§Ù„ÙŠÙˆÙ… Ù†Ù…ÙˆØ°Ø¬ ØªØ³Ø¬ÙŠÙ„ Ø§Ù„Ø¯Ø®ÙˆÙ„ Ù‡Ø°Ø§ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… HTML Ùˆ CSS. </font><font style="vertical-align: inherit;">Ø£ÙˆÙ„Ø§Ù‹ ØŒ Ø¹Ù„ÙŠÙ†Ø§ ÙØªØ­ Ù…Ø­Ø±Ø± ÙˆØ§Ù„Ù‚ÙŠØ§Ù… Ø¨Ø¬Ø²Ø¡ HTML.</font></font></p>
+
+
+
+<pre class="wp-block-code"><code>&lt;!DOCTYPE html&gt;<font></font>
+&lt;html&gt;<font></font>
+  &lt;head&gt;<font></font>
+    &lt;meta charset="utf-8"&gt;<font></font>
+    &lt;title&gt;ÙLogin Form&lt;/title&gt;<font></font>
+  &lt;/head&gt;<font></font>
+  &lt;body&gt;<font></font>
+<font></font>
+&lt;form class="box" action="index.html" method="post"&gt;<font></font>
+  &lt;h1&gt;Login&lt;/h1&gt;<font></font>
+  &lt;input type="text"  placeholder="Enter Your Username"&gt;<font></font>
+  &lt;input type="password"  placeholder="Enter Your Password"&gt;<font></font>
+<font></font>
+  &lt;input type="submit"  value="Login"&gt;<font></font>
+&lt;/form&gt;<font></font>
+<font></font>
+<font></font>
+  &lt;/body&gt;<font></font>
+&lt;/html&gt;<font></font>
+</code></pre>
+
+
+
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù‡Ù†Ø§ ØŒ ØªØ­Ø¯Ø¯ Ø³Ù…Ø© Ø§Ù„Ø¹Ù†ØµØ± Ø§Ù„Ù†Ø§Ø¦Ø¨ ØªÙ„Ù…ÙŠØ­Ù‹Ø§ Ù‚ØµÙŠØ±Ù‹Ø§ ÙŠØµÙ Ø§Ù„Ù‚ÙŠÙ…Ø© Ø§Ù„Ù…ØªÙˆÙ‚Ø¹Ø© Ù„Ø­Ù‚Ù„ Ø§Ù„Ø¥Ø¯Ø®Ø§Ù„. </font><font style="vertical-align: inherit;">ÙŠØªÙ… Ø¹Ø±Ø¶ Ø§Ù„ØªÙ„Ù…ÙŠØ­ Ø§Ù„Ù‚ØµÙŠØ± ÙÙŠ Ø­Ù‚Ù„ Ø§Ù„Ø¥Ø¯Ø®Ø§Ù„ Ù‚Ø¨Ù„ Ø£Ù† ÙŠÙ‚ÙˆÙ… Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… Ø¨Ø¥Ø¯Ø®Ø§Ù„ Ù‚ÙŠÙ…Ø©.</font></font></p>
+
+
+
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø¥Ø°Ø§ Ø£Ø¯Ø®Ù„Øª Ø§Ù„Ø±Ù…Ø² Ø£Ø¹Ù„Ø§Ù‡ Ø¨Ø´ÙƒÙ„ ØµØ­ÙŠØ­ ØŒ ÙÙŠØ¬Ø¨ Ø£Ù† ÙŠØ¸Ù‡Ø± Ù†Ù…ÙˆØ°Ø¬ ØªØ³Ø¬ÙŠÙ„ Ø§Ù„Ø¯Ø®ÙˆÙ„ Ø§Ù„Ø¢Ù† Ø¹Ù„Ù‰ Ø§Ù„Ù†Ø­Ùˆ Ø§Ù„ØªØ§Ù„ÙŠ:</font></font></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><amp-img src="https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_30_49.png?w=1024" alt="" class="wp-image-498 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined i-amphtml-element i-amphtml-built i-amphtml-layout" width="654" height="299" srcset="https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_30_49.png 1366w, https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_30_49-300x137.png 300w, https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_30_49-1024x469.png 1024w, https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_30_49-768x351.png 768w" sizes="(max-width: 654px) 100vw, 654px" layout="intrinsic" disable-inline-width="" i-amphtml-layout="intrinsic" i-amphtml-auto-lightbox-visited="" lightbox="i-amphtml-auto-lightbox-1"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI5OSIgd2lkdGg9IjY1NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" i-amphtml-auto-lightbox-visited=""></i-amphtml-sizer><img decoding="async" alt="" src="https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_30_49.png?w=1024" class="i-amphtml-fill-content i-amphtml-replaced-content" i-amphtml-auto-lightbox-visited="" width="328" height="150"></amp-img></figure>
+
+
+
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø£Ù†Ø§ Ù‡Ù†Ø§ Ø£Ø³ØªØ®Ø¯Ù… CSS Ù„ØªØµÙ…ÙŠÙ… ØµÙØ­Ø© ØªØ³Ø¬ÙŠÙ„ Ø§Ù„Ø¯Ø®ÙˆÙ„. </font><font style="vertical-align: inherit;">Ø£Ù‚ÙˆÙ… Ø¨Ø¥Ù†Ø´Ø§Ø¡ Ù…Ù„Ù "style.css" ÙˆØ±Ø¨Ø·Ù‡ Ø¨Ù€ "index.html" Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø¹Ù„Ø§Ù…Ø© Ø§Ù„Ø§Ø±ØªØ¨Ø§Ø·. </font><font style="vertical-align: inherit;">Ø§Ù„Ø¢Ù† Ù†Ø±Ù‰ ÙƒÙŠÙ ÙŠÙ…ÙƒÙ†Ù†Ø§ Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø¹Ù„Ø§Ù…Ø© Ø§Ù„Ø§Ø±ØªØ¨Ø§Ø·.</font></font></p>
+
+
+
+<p class="has-text-align-center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&lt;head&gt; &lt;link rel = â€stylesheetâ€ href = â€style.cssâ€&gt; &lt;/head&gt;</font></font></p>
+
+
+
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø«Ù… Ø¹Ù„ÙŠÙƒ ÙƒØªØ§Ø¨Ø© Ø§Ù„Ø±Ù…ÙˆØ² ÙÙŠ style.css Ù„ØªØµÙ…ÙŠÙ… ØµÙØ­Ø© ØªØ³Ø¬ÙŠÙ„ Ø§Ù„Ø¯Ø®ÙˆÙ„ Ø§Ù„Ø®Ø§ØµØ© Ø¨Ùƒ.</font></font></p>
+
+
+
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø§Ù„ÙƒÙˆØ¯ Ø£Ø¯Ù†Ø§Ù‡ Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… Ù„ØªØµÙ…ÙŠÙ… Ø¬Ø³Ù… Ø§Ù„ØµÙØ­Ø©:</font></font></p>
+
+
+
+<pre class="wp-block-code"><code>body{<font></font>
+  margin: 0;<font></font>
+  padding: 0;<font></font>
+  background: url(bg.jpg);<font></font>
+  background-repeat: no-repeat;<font></font>
+  background-size: cover;<font></font>
+  font-family: sans-serif;<font></font>
+}<font></font>
+</code></pre>
+
+
+
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙÙŠ index.html ØŒ Ø£Ø­Ø¯Ø¯ Ø§Ø³Ù… ÙØ¦Ø© "box" ÙÙŠ Ø¹Ù„Ø§Ù…Ø© Ø§Ù„Ù†Ù…ÙˆØ°Ø¬. </font><font style="vertical-align: inherit;">Ø«Ù… Ø§Ù†Ø¸Ø± ÙƒÙŠÙ Ù†Ø³ØªØ®Ø¯Ù… class ÙÙŠ Ù…Ù„Ù CSS.</font></font></p>
+
+
+
+<pre class="wp-block-code"><code>.box{<font></font>
+  width: 350px;<font></font>
+  padding: 50px;<font></font>
+  position: absolute;<font></font>
+  background:#ffffff;<font></font>
+  text-align: center;<font></font>
+  top: 55%;<font></font>
+  left: 50%;<font></font>
+  transform: translate(-50%,-50%);<font></font>
+  opacity: 0.5;<font></font>
+  border-radius: 20px;<font></font>
+  <font></font>
+}</code></pre>
+
+
+
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø¥Ø°Ø§ Ø£Ø¶ÙØª Ù‡Ø°Ù‡ Ø§Ù„Ø£Ø´ÙŠØ§Ø¡ Ø¨Ø´ÙƒÙ„ ØµØ­ÙŠØ­ ØŒ ÙŠÙ…ÙƒÙ†Ùƒ Ø£Ù† ØªØ±Ù‰ Ø£Ø³ÙÙ„ ØµÙØ­Ø© ØªØ³Ø¬ÙŠÙ„ Ø§Ù„Ø¯Ø®ÙˆÙ„:</font></font></p>
+
+
+
+<figure class="wp-block-image size-large"><amp-img width="1366" height="576" src="https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_59_24.png?w=1024" alt="" class="wp-image-511 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined i-amphtml-element i-amphtml-built i-amphtml-layout" srcset="https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_59_24.png 1366w, https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_59_24-300x127.png 300w, https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_59_24-1024x432.png 1024w, https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_59_24-768x324.png 768w" sizes="(max-width: 1366px) 100vw, 1366px" layout="intrinsic" disable-inline-width="" i-amphtml-layout="intrinsic" i-amphtml-auto-lightbox-visited="" lightbox="i-amphtml-auto-lightbox-2"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjU3NiIgd2lkdGg9IjEzNjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+" i-amphtml-auto-lightbox-visited=""></i-amphtml-sizer><img decoding="async" alt="" src="https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_59_24.png?w=1024" class="i-amphtml-fill-content i-amphtml-replaced-content" width="328" height="138"></amp-img></figure>
+
+
+
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ÙˆØ§Ù„Ø¢Ù† Ø¨Ø¹Ø¯ Ø£Ù† ÙˆØµÙ„Ù†Ø§ Ø¥Ù„Ù‰ Ù‡Ø°Ø§ Ø§Ù„Ø­Ø¯ ØŒ ÙÙ„Ù†Ø¨Ø¯Ø£ ÙÙŠ ØªØµÙ…ÙŠÙ… Ù…Ù†Ø§Ø·Ù‚ Ø§Ù„Ø¥Ø¯Ø®Ø§Ù„ ØŒ Ø³Ù†ÙØ¹Ù„ Ø°Ù„Ùƒ Ø¹Ù† Ø·Ø±ÙŠÙ‚ Ø¥Ø¶Ø§ÙØ© Ø§Ù„ÙƒÙˆØ¯ Ø§Ù„ØªØ§Ù„ÙŠ:</font></font></p>
+
+
+
+<pre class="wp-block-code"><code>.box h1{<font></font>
+  color: black;<font></font>
+  text-transform: uppercase;<font></font>
+  font-weight: 600;<font></font>
+}<font></font>
+.box input[type = "text"],.box input[type = "password"]{<font></font>
+  border:0;<font></font>
+  background: none;<font></font>
+  display: inline-block;<font></font>
+  margin: 15px auto;<font></font>
+  text-align: center;<font></font>
+  border: 2px solid #341f97;<font></font>
+  padding: 18px 15px;<font></font>
+  width: 200px;<font></font>
+  outline: none;<font></font>
+  color:black;<font></font>
+  font-size: 15px;<font></font>
+  border-radius: 28px;<font></font>
+  <font></font>
+}<font></font>
+<font></font>
+.box input[type = "submit"]{<font></font>
+  border:0;<font></font>
+  background: none;<font></font>
+  display: inline-block;<font></font>
+  margin: 15px auto;<font></font>
+  text-align: center;<font></font>
+  border: 3px solid #2ecc71;<font></font>
+  padding: 14px 40px;<font></font>
+  outline: none;<font></font>
+  color: black;<font></font>
+  font-size: 25px;<font></font>
+  border-radius: 25px;<font></font>
+  cursor: pointer;<font></font>
+  <font></font>
+}<font></font>
+</code></pre>
+
+
+
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ØªØ­Ø¯Ø¯ Ø®Ø§ØµÙŠØ© Ø§Ù„Ø¹Ø±Ø¶ ÙƒÙŠÙÙŠØ© Ø¹Ø±Ø¶ Ø§Ù„Ø¹Ù†ØµØ±. </font><font style="vertical-align: inherit;">ÙŠÙ…ÙƒÙ†Ù†Ø§ Ø§Ø³ØªØ®Ø¯Ø§Ù… inline-block Ù„Ø¹Ø±Ø¶ Ø¹Ù†ØµØ± Ø­ÙŠØ« ÙŠØªÙ… Ø§Ø­ØªØ±Ø§Ù… Ø§Ù„Ù‡ÙˆØ§Ù…Ø´ Ø§Ù„Ø¹Ù„ÙˆÙŠØ© ÙˆØ§Ù„Ø³ÙÙ„ÙŠØ© / Ø§Ù„Ø­Ø´ÙˆØ§Øª.</font></font></p>
+
+
+
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ø£Ø®ÙŠØ±Ù‹Ø§ ØŒ ÙŠÙ…ÙƒÙ†Ùƒ Ø§Ù„Ø¢Ù† Ø§Ù„Ø­ØµÙˆÙ„ Ø¹Ù„Ù‰ ØµÙØ­Ø© ØªØ³Ø¬ÙŠÙ„ Ø§Ù„Ø¯Ø®ÙˆÙ„ Ø§Ù„Ø£Ù†ÙŠÙ‚Ø© Ø§Ù„Ø®Ø§ØµØ© Ø¨Ùƒ â€¦â€¦â€¦</font></font></p>
+
+
+
+<figure class="wp-block-image size-large"><amp-img width="1366" height="625" src="https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-19_22_20.png?w=1024" alt="" class="wp-image-514 amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined i-amphtml-element i-amphtml-built i-amphtml-layout" srcset="https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-19_22_20.png 1366w, https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-19_22_20-300x137.png 300w, https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-19_22_20-1024x469.png 1024w, https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-19_22_20-768x351.png 768w" sizes="(max-width: 1366px) 100vw, 1366px" layout="intrinsic" disable-inline-width="" i-amphtml-layout="intrinsic" i-amphtml-auto-lightbox-visited="" lightbox="i-amphtml-auto-lightbox-3"><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjYyNSIgd2lkdGg9IjEzNjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+" i-amphtml-auto-lightbox-visited=""></i-amphtml-sizer><img decoding="async" alt="" src="https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-19_22_20.png?w=1024" class="i-amphtml-fill-content i-amphtml-replaced-content" width="328" height="150"></amp-img></figure>
+
+
+
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Ø£Ø¹ØªÙ‚Ø¯ Ø£Ù†Ù‡ ÙŠÙ…ÙƒÙ†Ùƒ Ø§Ù„Ø¢Ù† Ø§Ù„Ø§Ø³ØªÙ…ØªØ§Ø¹ Ø¨Ù‡Ø°Ø§ ÙˆÙ…Ø­Ø§ÙˆÙ„Ø© ØªØ¬Ø±Ø¨Ø© Ø£Ø´ÙŠØ§Ø¡ Ø¬Ø¯ÙŠØ¯Ø©. </font><font style="vertical-align: inherit;">ØªØ±Ù‚Ø¨ÙˆØ§ Maztars Ù„Ù…Ø¹Ø±ÙØ© Ø£Ø´ÙŠØ§Ø¡ Ø¬Ø¯ÙŠØ¯Ø©. </font><font style="vertical-align: inherit;">Ø¥Ø°Ø§ ÙƒØ§Ù† Ù„Ø¯ÙŠÙƒ Ø£ÙŠ Ù…Ø´ÙƒÙ„Ø© Ù…Ø¹ Ù‡Ø°Ø§ Ø§Ù„Ø¯Ø±Ø³ ÙØ¹Ù„Ù‚ Ø¹Ù„ÙŠÙ‡. </font><font style="vertical-align: inherit;">Ø¯Ø¹Ù†Ø§ Ù†ØªÙ‚Ø§Ø¨Ù„ ÙÙŠ Ø§Ù„Ø¯Ø±Ø³ Ø§Ù„ØªØ§Ù„ÙŠ.</font></font></p>
+<div class="saboxplugin-wrap" itemtype="http://schema.org/Person" itemscope="" itemprop="author"><div class="saboxplugin-tab"><div class="saboxplugin-gravatar"><amp-img src="https://maztars.com/wp-content/uploads/2021/09/m1.jpg" width="100" height="100" alt="Nimashi Jayawickrama" itemprop="image" class="amp-wp-enforced-sizes i-amphtml-layout-intrinsic i-amphtml-layout-size-defined i-amphtml-element i-amphtml-built" layout="intrinsic" i-amphtml-layout="intrinsic" i-amphtml-auto-lightbox-visited=""><i-amphtml-sizer slot="i-amphtml-svc" class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEwMCIgd2lkdGg9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=" i-amphtml-auto-lightbox-visited=""></i-amphtml-sizer></amp-img></div><div class="saboxplugin-authorname"><a href="https://maztars.com/author/nimashijayawickrama1/?amp" class="vcard author" rel="author" itemprop="url"><span class="fn" itemprop="name"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ù†ÙŠÙ…Ø§Ø´ÙŠ Ø¬Ø§ÙŠØ§ÙˆÙŠÙƒØ±Ø§Ù…Ø§</font></font></span></a></div><div class="saboxplugin-desc"><div itemprop="description"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nimashi Jayawickrama Ø·Ø§Ù„Ø¨Ø© Ø¬Ø§Ù…Ø¹ÙŠØ© ÙÙŠ Ø¹Ù„ÙˆÙ… Ø§Ù„ÙƒÙ…Ø¨ÙŠÙˆØªØ± ÙˆØªØ¹Ù…Ù„ ÙƒÙ…Ø·ÙˆØ± ØªØ·Ø¨ÙŠÙ‚Ø§Øª Ù„Ù„Ù‡Ø§ØªÙ Ø§Ù„Ù…Ø­Ù…ÙˆÙ„ ÙˆÙ…ØµÙ…Ù… UI / UX.</font></font></p>
+</div></div><div class="clearfix"></div><div class="saboxplugin-socials sabox-colored"><a target="_self" href="https://www.facebook.com/profile.php?id=100006686957050" aria-label="Facebook" rel="nofollow noopener" class="saboxplugin-icon-color"><svg version="1.1" class="sab-facebook" viewBox="0 0 500 500.7" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><path class="st0" d="m499.4 250.9c0 9.9-0.6 19.7-1.7 29.2-0.1 0.6-0.1 1.1-0.2 1.7-0.8 6.3-1.8 12.4-3 18.5-0.2 1.1-0.5 2.2-0.7 3.3-1.2 5.6-2.6 11-4.2 16.5-23.4 81.3-87.1 145.6-168.2 169.8-4.5 1.3-9.1 2.6-13.7 3.7-7.6 1.8-15.4 3.3-23.3 4.4-5.5 0.8-11.1 1.3-16.7 1.7-0.8 0.1-1.6 0.1-2.4 0.1-5 0.3-10.1 0.4-15.2 0.4-137.8 0-249.4-111.6-249.4-249.3s111.6-249.4 249.4-249.4 249.3 111.7 249.3 249.4z" fill="#3b5998"></path><path class="st1" d="m493.8 303.6c-1.2 5.6-2.6 11-4.2 16.5-23.4 81.3-87.1 145.6-168.2 169.8-4.5 1.3-9.1 2.6-13.7 3.7l-100.9-101 1.8-3.5 2.1-76.7-45.3-43.7 41.3-31 30-95.3 71.4-24.7 185.7 185.9z"></path><path class="st2" d="M206.8,392.6V268.8h-41.5v-49.2h41.5v-38.8c0-42.1,25.7-65,63.3-65c18,0,33.5,1.4,38,1.9v44H282  c-20.4,0-24.4,9.7-24.4,24v33.9h46.1l-6.3,49.2h-39.8v123.8"></path></svg></a><a target="_self" href="https://www.linkedin.com/in/nimashi-jayawickrama-b1989b175" aria-label="Linkedin" rel="nofollow noopener" class="saboxplugin-icon-color"><svg version="1.1" class="sab-linkedin" viewBox="0 0 500 500.7" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><path class="st0" d="m499.8 250.7c0 7.6-0.4 15.2-1 22.6-0.2 2.2-0.4 4.4-0.7 6.6-0.1 0.6-0.1 1.1-0.2 1.7-0.3 2.6-0.7 5.2-1.1 7.7-0.4 2.3-0.8 4.7-1.2 7 0 0.3-0.1 0.6-0.2 0.9-0.2 1-0.4 1.9-0.5 2.9-0.2 0.8-0.4 1.6-0.5 2.5-0.1 0.3-0.1 0.5-0.2 0.8-0.7 3.3-1.5 6.5-2.3 9.7-0.6 2.3-1.2 4.5-1.9 6.8-1.5 5.3-3.2 10.5-5 15.6-26.7 73.9-87.3 131.6-163.2 154.2-3 0.9-6.1 1.8-9.2 2.6-1.5 0.4-3 0.8-4.5 1.1-3.6 0.9-7.2 1.6-10.9 2.3h-0.2c-0.2 0-0.3 0.1-0.5 0.1l-3 0.6c-1.8 0.3-3.6 0.6-5.4 0.9-0.2 0-0.3 0.1-0.5 0.1-0.9 0.1-1.9 0.3-2.8 0.4-5.5 0.8-11.1 1.3-16.7 1.7-0.8 0.1-1.6 0.1-2.4 0.1-5 0.3-10.1 0.4-15.2 0.4-137.7 0-249.3-111.6-249.3-249.3s111.6-249.4 249.3-249.4 249.3 111.7 249.3 249.4z" fill="#0077b5"></path><path class="st1" d="m485 335.5c-26.7 73.9-87.3 131.6-163.2 154.2-3 0.9-6.1 1.8-9.2 2.6-1.5 0.4-3 0.8-4.5 1.1-3.6 0.9-7.2 1.6-10.9 2.3h-0.2l-148.3-148.1 35.3-142.9-32-37.6 38.1-38.7 68 68.4h11.9l9.5 9.3 70.5-3.9 135 133.3z"></path><path class="st2" d="m195.6 347.6h-46.9v-150.8h46.9v150.8zm-23.5-171.4c-15 0-27.1-12.4-27.1-27.4s12.2-27.1 27.1-27.1c15 0 27.1 12.2 27.1 27.1s-12.1 27.4-27.1 27.4zm198.9 171.4h-46.8v-73.4c0-17.5-0.4-39.9-24.4-39.9-24.4 0-28.1 19-28.1 38.7v74.7h-46.8v-150.9h44.9v20.6h0.7c6.3-11.9 21.5-24.4 44.3-24.4 47.4 0 56.1 31.2 56.1 71.8l0.1 82.8z"></path></svg></a><a target="_self" href="https://github.com/Nimashi97" aria-label="Github" rel="nofollow noopener" class="saboxplugin-icon-color"><svg version="1.1" class="sab-github" viewBox="0 0 500 500.7" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><path class="st0" d="m499.8 250.7c0 9.9-0.6 19.7-1.7 29.2-0.1 0.6-0.1 1.1-0.2 1.7-0.3 2.6-0.7 5.2-1.1 7.7-0.4 2.3-0.8 4.7-1.2 7-0.2 1.3-0.5 2.5-0.7 3.8-0.2 1.1-0.5 2.2-0.7 3.3-1.2 5.6-2.6 11-4.2 16.5-23.4 81.3-87.1 145.6-168.2 169.8-4.5 1.3-9.1 2.6-13.7 3.7-6.5 1.6-13.2 2.8-20 3.9-0.2 0-0.3 0.1-0.5 0.1-0.9 0.1-1.9 0.3-2.8 0.4-5.5 0.8-11.1 1.3-16.7 1.7-0.8 0.1-1.6 0.1-2.4 0.1-5 0.3-10.1 0.4-15.2 0.4-137.7 0-249.3-111.6-249.3-249.3s111.6-249.4 249.3-249.4 249.3 111.7 249.3 249.4z" fill="#4078c0"></path><path class="st1" d="m495.6 296.3c-0.2 1.3-0.5 2.5-0.7 3.8-0.2 1.1-0.5 2.2-0.7 3.3-1.2 5.6-2.6 11-4.2 16.5-23.4 81.3-87.1 145.6-168.2 169.8-4.5 1.3-9.1 2.6-13.7 3.7-6.5 1.6-13.2 2.8-20 3.9l-140.4-141.1-14.9-35.9-7.8-71 32.6-89.2 79.9-17.7 111.5 7.2 146.6 146.7z"></path><path class="st2" d="m204 339c0 1.2-1.3 2.1-3 2.1-1.9 0.2-3.3-0.8-3.3-2.1 0-1.2 1.3-2.1 3-2.1 1.8-0.1 3.3 0.8 3.3 2.1zm-18.1-2.6c-0.4 1.2 0.8 2.5 2.5 2.8 1.5 0.6 3.3 0 3.6-1.2s-0.8-2.5-2.5-3c-1.5-0.3-3.2 0.3-3.6 1.4zm25.7-1c-1.7 0.4-2.8 1.5-2.7 2.8 0.2 1.2 1.7 1.9 3.4 1.5s2.8-1.5 2.7-2.7c-0.2-1-1.7-1.7-3.4-1.6zm38.2-222.8c-80.6 0-142.3 61.2-142.3 141.9 0 64.5 40.6 119.7 98.5 139.1 7.4 1.3 10.1-3.3 10.1-7 0-3.6-0.2-23.5-0.2-35.7 0 0-40.7 8.7-49.2-17.3 0 0-6.6-16.9-16.2-21.3 0 0-13.3-9.1 0.9-9 0 0 14.5 1.2 22.4 15 12.7 22.4 34.1 16 42.4 12.2 1.3-9.3 5.1-15.8 9.3-19.6-32.5-3.6-65.3-8.3-65.3-64.2 0-16 4.4-24 13.7-34.2-1.5-3.8-6.5-19.4 1.5-39.5 12.2-3.8 40.1 15.7 40.1 15.7 11.6-3.3 24.1-4.9 36.5-4.9s24.9 1.7 36.5 4.9c0 0 28-19.5 40.1-15.7 8 20.2 3 35.7 1.5 39.5 9.3 10.3 15 18.3 15 34.2 0 56.1-34.2 60.6-66.7 64.2 5.3 4.6 9.9 13.3 9.9 27 0 19.6-0.2 43.8-0.2 48.6 0 3.8 2.7 8.4 10.1 7 58.1-19.3 97.6-74.5 97.6-139 0.1-80.6-65.3-141.9-146-141.9zm-85.8 200.6c-0.8 0.6-0.6 1.9 0.4 3 0.9 0.9 2.3 1.3 3 0.6 0.8-0.6 0.6-1.9-0.4-3-0.9-1-2.2-1.4-3-0.6zm-6.3-4.7c-0.4 0.8 0.2 1.7 1.3 2.3 0.9 0.6 2.1 0.4 2.5-0.4s-0.2-1.7-1.3-2.3c-1.1-0.4-2-0.2-2.5 0.4zm18.9 20.7c-0.9 0.8-0.6 2.5 0.8 3.6 1.3 1.3 3 1.5 3.8 0.6 0.8-0.8 0.4-2.5-0.8-3.6-1.3-1.4-3.1-1.6-3.8-0.6zm-6.6-8.6c-0.9 0.6-0.9 2.1 0 3.4s2.5 1.9 3.3 1.3c0.9-0.8 0.9-2.3 0-3.6s-2.4-1.8-3.3-1.1z"></path></svg></a></div></div></div>	</div>
+
+	<footer class="amp-wp-article-footer">
+			<div class="amp-wp-meta amp-wp-tax-category">
+		Categories: <a href="https://maztars.com/category/html-css/?amp" rel="category tag">HTML &amp; CSS</a>	</div>
+
+	<div class="amp-wp-meta amp-wp-tax-tag">
+		Tags: <a href="https://maztars.com/tag/css/?amp" rel="tag">CSS</a>, <a href="https://maztars.com/tag/html/?amp" rel="tag">Html</a>	</div>
+		<div class="amp-wp-meta amp-wp-comments-link">
+		<a href="https://maztars.com/login-form-using-html-css/?noamp=mobile#comments">
+			Leave a Comment		</a>
+	</div>
+	</footer>
+</article>
+
+<footer class="amp-wp-footer">
+	<div>
+		<h2>MAZ TECH</h2>
+		<a href="https://maztars.com/login-form-using-html-css/amp/#top" class="back-to-top">Back to top</a>
+	</div>
+</footer>
+
+
+	<amp-pixel src="https://pixel.wp.com/g.gif?v=ext&amp;j=1%3A10.6&amp;blog=187834311&amp;post=493&amp;tz=5.5&amp;srv=maztars.com&amp;host=maztars.com&amp;rand=RANDOM&amp;ref=DOCUMENT_REFERRER" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-element i-amphtml-built" style="width:1px;height:1px" i-amphtml-layout="fixed" aria-hidden="true"></amp-pixel>
+			<div id="amp-mobile-version-switcher">
+			<a rel="nofollow" href="https://maztars.com/login-form-using-html-css/?noamp=mobile">
+				Exit mobile version			</a>
+		</div>
+
+				
+
+
+<div id="goog-gt-tt" class="skiptranslate" dir="rtl"><div style="padding: 8px;"><div><div class="logo"><img src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google ØªØ±Ø¬Ù…Ø©"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Ø§Ù„Ù†Øµ Ø§Ù„Ø£ØµÙ„ÙŠ</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Ø§Ù„Ù…Ø³Ø§Ù‡Ù…Ø© Ø¨ØªØ±Ø¬Ù…Ø© Ø£ÙØ¶Ù„</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div><div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-f804871f-7488-4914-8c09-4a95d20d6263@mhtml.blink
+
+@charset "utf-8";
+
+html { overflow-x: hidden !important; }
+
+html.i-amphtml-fie { height: 100% !important; width: 100% !important; }
+
+html:not([amp4ads]), html:not([amp4ads]) body { height: auto !important; }
+
+html:not([amp4ads]) body { margin: 0px !important; }
+
+body { text-size-adjust: 100%; }
+
+html.i-amphtml-singledoc.i-amphtml-embedded { touch-action: pan-y pinch-zoom; }
+
+html.i-amphtml-fie > body, html.i-amphtml-singledoc > body { overflow: visible !important; }
+
+html.i-amphtml-fie:not(.i-amphtml-inabox) > body, html.i-amphtml-singledoc:not(.i-amphtml-inabox) > body { position: relative !important; }
+
+html.i-amphtml-ios-embed-legacy > body { overflow: hidden auto !important; position: absolute !important; }
+
+html.i-amphtml-ios-embed { position: static; overflow-y: auto !important; }
+
+#i-amphtml-wrapper { overflow: hidden auto !important; position: absolute !important; inset: 0px !important; margin: 0px !important; display: block !important; }
+
+html.i-amphtml-ios-embed.i-amphtml-ios-overscroll, html.i-amphtml-ios-embed.i-amphtml-ios-overscroll > #i-amphtml-wrapper { }
+
+#i-amphtml-wrapper > body { position: relative !important; border-top: 1px solid transparent !important; }
+
+#i-amphtml-wrapper + body { visibility: visible; }
+
+#i-amphtml-wrapper + body .i-amphtml-lightbox-element, #i-amphtml-wrapper + body[i-amphtml-lightbox] { visibility: hidden; }
+
+#i-amphtml-wrapper + body[i-amphtml-lightbox] .i-amphtml-lightbox-element { visibility: visible; }
+
+#i-amphtml-wrapper.i-amphtml-scroll-disabled, .i-amphtml-scroll-disabled { overflow: hidden !important; }
+
+amp-instagram { background-color: rgb(255, 255, 255); padding: 54px 0px 0px !important; }
+
+amp-iframe iframe { box-sizing: border-box !important; }
+
+[amp-access][amp-access-hide] { display: none; }
+
+[subscriptions-dialog], body:not(.i-amphtml-subs-ready) [subscriptions-action], body:not(.i-amphtml-subs-ready) [subscriptions-section] { display: none !important; }
+
+amp-experiment, amp-live-list > [update] { display: none; }
+
+amp-list[resizable-children] > .i-amphtml-loading-container.amp-hidden { display: none !important; }
+
+amp-list [fetch-error], amp-list[load-more] [load-more-button], amp-list[load-more] [load-more-end], amp-list[load-more] [load-more-failed], amp-list[load-more] [load-more-loading] { display: none; }
+
+amp-list[diffable] div[role="list"] { display: block; }
+
+amp-story-page, amp-story[standalone] { min-height: 1px !important; display: block !important; height: 100% !important; margin: 0px !important; padding: 0px !important; overflow: hidden !important; width: 100% !important; }
+
+amp-story[standalone] { background-color: rgb(0, 0, 0) !important; position: relative !important; }
+
+amp-story-page { background-color: rgb(117, 117, 117); }
+
+amp-story .amp-active > div, amp-story .i-amphtml-loader-background { display: none !important; }
+
+amp-story-page:not(:first-of-type):not([distance]):not([active]) { transform: translateY(1000vh) !important; }
+
+amp-autocomplete { position: relative !important; display: inline-block !important; }
+
+amp-autocomplete > input, amp-autocomplete > textarea { padding: 0.5rem; border: 1px solid rgba(0, 0, 0, 0.33); }
+
+.i-amphtml-autocomplete-results, amp-autocomplete > input, amp-autocomplete > textarea { font-size: 1rem; line-height: 1.5rem; }
+
+[amp-fx^="fly-in"] { visibility: hidden; }
+
+amp-script[nodom], amp-script[sandboxed] { visibility: hidden; position: fixed !important; top: 0px !important; width: 1px !important; height: 1px !important; overflow: hidden !important; }
+
+[hidden] { display: none !important; }
+
+.i-amphtml-element { display: inline-block; }
+
+.i-amphtml-blurry-placeholder { pointer-events: none; transition: opacity 0.3s cubic-bezier(0, 0, 0.2, 1) 0s !important; }
+
+[layout="nodisplay"]:not(.i-amphtml-element) { display: none !important; }
+
+.i-amphtml-layout-fixed, [layout="fixed"][width][height]:not(.i-amphtml-layout-fixed) { display: inline-block; position: relative; }
+
+.i-amphtml-layout-responsive, [layout="responsive"][width][height]:not(.i-amphtml-layout-responsive), [width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive), [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive) { display: block; position: relative; }
+
+.i-amphtml-layout-intrinsic, [layout="intrinsic"][width][height]:not(.i-amphtml-layout-intrinsic) { display: inline-block; position: relative; max-width: 100%; }
+
+.i-amphtml-layout-intrinsic .i-amphtml-sizer { max-width: 100%; }
+
+.i-amphtml-intrinsic-sizer { max-width: 100%; display: block !important; }
+
+.i-amphtml-layout-container, .i-amphtml-layout-fixed-height, [layout="container"], [layout="fixed-height"][height]:not(.i-amphtml-layout-fixed-height) { display: block; position: relative; }
+
+.i-amphtml-layout-fill, .i-amphtml-layout-fill.i-amphtml-notbuilt, [layout="fill"]:not(.i-amphtml-layout-fill), body noscript > * { display: block; position: absolute; inset: 0px; overflow: hidden !important; }
+
+body noscript > * { width: 100%; height: 100%; z-index: 2; position: absolute !important; }
+
+body noscript { display: inline !important; }
+
+.i-amphtml-layout-flex-item, [layout="flex-item"]:not(.i-amphtml-layout-flex-item) { display: block; position: relative; flex: 1 1 auto; }
+
+.i-amphtml-layout-fluid { position: relative; }
+
+.i-amphtml-layout-size-defined { overflow: hidden !important; }
+
+.i-amphtml-layout-awaiting-size { position: absolute !important; top: auto !important; bottom: auto !important; }
+
+i-amphtml-sizer { display: block !important; }
+
+@supports (aspect-ratio:1/1) {
+  i-amphtml-sizer.i-amphtml-disable-ar { display: none !important; }
+}
+
+.i-amphtml-blurry-placeholder, .i-amphtml-fill-content { display: block; height: 0px; max-height: 100%; max-width: 100%; min-height: 100%; min-width: 100%; width: 0px; margin: auto; }
+
+.i-amphtml-layout-size-defined .i-amphtml-fill-content { position: absolute; inset: 0px; }
+
+.i-amphtml-replaced-content, .i-amphtml-screen-reader { padding: 0px !important; border: none !important; }
+
+.i-amphtml-screen-reader { position: fixed !important; top: 0px !important; left: 0px !important; width: 4px !important; height: 4px !important; opacity: 0 !important; overflow: hidden !important; margin: 0px !important; display: block !important; visibility: visible !important; }
+
+.i-amphtml-screen-reader ~ .i-amphtml-screen-reader { left: 8px !important; }
+
+.i-amphtml-screen-reader ~ .i-amphtml-screen-reader ~ .i-amphtml-screen-reader { left: 12px !important; }
+
+.i-amphtml-screen-reader ~ .i-amphtml-screen-reader ~ .i-amphtml-screen-reader ~ .i-amphtml-screen-reader { left: 16px !important; }
+
+.i-amphtml-unresolved { position: relative; overflow: hidden !important; }
+
+.i-amphtml-select-disabled { user-select: none !important; }
+
+.i-amphtml-notbuilt, [layout]:not(.i-amphtml-element), [width][height][heights]:not([layout]):not(.i-amphtml-element), [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element) { position: relative; overflow: hidden !important; color: transparent !important; }
+
+.i-amphtml-notbuilt:not(.i-amphtml-layout-container) > *, [layout]:not([layout="container"]):not(.i-amphtml-element) > *, [width][height][heights]:not([layout]):not(.i-amphtml-element) > *, [width][height][sizes]:not([layout]):not(.i-amphtml-element) > * { display: none; }
+
+amp-img:not(.i-amphtml-element)[i-amphtml-ssr] > img.i-amphtml-fill-content { display: block; }
+
+.i-amphtml-notbuilt:not(.i-amphtml-layout-container), [layout]:not([layout="container"]):not(.i-amphtml-element), [width][height][heights]:not([layout]):not(.i-amphtml-element), [width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element) { color: transparent !important; line-height: 0 !important; }
+
+.i-amphtml-ghost { visibility: hidden !important; }
+
+.i-amphtml-element > [placeholder], [layout]:not(.i-amphtml-element) > [placeholder], [width][height][heights]:not([layout]):not(.i-amphtml-element) > [placeholder], [width][height][sizes]:not([layout]):not(.i-amphtml-element) > [placeholder] { display: block; line-height: normal; }
+
+.i-amphtml-element > [placeholder].amp-hidden, .i-amphtml-element > [placeholder].hidden { visibility: hidden; }
+
+.i-amphtml-element:not(.amp-notsupported) > [fallback], .i-amphtml-layout-container > [placeholder].amp-hidden, .i-amphtml-layout-container > [placeholder].hidden { display: none; }
+
+.i-amphtml-layout-size-defined > [fallback], .i-amphtml-layout-size-defined > [placeholder] { z-index: 1; position: absolute !important; inset: 0px !important; }
+
+amp-img[i-amphtml-ssr]:not(.i-amphtml-element) > [placeholder] { z-index: auto; }
+
+.i-amphtml-notbuilt > [placeholder] { display: block !important; }
+
+.i-amphtml-hidden-by-media-query { display: none !important; }
+
+.i-amphtml-element-error { background: red !important; color: rgb(255, 255, 255) !important; position: relative !important; }
+
+.i-amphtml-element-error::before { content: attr(error-message); }
+
+i-amp-scroll-container, i-amphtml-scroll-container { position: absolute; inset: 0px; display: block; }
+
+i-amp-scroll-container.amp-active, i-amphtml-scroll-container.amp-active { overflow: auto; }
+
+.i-amphtml-loading-container { pointer-events: none; z-index: 1; display: block !important; }
+
+.i-amphtml-notbuilt > .i-amphtml-loading-container { display: block !important; }
+
+.i-amphtml-loading-container.amp-hidden { visibility: hidden; }
+
+.i-amphtml-element > [overflow] { cursor: pointer; position: relative; z-index: 2; visibility: hidden; display: initial; line-height: normal; }
+
+.i-amphtml-layout-size-defined > [overflow] { position: absolute; }
+
+.i-amphtml-element > [overflow].amp-visible { visibility: visible; }
+
+template { display: none !important; }
+
+.amp-border-box, .amp-border-box *, .amp-border-box ::after, .amp-border-box ::before { box-sizing: border-box; }
+
+amp-pixel { display: none !important; }
+
+amp-analytics, amp-auto-ads, amp-story-auto-ads { visibility: hidden; position: fixed !important; top: 0px !important; width: 1px !important; height: 1px !important; overflow: hidden !important; }
+
+html.i-amphtml-fie > amp-analytics { position: initial !important; }
+
+[visible-when-invalid]:not(.visible), form [submit-error], form [submit-success], form [submitting] { display: none; }
+
+amp-accordion { display: block !important; }
+
+@media (min-width: 1px) {
+  :where(amp-accordion > section) > :first-child { margin: 0px; background-color: rgb(239, 239, 239); padding-right: 20px; border: 1px solid rgb(223, 223, 223); }
+  :where(amp-accordion > section) > :last-child { margin: 0px; }
+}
+
+amp-accordion > section { float: none !important; }
+
+amp-accordion > section > * { float: none !important; display: block !important; overflow: hidden !important; position: relative !important; }
+
+amp-accordion, amp-accordion > section { margin: 0px; }
+
+amp-accordion:not(.i-amphtml-built) > section > :last-child { display: none !important; }
+
+amp-accordion:not(.i-amphtml-built) > section[expanded] > :last-child { display: block !important; }
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-0c864a90-77e5-47de-b8d0-58e40ea06ef4@mhtml.blink
+
+@charset "utf-8";
+
+.i-amphtml-lbg-caption-scroll { z-index: 1; color: rgb(255, 255, 255); position: absolute !important; left: 0px !important; right: 0px !important; bottom: 0px !important; padding-top: 40px !important; box-sizing: border-box !important; text-shadow: rgba(0, 0, 0, 0.4) 1px 0px 5px !important; overflow: hidden !important; max-height: calc(80px + 3rem) !important; transition: max-height 0.3s ease-out 0s !important; pointer-events: none !important; }
+
+.i-amphtml-lbg-caption-text { padding: 20px !important; pointer-events: all !important; }
+
+.i-amphtml-lbg-caption-text:empty { display: none !important; }
+
+[i-amphtml-lbg-caption-state="clip"] { -webkit-mask-image: linear-gradient(0deg, transparent 0rem, rgba(0, 0, 0, 0.2) 1rem, rgba(0, 0, 0, 0.55) 2rem, rgb(0, 0, 0) 3rem); }
+
+[i-amphtml-lbg-caption-state="expand"] { -webkit-mask-image: linear-gradient(transparent, rgba(0, 0, 0, 0.2) 20px, rgba(0, 0, 0, 0.55) 40px, rgb(0, 0, 0) 60px); overflow-y: auto !important; max-height: 100% !important; transition: max-height 0.7s ease-out 0s !important; }
+
+.i-amphtml-lbg-caption-mask { min-height: 1rem; width: 100% !important; position: fixed !important; bottom: 0px !important; pointer-events: all !important; }
+
+[i-amphtml-lbg-caption-state="clip"] + .i-amphtml-lbg-caption-mask { z-index: 1 !important; background: transparent !important; transition: background-color 0.5s ease-out 0s !important; }
+
+[i-amphtml-lbg-caption-state="expand"] + .i-amphtml-lbg-caption-mask { background-color: rgba(0, 0, 0, 0.4) !important; top: 0px !important; z-index: 0 !important; transition: background-color 0.4s ease-in 0s !important; }
+
+.i-amphtml-lbg[gallery-view] .i-amphtml-lbg-caption { display: none; }
+
+.i-amphtml-lbg-top-bar { background: linear-gradient(rgba(0, 0, 0, 0.3), transparent); position: absolute !important; left: 0px !important; right: 0px !important; top: 0px !important; height: 56px !important; z-index: 1 !important; }
+
+@media (min-width: 1024px) {
+  .i-amphtml-lbg-top-bar { height: 80px !important; }
+}
+
+.i-amphtml-lbg-button { width: 24px; height: 24px; padding: 16px; box-sizing: content-box; position: absolute !important; cursor: pointer !important; }
+
+@media (min-width: 1024px) {
+  .i-amphtml-lbg-button { width: 40px; height: 40px; padding: 20px; }
+}
+
+.i-amphtml-lbg-button::after { content: "" !important; width: 100% !important; height: 100% !important; display: block !important; background-repeat: no-repeat !important; background-position: 50% center !important; }
+
+.i-amphtml-lbg-button[data-action="close"] { top: 0px !important; right: 0px !important; }
+
+.i-amphtml-lbg-button[data-action="close"]::after { background-image: url("data:image/svg+xml;charset=utf-8,<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m6.4 6.4 11.2 11.2zm11.2 0L6.4 17.6z\" stroke=\"%23fff\" stroke-width=\"2\" stroke-linejoin=\"round\"/></svg>"); }
+
+.i-amphtml-lbg-button[data-action="gallery"] { top: 0px !important; left: 0px !important; }
+
+.i-amphtml-lbg-button[data-action="gallery"]::after { background-image: url("data:image/svg+xml;charset=utf-8,<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><g fill=\"%23fff\"><rect x=\"3\" y=\"3\" width=\"6\" height=\"8\" rx=\"1\" ry=\"1\"/><rect x=\"15\" y=\"13\" width=\"6\" height=\"8\" rx=\"1\" ry=\"1\"/><rect x=\"11\" y=\"3\" width=\"10\" height=\"8\" rx=\"1\" ry=\"1\"/><rect x=\"3\" y=\"13\" width=\"10\" height=\"8\" rx=\"1\" ry=\"1\"/></g></svg>"); }
+
+.i-amphtml-lbg-button[data-action="slides"] { display: none; top: 0px !important; left: 0px !important; }
+
+.i-amphtml-lbg-button[data-action="slides"]::after { background-image: url("data:image/svg+xml;charset=utf-8,<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"4\" y=\"4\" width=\"16\" height=\"16\" rx=\"1\" stroke-width=\"2\" stroke=\"%23fff\" fill=\"none\"/><circle fill=\"%23fff\" cx=\"15.5\" cy=\"8.5\" r=\"1.5\"/><path fill=\"%23fff\" d=\"M5 19v-6l3-3 5 5 3-3 3 3v4z\"/></svg>"); }
+
+.i-amphtml-lbg-button[data-action="next"], .i-amphtml-lbg-button[data-action="prev"] { width: 40px; height: 40px; padding: 20px; top: 0px !important; bottom: 0px !important; margin: auto !important; filter: drop-shadow(black 0px 0px 1px) !important; }
+
+.i-amphtml-lbg-button[data-action="next"] { right: 0px !important; left: auto !important; }
+
+.i-amphtml-lbg-button[data-action="next"]::after { background-image: url("data:image/svg+xml;charset=utf-8,<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m10 7.4 4.6 4.6-4.6 4.6\" fill=\"none\" stroke=\"%23fff\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg>"); }
+
+.i-amphtml-lbg-button[data-action="prev"] { right: auto !important; left: 0px !important; }
+
+.i-amphtml-lbg-button[data-action="prev"]::after { background-image: url("data:image/svg+xml;charset=utf-8,<svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14 7.4 9.4 12l4.6 4.6\" fill=\"none\" stroke=\"%23fff\" stroke-width=\"2\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/></svg>"); }
+
+[i-amphtml-lbg-single-item] .i-amphtml-lbg-button[data-action="gallery"], [i-amphtml-lbg-single-item] .i-amphtml-lbg-button[data-action="next"], [i-amphtml-lbg-single-item] .i-amphtml-lbg-button[data-action="prev"] { visibility: hidden !important; }
+
+.i-amphtml-lbg[gallery-view] .i-amphtml-lbg-button[data-action="gallery"], .i-amphtml-lbg[gallery-view] .i-amphtml-lbg-button[data-action="next"], .i-amphtml-lbg[gallery-view] .i-amphtml-lbg-button[data-action="prev"] { display: none !important; }
+
+.i-amphtml-lbg[gallery-view] .i-amphtml-lbg-button[data-action="slides"] { display: block !important; }
+
+[i-amphtml-lbg-fade] { animation-fill-mode: forwards; animation-duration: 400ms; }
+
+[i-amphtml-lbg-fade="in"] { animation-name: fadeIn; }
+
+[i-amphtml-lbg-fade="out"] { animation-name: fadeOut; }
+
+amp-lightbox-gallery[i-amphtml-lbg-fade] { position: relative; z-index: 2147483642; animation-timing-function: cubic-bezier(0.8, 0, 0.2, 1); }
+
+amp-lightbox-gallery .amp-carousel-button { display: none; }
+
+amp-lightbox-gallery amp-carousel { background: transparent !important; }
+
+.i-amphtml-lbg { z-index: 2147483642; position: fixed !important; }
+
+.i-amphtml-lbg, .i-amphtml-lbg-gallery, .i-amphtml-lbg-mask { inset: 0px !important; }
+
+.i-amphtml-lbg-gallery, .i-amphtml-lbg-mask { background-color: rgb(0, 0, 0) !important; position: absolute !important; }
+
+.i-amphtml-lbg-gallery { display: none; top: 56px !important; overflow: auto !important; }
+
+@media (min-width: 1024px) {
+  .i-amphtml-lbg-gallery { top: 80px !important; }
+}
+
+.i-amphtml-lbg-overlay:not([i-amphtml-lbg-fade]) { opacity: 0; visibility: hidden; }
+
+.i-amphtml-lbg-overlay[i-amphtml-lbg-fade="in"] { animation-timing-function: ease-in; }
+
+.i-amphtml-lbg-overlay[i-amphtml-lbg-fade="out"] { animation-timing-function: linear; }
+
+.i-amphtml-lbg[gallery-view] .i-amphtml-lbg-gallery { grid-template-columns: repeat(3, 1fr); padding: 5px; display: grid !important; justify-content: center !important; gap: 5px !important; grid-auto-rows: min-content !important; }
+
+@media (min-width: 1024px) {
+  .i-amphtml-lbg[gallery-view] .i-amphtml-lbg-gallery { grid-template-columns: repeat(4, 249.75px); }
+}
+
+.i-amphtml-lbg-gallery-thumbnail { position: relative !important; padding-top: 100% !important; }
+
+.i-amphtml-lbg-gallery-thumbnail-img { width: 100% !important; height: 100% !important; position: absolute !important; top: 0px !important; object-fit: cover !important; cursor: pointer !important; }
+
+.i-amphtml-lbg-thumbnail-timestamp-container { background-color: rgb(41, 45, 51); color: rgb(255, 255, 255); position: absolute; bottom: 10px; left: 10px; height: 20px; border-radius: 2px; opacity: 0.8; width: 20px; }
+
+.i-amphtml-lbg-thumbnail-timestamp-container.i-amphtml-lbg-has-timestamp { font-size: 12px; padding: 0px 5px 0px 18px; line-height: 1.3rem; width: auto; }
+
+.i-amphtml-lbg-thumbnail-play-icon { background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"%23fff\"><path d=\"M8 5v14l11-7z\"/><path d=\"M0 0h24v24H0z\" fill=\"none\"/></svg>"); height: 16px; width: 16px; position: absolute; left: 2px; bottom: 2px; }
+
+amp-lightbox-gallery .i-amphtml-slide-item > * { height: auto; }
+
+@keyframes fadeIn { 
+  0% { opacity: 0; }
+  100% { opacity: 1; visibility: visible; }
+}
+
+@keyframes fadeOut { 
+  0% { opacity: 1; }
+  100% { opacity: 0; visibility: hidden; }
+}
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-1a74c7c7-8d9f-4e84-a18f-70191643de84@mhtml.blink
+
+@charset "utf-8";
+
+.i-amphtml-loader-background { position: absolute; inset: 0px; background-color: rgb(248, 248, 248); }
+
+.i-amphtml-new-loader { display: inline-block; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 0px; height: 0px; color: rgb(170, 170, 170); }
+
+.i-amphtml-new-loader-size-default, .i-amphtml-new-loader-size-small { width: 72px; height: 72px; }
+
+.i-amphtml-new-loader-logo { transform-origin: center center; opacity: 0; animation-duration: 0.8s; animation-timing-function: ease-in; animation-iteration-count: 1; animation-direction: normal; animation-fill-mode: forwards; animation-play-state: running; animation-name: i-amphtml-new-loader-scale-and-fade-in; animation-delay: calc(0.6s - var(--loader-delay-offset)); }
+
+.i-amphtml-new-loader-size-small .i-amphtml-new-loader-logo { display: none; }
+
+.i-amphtml-new-loader-logo-default { fill: currentcolor; animation-duration: 0.8s; animation-timing-function: ease-out; animation-iteration-count: 1; animation-direction: normal; animation-fill-mode: forwards; animation-play-state: running; animation-name: i-amphtml-new-loader-fade-out; animation-delay: calc(1.8s - var(--loader-delay-offset)); }
+
+.i-amphtml-new-loader-has-shim { color: rgb(255, 255, 255) !important; }
+
+.i-amphtml-new-loader-shim { width: 72px; height: 72px; border-radius: 50%; display: none; transform-origin: center center; opacity: 0; background-color: rgba(0, 0, 0, 0.6); animation-duration: 0.8s; animation-timing-function: ease-in; animation-iteration-count: 1; animation-direction: normal; animation-fill-mode: forwards; animation-play-state: running; animation-name: i-amphtml-new-loader-scale-and-fade-in; animation-delay: calc(0.6s - var(--loader-delay-offset)); }
+
+.i-amphtml-new-loader-size-small .i-amphtml-new-loader-shim { width: 48px; height: 48px; margin: 12px; }
+
+.i-amphtml-new-loader-has-shim .i-amphtml-new-loader-shim { display: initial; }
+
+.i-amphtml-new-loader-has-shim .i-amphtml-new-loader-logo-default { display: none; }
+
+.i-amphtml-new-loader-has-shim .i-amphtml-new-loader-transparent-on-shim { fill: transparent !important; }
+
+.i-amphtml-new-loader-logo, .i-amphtml-new-loader-shim, .i-amphtml-new-loader-spinner-wrapper { position: absolute; inset: 0px; }
+
+.i-amphtml-new-loader-spinner-wrapper { margin: 12px; }
+
+.i-amphtml-new-loader-spinner { stroke: currentcolor; stroke-width: 1.5px; opacity: 0; animation-duration: 0.8s; animation-timing-function: ease-in; animation-iteration-count: 1; animation-direction: normal; animation-fill-mode: forwards; animation-play-state: running; animation-name: i-amphtml-new-loader-fade-in; animation-delay: calc(1.8s - var(--loader-delay-offset)); }
+
+.i-amphtml-new-loader-spinner-path { animation-duration: 0.6s, 1.2s; animation-timing-function: steps(30), steps(59); animation-iteration-count: 1, infinite; animation-direction: normal, normal; animation-fill-mode: none, none; animation-play-state: running, running; animation-name: frame-position-first-spin, frame-position-infinite-spin; animation-delay: calc(2.8s - var(--loader-delay-offset)),calc(3.4s - var(--loader-delay-offset)); }
+
+.i-amphtml-new-loader-size-small .i-amphtml-new-loader-spinner { transform: scale(0.54545); stroke-width: 2.75px; }
+
+.i-amphtml-new-loader-size-small .i-amphtml-new-loader-spinner-path { animation-delay: calc(1.4s - var(--loader-delay-offset)),calc(2s - var(--loader-delay-offset)); }
+
+.i-amphtml-new-loader * { animation-play-state: paused; }
+
+.amp-active > .i-amphtml-new-loader * { animation-play-state: running; }
+
+.i-amphtml-new-loader-ad-logo { display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; }
+
+.i-amphtml-new-loader-ad-label { color: currentcolor !important; font-family: sans-serif !important; font-feature-settings: initial !important; font-kerning: initial !important; font-optical-sizing: initial !important; font-size: 11px !important; font-stretch: initial !important; font-style: initial !important; font-synthesis: initial !important; font-variant: initial !important; font-variation-settings: initial !important; font-weight: initial !important; forced-color-adjust: initial !important; text-orientation: initial !important; text-rendering: initial !important; -webkit-font-smoothing: initial !important; -webkit-locale: initial !important; -webkit-text-orientation: initial !important; -webkit-writing-mode: initial !important; writing-mode: initial !important; zoom: initial !important; accent-color: initial !important; place-content: initial !important; place-items: initial !important; place-self: initial !important; alignment-baseline: initial !important; animation: initial !important; app-region: initial !important; appearance: initial !important; aspect-ratio: initial !important; backdrop-filter: initial !important; backface-visibility: initial !important; background: initial !important; background-blend-mode: initial !important; baseline-shift: initial !important; block-size: initial !important; border-block: initial !important; border: 1px solid !important; border-radius: 2px !important; border-collapse: initial !important; border-end-end-radius: initial !important; border-end-start-radius: initial !important; border-inline: initial !important; border-start-end-radius: initial !important; border-start-start-radius: initial !important; inset: initial !important; box-shadow: initial !important; box-sizing: initial !important; break-after: initial !important; break-before: initial !important; break-inside: initial !important; buffered-rendering: initial !important; caption-side: initial !important; caret-color: initial !important; clear: initial !important; clip: initial !important; clip-path: initial !important; clip-rule: initial !important; color-interpolation: initial !important; color-interpolation-filters: initial !important; color-rendering: initial !important; color-scheme: initial !important; columns: initial !important; column-fill: initial !important; gap: initial !important; column-rule: initial !important; column-span: initial !important; contain: initial !important; contain-intrinsic-block-size: initial !important; contain-intrinsic-size: initial !important; contain-intrinsic-inline-size: initial !important; content: initial !important; content-visibility: initial !important; counter-increment: initial !important; counter-reset: initial !important; counter-set: initial !important; cursor: initial !important; cx: initial !important; cy: initial !important; d: initial !important; display: inline-block !important; dominant-baseline: initial !important; empty-cells: initial !important; fill: initial !important; fill-opacity: initial !important; fill-rule: initial !important; filter: initial !important; flex: initial !important; flex-flow: initial !important; float: initial !important; flood-color: initial !important; flood-opacity: initial !important; grid: initial !important; grid-area: initial !important; height: initial !important; hyphens: initial !important; image-orientation: initial !important; image-rendering: initial !important; inline-size: initial !important; inset-block: initial !important; inset-inline: initial !important; isolation: initial !important; letter-spacing: initial !important; lighting-color: initial !important; line-break: initial !important; line-height: 1.1 !important; list-style: initial !important; margin-block: initial !important; margin: initial !important; margin-inline: initial !important; marker: initial !important; mask: initial !important; mask-type: initial !important; max-block-size: initial !important; max-height: initial !important; max-inline-size: initial !important; max-width: initial !important; min-block-size: initial !important; min-height: initial !important; min-inline-size: initial !important; min-width: initial !important; mix-blend-mode: initial !important; object-fit: initial !important; object-position: initial !important; offset: initial !important; opacity: initial !important; order: initial !important; origin-trial-test-property: initial !important; orphans: initial !important; outline: initial !important; outline-offset: initial !important; overflow-anchor: initial !important; overflow-clip-margin: initial !important; overflow-wrap: initial !important; overflow: initial !important; overscroll-behavior-block: initial !important; overscroll-behavior-inline: initial !important; overscroll-behavior: initial !important; padding-block: initial !important; padding: 0px 0.4ch !important; padding-inline: initial !important; page: initial !important; page-orientation: initial !important; paint-order: initial !important; perspective: initial !important; perspective-origin: initial !important; pointer-events: initial !important; position: initial !important; quotes: initial !important; r: initial !important; resize: initial !important; ruby-position: initial !important; rx: initial !important; ry: initial !important; scroll-behavior: initial !important; scroll-margin-block: initial !important; scroll-margin: initial !important; scroll-margin-inline: initial !important; scroll-padding-block: initial !important; scroll-padding: initial !important; scroll-padding-inline: initial !important; scroll-snap-align: initial !important; scroll-snap-stop: initial !important; scroll-snap-type: initial !important; scrollbar-gutter: initial !important; shape-image-threshold: initial !important; shape-margin: initial !important; shape-outside: initial !important; shape-rendering: initial !important; size: initial !important; speak: initial !important; stop-color: initial !important; stop-opacity: initial !important; stroke: initial !important; stroke-dasharray: initial !important; stroke-dashoffset: initial !important; stroke-linecap: initial !important; stroke-linejoin: initial !important; stroke-miterlimit: initial !important; stroke-opacity: initial !important; stroke-width: initial !important; tab-size: initial !important; table-layout: initial !important; text-align: initial !important; text-align-last: initial !important; text-anchor: initial !important; text-combine-upright: initial !important; text-decoration: initial !important; text-decoration-skip-ink: initial !important; text-indent: initial !important; text-overflow: initial !important; text-shadow: initial !important; text-size-adjust: initial !important; text-transform: initial !important; text-underline-offset: initial !important; text-underline-position: initial !important; touch-action: initial !important; transform: initial !important; transform-box: initial !important; transform-origin: initial !important; transform-style: initial !important; transition: initial !important; user-select: initial !important; vector-effect: initial !important; vertical-align: initial !important; visibility: inherit !important; border-spacing: initial !important; -webkit-border-image: initial !important; -webkit-box-align: initial !important; -webkit-box-decoration-break: initial !important; -webkit-box-direction: initial !important; -webkit-box-flex: initial !important; -webkit-box-ordinal-group: initial !important; -webkit-box-orient: initial !important; -webkit-box-pack: initial !important; -webkit-box-reflect: initial !important; -webkit-highlight: initial !important; -webkit-hyphenate-character: initial !important; -webkit-line-break: initial !important; -webkit-line-clamp: initial !important; -webkit-mask-box-image: initial !important; -webkit-mask: initial !important; -webkit-mask-composite: initial !important; -webkit-perspective-origin-x: initial !important; -webkit-perspective-origin-y: initial !important; -webkit-print-color-adjust: initial !important; -webkit-rtl-ordering: initial !important; -webkit-ruby-position: initial !important; -webkit-tap-highlight-color: initial !important; -webkit-text-combine: initial !important; -webkit-text-decorations-in-effect: initial !important; -webkit-text-emphasis: initial !important; -webkit-text-emphasis-position: initial !important; -webkit-text-fill-color: initial !important; -webkit-text-security: initial !important; -webkit-text-stroke: initial !important; -webkit-transform-origin-x: initial !important; -webkit-transform-origin-y: initial !important; -webkit-transform-origin-z: initial !important; -webkit-user-drag: initial !important; -webkit-user-modify: initial !important; white-space: initial !important; widows: initial !important; width: initial !important; will-change: initial !important; word-break: initial !important; word-spacing: initial !important; x: initial !important; y: initial !important; z-index: initial !important; }
+
+@keyframes i-amphtml-new-loader-fade-in { 
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes i-amphtml-new-loader-fade-out { 
+  0% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+@keyframes i-amphtml-new-loader-scale-and-fade-in { 
+  0% { opacity: 0; transform: scale(0); }
+  50% { transform: scale(1); }
+  100% { opacity: 1; }
+}
+
+@keyframes frame-position-first-spin { 
+  0% { transform: translateX(0px); }
+  100% { transform: translateX(-1440px); }
+}
+
+@keyframes frame-position-infinite-spin { 
+  0% { transform: translateX(-1440px); }
+  100% { transform: translateX(-4272px); }
+}
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-d1a6b727-2f17-4d91-b3bc-05539ef09bcb@mhtml.blink
+
+@charset "utf-8";
+
+#amp-mobile-version-switcher { left: 0px; position: absolute; width: 100%; z-index: 100; }
+
+#amp-mobile-version-switcher > a { background-color: rgb(68, 68, 68); border: 0px; color: rgb(234, 234, 234); display: block; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: 16px; font-weight: 600; padding: 15px 0px; text-align: center; text-decoration: none; }
+
+#amp-mobile-version-switcher > a:active, #amp-mobile-version-switcher > a:focus, #amp-mobile-version-switcher > a:hover { text-decoration: underline; }
+
+.wp-block-code code { display: block; white-space: pre-wrap; overflow-wrap: break-word; }
+
+h1, h2 { overflow-wrap: break-word; }
+
+.wp-block-image { margin: 0px 0px 1em; }
+
+.wp-block-image amp-img { vertical-align: bottom; }
+
+.wp-block-image:not(.is-style-rounded) > a, .wp-block-image:not(.is-style-rounded) amp-img { border-radius: inherit; }
+
+.wp-block-image figure { margin: 0px; }
+
+p { overflow-wrap: break-word; }
+
+:where(p.has-text-color:not(.has-link-color)) a { color: inherit; }
+
+:root { --wp--preset--font-size--normal:16px; --wp--preset--font-size--huge:42px; }
+
+.has-text-align-center { text-align: center; }
+
+html :where(amp-img), html :where(amp-anim) { height: auto; max-width: 100%; }
+
+.wp-block-code > code { font-family: Menlo, Consolas, monaco, monospace; color: rgb(30, 30, 30); padding: 0.8em 1em; border: 1px solid rgb(221, 221, 221); border-radius: 4px; }
+
+@-webkit-keyframes a { 
+  100% { transform: rotate(1turn); }
+}
+
+@keyframes a { 
+  100% { transform: rotate(1turn); }
+}
+
+@-webkit-keyframes b { 
+  0% { background-position: 0px 0px; }
+  100% { background-position: 30px 0px; }
+}
+
+@keyframes b { 
+  0% { background-position: 0px 0px; }
+  100% { background-position: 30px 0px; }
+}
+
+amp-img.amp-wp-enforced-sizes { object-fit: contain; }
+
+amp-img img, amp-img noscript { image-rendering: inherit; object-fit: inherit; object-position: inherit; }
+
+.amp-wp-enforced-sizes { max-width: 100%; margin: 0px auto; }
+
+html { background: rgb(10, 137, 192); }
+
+body { background: rgb(255, 255, 255); color: rgb(53, 53, 53); font-family: Georgia, "Times New Roman", Times, serif; font-weight: 300; line-height: 1.75em; }
+
+p, figure { margin: 0px 0px 1em; padding: 0px; }
+
+a, a:visited { color: rgb(10, 137, 192); }
+
+a:hover, a:active, a:focus { color: rgb(53, 53, 53); }
+
+.amp-wp-meta, .amp-wp-header div, .amp-wp-title, .amp-wp-tax-category, .amp-wp-tax-tag, .amp-wp-comments-link, .amp-wp-footer p, .back-to-top { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; }
+
+.amp-wp-header { background-color: rgb(10, 137, 192); }
+
+.amp-wp-header div { color: rgb(255, 255, 255); font-size: 1em; font-weight: 400; margin: 0px auto; max-width: calc(808px); padding: 0.875em 16px; position: relative; }
+
+.amp-wp-header a { color: rgb(255, 255, 255); text-decoration: none; }
+
+.amp-wp-header .amp-wp-site-icon { background-color: rgb(255, 255, 255); border: 1px solid rgb(255, 255, 255); border-radius: 50%; position: absolute; right: 18px; top: 10px; }
+
+.amp-wp-article { color: rgb(53, 53, 53); font-weight: 400; margin: 1.5em auto; max-width: 840px; overflow-wrap: break-word; }
+
+.amp-wp-article-header { align-items: center; place-content: stretch space-between; display: flex; flex-wrap: wrap; margin: 1.5em 16px 0px; }
+
+.amp-wp-title { color: rgb(53, 53, 53); display: block; flex: 1 0 100%; font-weight: 900; margin: 0px 0px 0.625em; width: 100%; }
+
+.amp-wp-meta { color: rgb(105, 105, 105); display: inline-block; flex: 2 1 50%; font-size: 0.875em; line-height: 1.5em; margin: 0px 0px 1.5em; padding: 0px; }
+
+.amp-wp-article-header .amp-wp-meta:last-of-type { text-align: right; }
+
+.amp-wp-article-header .amp-wp-meta:first-of-type { text-align: left; }
+
+.amp-wp-byline amp-img, .amp-wp-byline .amp-wp-author { display: inline-block; vertical-align: middle; }
+
+.amp-wp-byline amp-img { border: 1px solid rgb(10, 137, 192); border-radius: 50%; position: relative; margin-right: 6px; }
+
+.amp-wp-posted-on { text-align: right; }
+
+.amp-wp-article-featured-image { margin: 0px 0px 1em; }
+
+.amp-wp-article-featured-image amp-img { margin: 0px auto; }
+
+.amp-wp-article-content { margin: 0px 16px; }
+
+.amp-wp-article-content .wp-caption { max-width: 100%; }
+
+.amp-wp-article-content amp-img { margin: 0px auto; }
+
+.wp-caption { padding: 0px; }
+
+.amp-wp-article-footer .amp-wp-meta { display: block; }
+
+.amp-wp-tax-category, .amp-wp-tax-tag { color: rgb(105, 105, 105); font-size: 0.875em; line-height: 1.5em; margin: 1.5em 16px; }
+
+.amp-wp-comments-link { color: rgb(105, 105, 105); font-size: 0.875em; line-height: 1.5em; text-align: center; margin: 2.25em 0px 1.5em; }
+
+.amp-wp-comments-link a { border-style: solid; border-color: rgb(194, 194, 194); border-width: 1px 1px 2px; border-radius: 4px; background-color: transparent; color: rgb(10, 137, 192); cursor: pointer; display: block; font-size: 14px; font-weight: 600; line-height: 18px; margin: 0px auto; max-width: 200px; padding: 11px 16px; text-decoration: none; width: 50%; transition: background-color 0.2s ease 0s; }
+
+.amp-wp-footer { border-top: 1px solid rgb(194, 194, 194); margin: calc(1.5em - 1px) 0px 0px; }
+
+.amp-wp-footer div { margin: 0px auto; max-width: calc(808px); padding: 1.25em 16px; position: relative; }
+
+.amp-wp-footer h2 { font-size: 1em; line-height: 1.375em; margin: 0px 0px 0.5em; }
+
+.amp-wp-footer p { color: rgb(105, 105, 105); font-size: 0.8em; line-height: 1.5em; margin: 0px 85px 0px 0px; }
+
+.amp-wp-footer a { text-decoration: none; }
+
+.back-to-top { bottom: 1.275em; font-size: 0.8em; font-weight: 600; line-height: 2em; position: absolute; right: 16px; }
+
+.saboxplugin-wrap .saboxplugin-gravatar { float: left; padding: 0px 20px 20px; }
+
+.saboxplugin-wrap .saboxplugin-gravatar amp-img { max-width: 100px; height: auto; }
+
+.saboxplugin-wrap .saboxplugin-authorname { font-size: 18px; line-height: 1; margin: 20px 0px 0px 20px; display: block; }
+
+.saboxplugin-wrap .saboxplugin-authorname a { text-decoration: none; }
+
+.saboxplugin-wrap .saboxplugin-desc { display: block; margin: 5px 20px; }
+
+.saboxplugin-wrap .saboxplugin-desc a { text-decoration: none; }
+
+.saboxplugin-wrap .saboxplugin-desc p { margin: 5px 0px 12px; font-size: 14px; line-height: 21px; }
+
+.saboxplugin-wrap .saboxplugin-socials { position: relative; display: block; background: rgb(252, 252, 252); padding: 5px; border-top: 1px solid rgb(238, 238, 238); }
+
+.saboxplugin-wrap .saboxplugin-socials a { text-decoration: none; box-shadow: none; padding: 0px; margin: 0px; border: 0px; transition: opacity 0.4s ease 0s; display: inline-block; }
+
+.saboxplugin-wrap .saboxplugin-socials a svg { width: 36px; height: 36px; display: block; }
+
+.saboxplugin-wrap .saboxplugin-socials.sabox-colored .saboxplugin-icon-color { color: rgb(255, 255, 255); margin: 5px; vertical-align: middle; display: inline-block; }
+
+.saboxplugin-wrap .clearfix { clear: both; }
+
+.saboxplugin-wrap .saboxplugin-socials a svg .st2 { fill: rgb(255, 255, 255); }
+
+.saboxplugin-wrap .saboxplugin-socials a svg .st1 { fill: rgba(0, 0, 0, 0.3); }
+
+.saboxplugin-wrap { margin-top: 0px; margin-bottom: 0px; padding: 0px; box-sizing: border-box; border: 1px solid rgb(238, 238, 238); width: 100%; clear: both; overflow: hidden; overflow-wrap: break-word; position: relative; }
+
+.saboxplugin-wrap .saboxplugin-socials .saboxplugin-icon-color .st1 { display: none; }
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://translate.googleapis.com/translate_static/css/translateelement.css
+
+@charset "utf-8";
+
+.goog-te-banner-frame { left: 0px; top: 0px; height: 39px; width: 100%; z-index: 10000001; position: fixed; border-top: none; border-right: none; border-left: none; border-image: initial; border-bottom: 1px solid rgb(107, 144, 218); margin: 0px; box-shadow: rgb(153, 153, 153) 0px 0px 8px 1px; }
+
+.goog-te-menu-frame { z-index: 10000002; position: fixed; border: none; box-shadow: rgb(153, 153, 153) 0px 3px 8px 2px; }
+
+.goog-te-ftab-frame { z-index: 10000000; border: none; margin: 0px; }
+
+.goog-te-gadget { font-family: arial; font-size: 11px; color: rgb(102, 102, 102); white-space: nowrap; }
+
+.goog-te-gadget img { vertical-align: middle; border: none; }
+
+.goog-te-gadget-simple { background-color: rgb(255, 255, 255); border-width: 1px; border-style: solid; border-color: rgb(155, 155, 155) rgb(213, 213, 213) rgb(232, 232, 232); font-size: 10pt; display: inline-block; padding-top: 1px; padding-bottom: 2px; cursor: pointer; zoom: 1; }
+
+.goog-te-gadget-icon { margin-left: 2px; margin-right: 2px; width: 19px; height: 19px; border: none; vertical-align: middle; }
+
+.goog-te-combo { margin-left: 4px; margin-right: 4px; vertical-align: baseline; }
+
+.goog-te-gadget .goog-te-combo { margin: 4px 0px; }
+
+.goog-logo-link, .goog-logo-link:link, .goog-logo-link:visited, .goog-logo-link:hover, .goog-logo-link:active { font-size: 12px; font-weight: bold; color: rgb(68, 68, 68); text-decoration: none; }
+
+.goog-te-banner .goog-logo-link, .goog-close-link { display: block; margin: 0px 10px; }
+
+.goog-te-banner .goog-logo-link { padding-top: 2px; padding-left: 4px; }
+
+.goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-te-menu2 *, .goog-te-balloon * { font-family: arial; font-size: 10pt; }
+
+.goog-te-banner { margin: 0px; background-color: rgb(228, 239, 251); overflow: hidden; }
+
+.goog-te-banner img { border: none; }
+
+.goog-te-banner-content { color: rgb(0, 0, 0); }
+
+.goog-te-banner-content img { vertical-align: middle; }
+
+.goog-te-banner-info { color: rgb(102, 102, 102); vertical-align: top; margin-top: 0px; font-size: 7pt; }
+
+.goog-te-banner-margin { width: 8px; }
+
+.goog-te-button { border-color: rgb(231, 231, 231); border-style: none solid solid none; border-width: 0px 1px 1px 0px; }
+
+.goog-te-button div { border-color: rgb(204, 204, 204) rgb(153, 153, 153) rgb(153, 153, 153) rgb(204, 204, 204); border-style: solid; border-width: 1px; height: 20px; }
+
+.goog-te-button button { background: transparent; border: none; cursor: pointer; height: 20px; overflow: hidden; margin: 0px; vertical-align: top; white-space: nowrap; }
+
+.goog-te-button button:active { background: none 0px 0px repeat scroll rgb(204, 204, 204); }
+
+.goog-te-ftab { margin: 0px; background-color: rgb(255, 255, 255); white-space: nowrap; }
+
+.goog-te-ftab-link { text-decoration: none; font-weight: bold; font-size: 10pt; border: 1px outset rgb(136, 136, 136); padding: 6px 10px; white-space: nowrap; position: absolute; left: 0px; top: 0px; }
+
+.goog-te-ftab-link img { margin-left: 2px; margin-right: 2px; width: 19px; height: 19px; border: none; vertical-align: middle; }
+
+.goog-te-ftab-link span { text-decoration: underline; margin-left: 2px; margin-right: 2px; vertical-align: middle; }
+
+.goog-float-top .goog-te-ftab-link { padding: 2px; border-top-width: 0px; }
+
+.goog-float-bottom .goog-te-ftab-link { padding: 2px; border-bottom-width: 0px; }
+
+.goog-te-menu-value { text-decoration: none; color: rgb(0, 0, 204); white-space: nowrap; margin-left: 4px; margin-right: 4px; }
+
+.goog-te-menu-value span { text-decoration: underline; }
+
+.goog-te-menu-value img { margin-left: 2px; margin-right: 2px; }
+
+.goog-te-gadget-simple .goog-te-menu-value { color: rgb(0, 0, 0); }
+
+.goog-te-gadget-simple .goog-te-menu-value span { text-decoration: none; }
+
+.goog-te-menu { background-color: rgb(255, 255, 255); text-decoration: none; border: 2px solid rgb(195, 217, 255); overflow: hidden scroll; position: absolute; left: 0px; top: 0px; }
+
+.goog-te-menu-item { padding: 3px; text-decoration: none; }
+
+.goog-te-menu-item, .goog-te-menu-item:link { color: rgb(0, 0, 204); background: rgb(255, 255, 255); }
+
+.goog-te-menu-item:visited { color: rgb(85, 26, 139); }
+
+.goog-te-menu-item:hover { background: rgb(195, 217, 255); }
+
+.goog-te-menu-item:active { color: rgb(0, 0, 204); }
+
+.goog-te-menu2 { background-color: rgb(255, 255, 255); text-decoration: none; border: 1px solid rgb(107, 144, 218); overflow: hidden; padding: 4px; }
+
+.goog-te-menu2-colpad { width: 16px; }
+
+.goog-te-menu2-separator { margin: 6px 0px; height: 1px; background-color: rgb(170, 170, 170); overflow: hidden; }
+
+.goog-te-menu2-item div, .goog-te-menu2-item-selected div { padding: 4px; }
+
+.goog-te-menu2-item .indicator { display: none; }
+
+.goog-te-menu2-item-selected .indicator { }
+
+.goog-te-menu2-item-selected .text { padding-left: 4px; padding-right: 4px; }
+
+.goog-te-menu2-item, .goog-te-menu2-item-selected { text-decoration: none; }
+
+.goog-te-menu2-item div, .goog-te-menu2-item:link div, .goog-te-menu2-item:visited div, .goog-te-menu2-item:active div { color: rgb(0, 0, 204); background: rgb(255, 255, 255); }
+
+.goog-te-menu2-item:hover div { color: rgb(255, 255, 255); background: rgb(51, 102, 204); }
+
+.goog-te-menu2-item-selected div, .goog-te-menu2-item-selected:link div, .goog-te-menu2-item-selected:visited div, .goog-te-menu2-item-selected:hover div, .goog-te-menu2-item-selected:active div { color: rgb(0, 0, 0); font-weight: bold; }
+
+.goog-te-balloon { background-color: rgb(255, 255, 255); overflow: hidden; padding: 8px; border: none; border-radius: 10px; }
+
+.goog-te-balloon-frame { background-color: rgb(255, 255, 255); border: 1px solid rgb(107, 144, 218); box-shadow: rgb(153, 153, 153) 0px 3px 8px 2px; border-radius: 8px; }
+
+.goog-te-balloon img { border: none; }
+
+.goog-te-balloon-text { margin-top: 6px; }
+
+.goog-te-balloon-zippy { margin-top: 6px; white-space: nowrap; }
+
+.goog-te-balloon-zippy * { vertical-align: middle; }
+
+.goog-te-balloon-zippy .minus { background-image: url("//www.google.com/images/zippy_minus_sm.gif"); }
+
+.goog-te-balloon-zippy .plus { background-image: url("//www.google.com/images/zippy_plus_sm.gif"); }
+
+.goog-te-balloon-zippy span { color: rgb(0, 0, 204); text-decoration: underline; cursor: pointer; margin: 0px 4px; }
+
+.goog-te-balloon-form { margin: 6px 0px 0px; }
+
+.goog-te-balloon-form form { margin: 0px; }
+
+.goog-te-balloon-form form textarea { margin-bottom: 4px; width: 100%; }
+
+.goog-te-balloon-footer { margin: 6px 0px 4px; }
+
+.goog-te-spinner-pos { z-index: 1000; position: fixed; transition-delay: 0.6s; left: -1000px; top: -1000px; }
+
+.goog-te-spinner-animation { display: flex; align-items: center; justify-content: center; width: 104px; height: 104px; border-radius: 50px; background: url("//www.gstatic.com/images/branding/product/2x/translate_24dp.png") 50% 50% no-repeat rgb(255, 255, 255); transition: all 0.6s ease-in-out 0s; transform: scale(0.4); opacity: 0; }
+
+.goog-te-spinner-animation-show { transform: scale(0.5); opacity: 1; }
+
+.goog-te-spinner { margin: 2px 0px 0px 2px; animation: 1.4s linear 0s infinite normal none running goog-te-spinner-rotator; }
+
+@keyframes goog-te-spinner-rotator { 
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(270deg); }
+}
+
+.goog-te-spinner-path { stroke-dasharray: 187; stroke-dashoffset: 0; stroke: rgb(66, 133, 244); transform-origin: center center; animation: 1.4s ease-in-out 0s infinite normal none running goog-te-spinner-dash; }
+
+@keyframes goog-te-spinner-dash { 
+  0% { stroke-dashoffset: 187; }
+  50% { stroke-dashoffset: 46.75; transform: rotate(135deg); }
+  100% { stroke-dashoffset: 187; transform: rotate(450deg); }
+}
+
+#goog-gt-tt html, #goog-gt-tt body, #goog-gt-tt div, #goog-gt-tt span, #goog-gt-tt iframe, #goog-gt-tt h1, #goog-gt-tt h2, #goog-gt-tt h3, #goog-gt-tt h4, #goog-gt-tt h5, #goog-gt-tt h6, #goog-gt-tt p, #goog-gt-tt a, #goog-gt-tt img, #goog-gt-tt ol, #goog-gt-tt ul, #goog-gt-tt li, #goog-gt-tt table, #goog-gt-tt form, #goog-gt-tt tbody, #goog-gt-tt tr, #goog-gt-tt td { margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; font-family: inherit; vertical-align: baseline; text-align: left; line-height: normal; }
+
+#goog-gt-tt ol, #goog-gt-tt ul { list-style: none; }
+
+#goog-gt-tt table { border-collapse: collapse; border-spacing: 0px; }
+
+#goog-gt-tt caption, #goog-gt-tt th, #goog-gt-tt td { text-align: left; font-weight: normal; }
+
+div#goog-gt-tt { padding: 10px 14px; }
+
+#goog-gt-tt { color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); border: 1px solid rgb(238, 238, 238); box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 16px; display: none; font-family: arial; font-size: 10pt; width: 420px; padding: 12px; position: absolute; z-index: 10000; }
+
+#goog-gt-tt .original-text, .gt-hl-layer { clear: both; font-size: 10pt; position: relative; text-align: justify; width: 100%; }
+
+#goog-gt-tt .title { color: rgb(153, 153, 153); font-family: arial, sans-serif; margin: 4px 0px; text-align: left; }
+
+#goog-gt-tt .close-button { display: none; }
+
+#goog-gt-tt .logo { float: left; margin: 0px; }
+
+#goog-gt-tt .activity-links { display: inline-block; }
+
+#goog-gt-tt .started-activity-container { display: none; width: 100%; }
+
+#goog-gt-tt .activity-root { margin-top: 20px; }
+
+#goog-gt-tt .left { float: left; }
+
+#goog-gt-tt .right { float: right; }
+
+#goog-gt-tt .bottom { min-height: 15px; position: relative; height: 1%; }
+
+#goog-gt-tt .status-message { background: rgb(41, 145, 13); border-radius: 4px; box-shadow: rgb(30, 102, 9) 0px 2px 2px inset; color: white; font-size: 9pt; font-weight: bolder; margin-top: 12px; padding: 6px; text-shadow: rgb(30, 102, 9) 1px 1px 1px; }
+
+#goog-gt-tt .activity-link { color: rgb(17, 85, 204); cursor: pointer; font-family: arial; font-size: 11px; margin-right: 15px; text-decoration: none; }
+
+#goog-gt-tt textarea { font-family: arial; resize: vertical; width: 100%; margin-bottom: 10px; border-radius: 1px; border-width: 1px; border-style: solid; border-color: silver rgb(217, 217, 217) rgb(217, 217, 217); border-image: initial; font-size: 13px; height: auto; overflow-y: auto; padding: 1px; }
+
+#goog-gt-tt textarea:focus { box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px inset; border: 1px solid rgb(77, 144, 254); outline: none; }
+
+#goog-gt-tt .activity-cancel { margin-right: 10px; }
+
+#goog-gt-tt .translate-form { min-height: 25px; vertical-align: middle; padding-top: 8px; }
+
+#goog-gt-tt .translate-form .activity-form { margin-bottom: 0px; }
+
+#goog-gt-tt .translate-form .activity-form input { display: inline-block; min-width: 54px; border: 1px solid rgba(0, 0, 0, 0.1); text-align: center; color: rgb(68, 68, 68); font-size: 11px; font-weight: bold; height: 27px; outline: 0px; padding: 0px 8px; vertical-align: middle; line-height: 27px; margin: 0px 16px 0px 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px; border-radius: 2px; transition: all 0.218s ease 0s; background-color: rgb(245, 245, 245); background-image: -webkit-linear-gradient(top, rgb(245, 245, 245), rgb(241, 241, 241)); user-select: none; cursor: default; }
+
+#goog-gt-tt .translate-form .activity-form input:hover { border: 1px solid rgb(198, 198, 198); color: rgb(34, 34, 34); transition: all 0s ease 0s; background-color: rgb(248, 248, 248); background-image: -webkit-linear-gradient(top, rgb(248, 248, 248), rgb(241, 241, 241)); }
+
+#goog-gt-tt .translate-form .activity-form input:active { border: 1px solid rgb(198, 198, 198); color: rgb(51, 51, 51); background-color: rgb(246, 246, 246); background-image: -webkit-linear-gradient(top, rgb(246, 246, 246), rgb(241, 241, 241)); }
+
+#goog-gt-tt .translate-form .activity-form input:focus, #goog-gt-tt .translate-form .activity-form input.focus { outline: none; border: 1px solid rgb(77, 144, 254); z-index: 4 !important; }
+
+#goog-gt-tt .translate-form .activity-form input.selected { background-color: rgb(238, 238, 238); background-image: -webkit-linear-gradient(top, rgb(238, 238, 238), rgb(224, 224, 224)); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px inset; border: 1px solid rgb(204, 204, 204); color: rgb(51, 51, 51); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit { color: white; border-color: rgb(48, 121, 237); background-color: rgb(77, 144, 254); background-image: -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(71, 135, 237)); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit:hover #goog-gt-tt .translate-form .activity-form input.activity-submit:focus, #goog-gt-tt .translate-form .activity-form input.activity-submit.focus #goog-gt-tt .translate-form .activity-form input.activity-submit:active { border-color: rgb(48, 121, 237); background-color: rgb(53, 122, 232); background-image: -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(53, 122, 232)); }
+
+#goog-gt-tt .translate-form .activity-form input.activity-submit:hover { box-shadow: rgb(255, 255, 255) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.1) 0px 1px 1px; }
+
+#goog-gt-tt .translate-form .activity-form input:focus, #goog-gt-tt .translate-form .activity-form input.focus, #goog-gt-tt .translate-form .activity-form input:active, #goog-gt-tt .translate-form .activity-form input:hover, #goog-gt-tt .translate-form .activity-form input.activity-submit:focus, #goog-gt-tt .translate-form .activity-form input.activity-submit.focus, #goog-gt-tt .translate-form .activity-form input.activity-submit:active, #goog-gt-tt .translate-form .activity-form input.activity-submit:hover { border-color: rgb(48, 121, 237); }
+
+#goog-gt-tt .gray { color: rgb(153, 153, 153); font-family: arial, sans-serif; }
+
+#goog-gt-tt .alt-helper-text { color: rgb(153, 153, 153); font-size: 11px; font-family: arial, sans-serif; margin: 15px 0px 5px; }
+
+#goog-gt-tt .alt-error-text { color: rgb(136, 0, 0); display: none; font-size: 9pt; }
+
+.goog-text-highlight { background-color: rgb(201, 215, 241); box-shadow: rgb(153, 153, 170) 2px 2px 4px; box-sizing: border-box; position: relative; }
+
+#goog-gt-tt .alt-menu.goog-menu { background: rgb(255, 255, 255); border: 1px solid rgb(221, 221, 221); box-shadow: rgb(153, 153, 170) 0px 2px 4px; min-width: 0px; outline: none; padding: 0px; position: absolute; z-index: 2000; }
+
+#goog-gt-tt .alt-menu .goog-menuitem { cursor: pointer; padding: 2px 5px 5px; margin-right: 0px; border-style: none; }
+
+#goog-gt-tt .alt-menu div.goog-menuitem:hover { background: rgb(221, 221, 221); }
+
+#goog-gt-tt .alt-menu .goog-menuitem h1 { font-size: 100%; font-weight: bold; margin: 4px 0px; }
+
+#goog-gt-tt .alt-menu .goog-menuitem strong { color: rgb(52, 90, 173); }
+
+#goog-gt-tt .goog-submenu-arrow { text-align: right; position: absolute; right: 0px; left: auto; }
+
+#goog-gt-tt .goog-menuitem-rtl .goog-submenu-arrow { text-align: left; position: absolute; left: 0px; right: auto; }
+
+#goog-gt-tt .gt-hl-text, #goog-gt-tt .trans-target-highlight { background-color: rgb(241, 234, 0); border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.5) 3px 3px 4px; box-sizing: border-box; color: rgb(241, 234, 0); cursor: pointer; margin: -2px -2px -2px -3px; padding: 2px 2px 2px 3px; position: relative; }
+
+#goog-gt-tt .trans-target-highlight { color: rgb(34, 34, 34); }
+
+#goog-gt-tt .gt-hl-layer { color: white; position: absolute !important; }
+
+#goog-gt-tt .trans-target, #goog-gt-tt .trans-target .trans-target-highlight { background-color: rgb(201, 215, 241); border-radius: 4px 4px 0px 0px; box-shadow: rgba(0, 0, 0, 0.5) 3px 3px 4px; box-sizing: border-box; cursor: pointer; margin: -2px -2px -2px -3px; padding: 2px 2px 3px 3px; position: relative; }
+
+#goog-gt-tt span:focus { outline: none; }
+
+#goog-gt-tt .trans-edit { background-color: transparent; border: 1px solid rgb(77, 144, 254); border-radius: 0em; margin: -2px; padding: 1px; }
+
+#goog-gt-tt .gt-trans-highlight-l { border-left: 2px solid red; margin-left: -2px; }
+
+#goog-gt-tt .gt-trans-highlight-r { border-right: 2px solid red; margin-right: -2px; }
+
+#goog-gt-tt #alt-input { padding: 2px; }
+
+#goog-gt-tt #alt-input-text { font-size: 11px; padding: 2px 2px 3px; margin: 0px; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); border-width: 1px; border-style: solid; border-color: rgb(192, 192, 192) rgb(217, 217, 217) rgb(217, 217, 217); border-image: initial; display: inline-block; vertical-align: top; height: 21px; box-sizing: border-box; border-radius: 1px; }
+
+#goog-gt-tt #alt-input-text:hover { border-width: 1px; border-style: solid; border-color: rgb(160, 160, 160) rgb(185, 185, 185) rgb(185, 185, 185); border-image: initial; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px inset; }
+
+#goog-gt-tt #alt-input-text:focus { box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px inset; outline: none; border: 1px solid rgb(77, 144, 254); }
+
+#goog-gt-tt #alt-input-submit { font-size: 11px; padding: 2px 6px 3px; margin: 0px 0px 0px 2px; height: 21px; }
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gstatic.com/images/branding/product/2x/translate_24dp.png
+
+‰PNG
+
+   IHDR   0   0   Wù‡  ùIDATxí˜UwÛX€µÏËğ–¡Ìíb™Ÿ–·ÜpbˆSfffæ6Œ¶Ì3oÃ¯wvFÎ(ŠÖr”uğœÍ9_|íÒ÷Is%¥ÒDùúÿ ŞXz cî¢½ù;û„y;˜ÛÏ&#Ìlë÷¶¾…H£ºX¼·sş‚]}‚‰5`aZÛDmŞììukåc˜iï|„H£º I#yB•70Ëß_Eï"Òh¢.Xtä¤º9ˆ4š¨şø0:yÂŞù‘Fua^Ş| Ñ¸ŒKËGb&2;©z"êB/l$Ïs3ú@ËG˜ÙZÒû`åşpºÊEUUƒhni­­aZZZTš››ššš"ÒØØHĞZ®®®Ÿ†HŒº<¡—g´òÌµ‡U¡ 	ÿ÷ ¦²²f"/Œ¥Gg¨£Ï$Ÿ®‚Ü<YTU×“pÌõõND"$^Ì5!¾ø@Ÿ8ù¢äŠNhjë€fÄ]Ù	§ğ³Åû"ËÏB–íi‡Ì,§å€¨ohŒ5€‘‰FâLòõÑØÚ¯;"C¿¶íbOÄ â*Qa‘G!’ù ’4‚ä_¿­lè„Ç®N¸]Ğ¡šğgôºòPoDù™ö1r{¢´´ŒÄX1’! çü§ı}ê‘oÿ»=ëÖ^6i{î÷ÀÒı‘å9`iÿ¹\~†Dyy9	` ÉDàäón>òÊ¬ë¯÷Ú¹7:úÌÕá1òûƒt(‚D†=>„DH¼0
+ KòMxæí,Ï˜‘Ÿ$Â1Ê¥1ò‹P¨T”•©±°˜§€Ü@'èÅ6ôƒâ®ˆKvãeÒùD°?€XµÍ
+k“2À„|l$m&à‰³K/Ï¨cäóÑ…Vn³ÀÊíV ±`IíÍİÉÏ8al·zTö=Ø+Wrºş%?İ†Xû`ŞÖg°ø,Û„Ò[­¾nc¬°:!Ö$î@2å3|ä ÖsB³‰é&Æò*éa<ø})×zXQä‰™)5ğãïXº1°bkš°Vn·¡°C#cÀû.£mx=ò´[ÌÊ,Ÿr£G´¶‡OMSÌÏèeñ06#+Ü8FneŒ´›¹¢¢B!ıø%âÎ³,ıø	WßÈ*èFæì„›x#óVvªŸÓïI¸Òc(Ï‰x5ÊÉu	ÙíÁ`hP€Ûë«ãì°&>Êğ½üğ8¢±…D#CgÀv«{Hybñ®vˆË8K7X`ç©‹ÀÄ.|Ozç‰‹PYYI¢æx¢AãtüY7¸Ê;•MİÜÖ	<ç3»aé^aF˜fí…S7
+Å²VX¶Ù
+™¹ùŠü«Ü±
+÷ "§,( ªªŠ…c˜…éöÌÈ‰'+Áqø"…4ø%m7”È²øÕ²GÙÌG.ß'
+àˆúúúè3ŒEM‰3Fâ,Ïü´³^¾*¬aù–4X—+P~ƒã ”âHq€q„. ibZ?fä§öså¾[<}™'–oáË©Š²2N@¯P]]ÍÆÆÂÆâz¢Ë34FU´ëŞÒp/¤Ár¼©í:y	8€ÑÔÔÔD0–4!ÍØÂhÄäK/Ì±4À÷¿¦ÂªÍ6¸pç‘Xï€±ãäEŠ0¨­­%$Bâ…yicqÆŒ<1%­~Øpî>|¥<b¿Ì)kq/,ß†'.À°ŒÍ‹SûÑˆÊ@vK}ÄÎÌ+ëÊ8í8®œ	m C€Í˜©:†’ÿ†pı^^õ?bÂweŒ(P"èÙÈ~ìp a0ÃÖë2–4/NL±öŠHâË3—ïÉ¢ PôˆÕqüÊ:ú1"$BâÅlKûìX¤Y\K$ù):(&Ay6R~à×?Ü1Ñ˜©ñÕó¦¦¾öMµt
+-S†à›´ó52%µ´|£ãë”…ÍÊ>pÉ´Ê´ü=`´Ø’ø4î³¹7áSŸÌ¹¡òéœ›°9ù	äåãp>Ä¸ÄÙŸôÅ‚; åóùƒÙúró\¢¸Ä+üe3ã@¬ıãEË—‹îÃzŞ‡xÛKÈ/EÊ{<ü³AÔ  $‚¾*I¬ Âòö(ïÅÅı—#O¯B¥FÌØ8>ĞŠqÖç8óayYö	Ÿ?€G?-€û bÍo/ZX>Şög¾D¹y¯ÏG?z ¯9 ´¼BF$‚¾:É¶œ?”#ò9¹Å¢oZN§G‘÷û£ğ{mÀ«ì’ùˆDĞ·Q'Ç(Îò2³òENN‘(((N]6İ
+Æx½ÂçóqAkm ı^ï£§9‰áÅdeòü_ùˆÈ5¿A    IEND®B`‚
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: image/webp
+Content-Transfer-Encoding: binary
+Content-Location: https://maztars.com/wp-content/uploads/2020/03/cropped-maztarslogo-2-32x32.png
+
+RIFF¾  WEBPVP8X
+          ALPH  GÂ m#I7I÷ãO¸Ç"bşó«B¨6-X„åÁ†ø]¡†B¸pË¥¢16EÙ¶Ó6OaffN¹–&½ı¯(()°€ˆş'îNà²ìÃKYà‚è‚»Mæ‘¦Ëı8!`ë}:<xO½(.%ÏWí t¢¾¦Òé )­©q:Êè‚ÚMÊ¤şÍEhNƒmç±¶M“Ç”ÀIzéÑHşWq2 ñ,€ã˜Æó ¹_Z-“ÌĞ¡É{Ñ³ğ¬<T}Iı4Uò‡Z«uÍ¢FıPûº6•ò5¿±¢Â…¡ÙçµäÑš”ı0ò¥û.÷ù ŒãßÜÙ\R˜,Z~\äâŞ   VP8 ˆ  ° *    >Q$E¤¢¡” H¶ N™BAdUû„b$ 6À~€tãú ÿ£¾èå™ìIû9è×rü0bœg¸¨³N—ûObŸŞàyù;ı¸òçç?8~#º¿Y’ûÃd3Dß…OH4,WsJi„º¦BøµKoN€ şÿñ ÇùWª/'ËîïSûa[ø]çĞÇ‡æ¨\¾“Ÿ¥¡â¸üÇ*¦%/Rš­ìxà…şm–Jó+j‡Úïßhùq››ò»€ßİDÃ…}lÕ§?Ùlr}fÍ¥‡òÍ%zß´&o)/6NÉÒ-ÌaY÷˜•C·YƒÏÓétñğy$yXßÿ¥¯¼H×œåı¾ùŒ>	Í¿æ÷]şá(zşïıÊÔ8÷X1û„¤á>Ôå…ş¯ÿ‰MK¥c´àËp]Š»2ßçÈ%• æ¤±æ]ƒ­ SN5¸»6}ä ÂáAcu'Na0ÿŞoş†}T\RB%¡İÇ XøşpÁ™rí~ñ¥Ç=Ø9Éñnk¥÷…/¤e²UhlçOr]Îî{8Òh±dÌ'{†+<“ßsÃP ãíÄQÅ?9Ğãª-cÙ”Ò”¸¨ckxJíóÓä<¿EŸØúÿ¸®¢Dª/şÑ˜å©³}øøÜİÑÌè˜‚ŞÕ"øÜ!¹æòë*6êÑK„+ë'BI¼M¶®y—C?	Ÿÿr!¯—N3&wï‘aó‘ƒNò‘öÎDœ‡ÕéI1/-P¦ÊŞ6-|¿£ó¤²wÉYÖvËöG8šÁ™;/gÈ"=+ófõ€ÊO?Éû9qŠÜ   
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://secure.gravatar.com/avatar/d444b6c5d68fd6c41e9e93e9a8a3801e?s=24&d=mm&r=g
+
+‰PNG
+
+   IHDR         àw=ø   	pHYs  Ä  Ä•+  qIDATHÇ%Ó[og€á÷;ÌÌÎ½Ş¸v—&ÎÑ	RÕ„–R@%@)É $½á‚kÄ?"(B´p‚’Â(	UÚBÕ”¦ih“æè4¯íØ^{wvgæ;q‘ŸğJÏ+~üâµ µ§Z×$5AÃ«*m†Hi
+SÚ“
+k<Î
+¶Öã“š@ÉzoAßĞLÍT¹}uÈÆRŒ3	ÖFèç¾Sck¥äè"\|g™K—J&OLó¹IA¾iyıÕ.'¾ş6}d#›äÂ¹/÷îô˜Ø~€×^¹Æ7_<ÀüÍ:ãuÎÊ2òİó×yúØ4·ßûˆógÎsäè$e#ãŠÕüıÔ‡´:S»ó×îqò×/óÒ¯~CV,\½¼ŒÖ’´ŞjÕ
+‹[h%h4bªIŒÖÃZ+öv:Ì¶[!IÖ¸Dë„à¡Ìßçg¿=Í¡©&qğœ>û‡ŸİÁ‘gfX]îÓ](ùÇŸo2;×àø·ğûÕEÜHÇıÜs{¸qm‰Ğé`| soF’VOu)ç^?Çósm¾{ìI¬±üâÔüî¥“<{ô‡|íÄ;÷WùÂ±İ ÷6éuDºN6 ıÖ¥M6×ÖØÿxH.¯£h0:{—ËUÇÁ)Í`ñ­G·æ¯³²Ùg¦çŞ¹ÆÁ=’¿şá6ŞEüñåy¢
+l,<	Ã¡ÂX^]íiÁ•+8
+¤rxt_cEÌü’Ç«ˆÙ“TuÄÜL‹¹]»Xé÷k7P‰ NJ[ÖW-¶ÆÏæ"¤hÿ àb‰Ä@A*Û ®a (Œ@W>5K˜3ÜÚÀiÅ™Ó’GÄ¬ŞÍIZ’4ŠĞ±@*Bá”DCBµZ%JJB£¡‰£@K¦&%ÙÀãLÄßŞZæø‘˜zTáô…ÔÛ»q.áú$Šùàü:‘Lñx:íj®$Â ¥`°“õ
+I½‘GŠfS‘9°‡ùÆmò~…î_:Ô¡:½‡ûë	[+ÓOˆD‡N§IâH/éŞğŒ†í¼å“kÔêmšmŒå¨`X(şu7åÒR±÷>"ßşB0l¥‡¹ıÉ^n¹”‰j…CÆ¡Q˜ÒRd[1i=°Ñèrˆãˆ+5Ê4'Š*K›è€ÒŠsæ+¼·øµ>KkøjD`¡e¬Ø'KÖº‚zËS!©Æ4;éql›Nˆ“@oµ>¥Û¯2ßé.@ d ’JL«Írò²–’Ä`!ÛpÜyàñq =éÉGjMb2A£¦‘í‰
+ÎXz«‚ˆÂX.n¥Œ²À°+2÷ˆàˆ£©,Óõ>;’Ã~ ¿e)¹ï*HëY±)ÏÑã½z@Z©áL•´Ş µ'fõ–À°Ê„<óØ:­¤)úä!á?×j/(F‚´÷mÌ®ÈRkú=I–Å|ùÛ
+]–-#:S~ğ“g>!ç-*RHö¡;ïyåúÛv ¾IZu9Œ|`hlUÒ]SŒÕ,¦€m;<õfŒÆ6ğ^qğ3šj#âøS’Nö&k_åßÉ\\=Âphiòâ4PÚ„ÑĞasËxtƒ™â*İ3{Îî&ßˆğ6aßaPiíÆ€³@ÅÜLÂñé÷ùbë&/!@{B PI%ÅĞãÄä#~4óS¾·í5jYŒÍE!égçïÚ”9ú›á¡ºŞ‚¤Á­eO™Ùw¨ƒ1Z]à¬ÇŒ!Ê<°Y]õ¦wíDH(Œñæ?%[#ƒ.íˆÈ;F™ÅãHŒ)ÁC)·ó©ı-t,Ğ"Å0èI¶$#&Ç:äyóïŞyŒ3ˆóî‰öÖááúÿzäÃq’T@9Àç*Z1ÜxëˆS‰ò[‚  …@ØScŠµU(CJpNXç±dğK »°ÉÉŸ/qáíº)5­Vé]Bl[ëç€2Æ«	İõ68ŠÒS“;lé±> ½÷€¢(×X¼ñê/f'û>Èm…¡Ú˜`Ô˜R dÀYPšqBE)zÓ¸¢À"Ây‰Pk=Z)‰k3¬ËÖ²ôÀ3,ÁärçæŸğED¥¹“z{7È8Ëlm‘²ÌYì&fÔš²¬@WÖXt’ğÛSAl–(Î    IEND®B`‚
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: image/webp
+Content-Transfer-Encoding: binary
+Content-Location: https://maztars.com/wp-content/uploads/2020/05/css1-1024x576.png
+
+RIFFúN  WEBPVP8X
+      ÿ ¯ ALPHk     m¦ü‘NÄüÇ;@ÔFRTœ³CÒP§`öG&¢ÿĞ+üzş¹şöôş/@ÿÇïÿøı¿ÿã÷üşßÿñû?~ÿÇïÿøı¿ÿã÷üşßÿñû?~ÿÇÿyşé~   VP8 hN  °* °>Q&E¤£"éµTH±·hmK´ÒB·”Ğî×@¨jù%Ï³jÛgÒn³˜çâYÑõ—¢?‘åkÃîÓóĞéû_ç?.~oŞõûıÔ›úŸ¥ŸNÿñÿëz¨ıÍõZÿ¿û¹ï£úûß`oäßØ?òvWxõ@ıÙõ’ÿÙû»ñAı›şç¦ş¨¹ı CÁºœíz~•k7‡Bc1ÎÒƒ‚¼~^Ë»n¢Øp·ÖL½Íº\]ö:²_”írQSØˆ¹w\Bİã¸)"%øûš¦òiŒ‹&¨ö,±kûU‹v~·y~¨ój—µ ûkp-[  9QÛú×ÿ÷·^2©:™Ëo–äÿ7‡ü<O‚€±º—±æìÏ¿åh±mÍ$”œ\ÎºgİJğç¹¦t/f`×Z0¬>Ğ”lçÔz	ğŸpGƒ2Ä¾.Ô|÷ ‰*^Vdªå¹ç¤m±]&.›À½j| CñÑ(8\	=üN|Ëàr°8ÿ"é×9]ì	šriÓ;ÊöQ2_İAânG+s‰äÑê·øQß‚$oŒrDİÿ<¬Ğ‹oãÿùĞbqtíŸ¾¶#¦êE”Lƒİšêç¼Ë"3oÈÀ0#wÅÕ­I/TôÁÖŒAR¾[…Z.¿²¹ƒ§ÛrØ<É3Eß_Ïùkÿ&'‰>úÜI¢1c—xËÌsÒ`—Á ÿÿÿÿğBBİw¸Ì_üŞ€Ïş a„-M6t*ó»•:V>ÒÁÁ^b<Í”°£~0ö†;ZlXl-–L2b¿—n–LêøÌò}ÙQüxïÄ8Fkà+ét'§ÍØâü­‹Ñ{´C8Ôm2QÄ{“yŠ¸ÙÇ7 &+ô—òß{wîyœGı,L‹·æfÒ²lVêáÌ=øæ|şi)}¹ 'sÂ=OXYaM²¸ØÉ§º˜…’ª¤‡Åg·¸…HÔ4–Ù²6Ö|ƒá¾‡ÿÿs'1{8„ÌİhõîH›/°T»j\´¾ø—»š†ñlA™¥Wì¤ ¼ölÑ§  ıº13EÈ°hL€‹âöda`…ë7lBÑË£æ…1éå®Ø£PĞ
+\fƒ‹Ï¹(”ô¥úñ0Šï	¶U‡èñ,¼:ÄÒD•Üu}º‹ÿë·q.[1éı\K…Îé]ˆt‰b¦-¥–z»²•cZÈeö¹Wß:ªÙ’vİ²’JÅ#ÿE„Æyc ßœÈ¶•o‹£ÔSòÍÈÌšn-ş/-XTŠ¼dì(™8$òöG¼×c%á‚(r(h¨œ¬{şMÀbÙ0Å»¨æ3¼M2i±¹×“Á×@i}X®Ù Îß©ç÷û¥3ç¯¸PTæp‡sÊŞdGe»
+î¿8ÄdæÓÈ¡ØÁ6‚o¨U(Fd¬*;që°ºLãRJó7-ƒIô±Ñ2Ç 41£e&<£~P\ñª(WWYL¿9 y`ò·Ş=¬¼õ&a½	›»i_§B§]Ë¦‚¨#ûÎpEù*‡<
+»¤Ø§üƒw].8¡KUp µÌâO>ûiº«÷rÕ9ÏQ‹Š¤åüw6ŸğšÔ{È(Ù/~[y™9DŒ=4QDäãŸ'ûÀƒÌË$Rm]¦5×ó¸N£ÖšFKŒ¤0Ï[$äĞlßçĞÏNÄ-O²z“ÂîeQ9æ‰r†ÿÙw¾¤i²NÈF8óß L’ô‰ú÷Ad“^È§ÃYA1pº'ß~šg‡ˆ–5œ`FÅ7¸2®\£Œ×øQh¼8MtÔ­ÊläR>ä²›‰ÄfVFE‡„	:„â<İˆ±ö•»«GN¸Z³[š}Reë	àÂÿT²Àb¥Sê™ïöÓ£û©ZG9¾øƒ}ódyŒeÕné2¢²–Jó,äà?,ÄdT€Şõ‘?’£ÔsW¯lVŸÅ~³‘y@ñ`‡\˜Í{OıW%Aã'ƒ–3œĞß™“:ûQóÎ¡ı¯>€–hÑy …[ô£oqqUkÁ]:o©‡UëU‚Üë´°C±ÂV.	ÉàØ×ä[uÄƒ½¨pŠ“#'s%ÎÊ®®Jô’EŒ•ÀHYfŸUË4XÍôì¬Åƒã³	ŞŞº…X,GyP£ù\*
+½(o§†jÎo@kÁ?’I»Z÷S5 »Š»‡	5Qºãñ'tK w(ópüµ•ØØå´õØâ6×ÛÇ+=y7éq7Ù´';T)ãoFFuPÅtÜŠ;,"ğŒŠë©—.½ıãš¹ç8yZ`8èâ±±ïš+ªëkn‡Ÿªn~,½vB©~3ÍN¥‚[—)ÌŠš3€õâ)¼†Ø|Œ±^ıÛõûFZ+l×8HË5¥,9²ƒZoøJ³,'–Aã¢\_aW¿±Ò2E_ìc+x‡ŞÎÔb%ÿ¡Û.İK¹0‰vòr•,¨reVÇ qz5İ•ª‘fZ‰Ï/È%úÛ<ãİá°¤9Rî%™åtºz„kGÊ3_§ôI‰§#³0TzK· ûQ:¯N¡çÆŒ°aætÌø¾N>—¯½ôÀ} I¯HéÂ1TdûÉéOÛ.tø¢ªš3(XÇâ_{ŸUï õĞäR8!eíqF´¼Ò%À!ÿ¬ÑåŸ]öß;zFÛÄì”ÉÔêŒ4zÓfKCVT]ˆG¢ßjµ,¨Mø>F5åØŞì#Nm“¤|bl¸ôå˜,Ùı«° ü°*½^Ç%GÜwxg”}˜º
+ª…ÒvöúlüG¬¤¯y7•>e”ho±t`j‘ã2W‡Q:‚Å))…sŒËwVu Q¿_±d)x
+™c«­e[FŞ£¹D\"mKZWO*öZ-é2q,ñÂAê‘Û0h!<ØDiH)4AU{MEZ‚é¿ÀªÊÊÜuİldİ­®F#¸ §>¥Ëf¹Ùe$[&¡iŞİÙqÛUr˜Éİh4ì‹ŒÌŠš<Çd}ã>Õ&»P‡‚H_v_ƒtê<]P”^ºñbÀv:ğ&Ÿú¥äi\µ¨
+ï°§VùÔuı'H¾ŒHû¾á×§Ï±¸ÏäRn­$\’îÎ«†ÁŸÈä©#¢ÖNÁ5¶¸w±ÍÇâ³JÅˆ2>íèz€s`Œã;İòçšªĞ_¡†².‰ëv;Ë4Ä^ò-\bb›Ó–öomšÜì«ŸŸ°M÷Úø¾›O#“óA$ÔÚôZñ½!WçâÅh×Åî ™ÛÅ›Ä?›ÿ'„­iˆÅéwÚ†¤„M6Äd=œM¦Ïa4W`&.s®h¡ó¤9:%)ø5˜‹ëŞ¿ôåéyVHû3•|Ùl‚Íì&h»È›˜İã©ª	`ªÛÎŞğ– mJDï.Å~KÓ7Œ-—&k€íÔ(,Ô¡{}/&Ä¶¾Ëù5äH5÷Ùú¼oÜ Ûí'ÀÌÚ[Ñ„‚—Ñ[Ú
+…Â¥smRR/„æ¿a©†¾3e3?œ& 	N`}©!@Ç†ñ1zîUaâ?ÔHOÎ&Ï®¯N,-÷qÖ#qí˜XXˆêœ{ ıÉïfCs«‰—„±«Én%Wùo!!¦O¨è†Å¢-´9™dŞSWö¤–ë¯İN%†ÃÕô ßt|×àl^S©¯ÔtÆ¶Ã¿,'î»;7‹_™æ<Eer^(eLk•cB‘p¤èhÇÉTRŒõ±rxYç<>7°ÆPèQA9	ÁÍ…íÃç[–”ş«+î~<›ÙZíŒ›påÁÃµrĞ+wè"Ò~²Âù
+mD{v¤İŠdBïXê§:(×a¡WFæ€?&ÎucçÇôr‹¥
+4šlïT÷H^Ì0œljíşÆ[OSv;Hc"
+¥<–«öÙ³&Ìn[$N©ÕP»jo@w¶Pš›V!ñ€ÖvƒùkÖnyª¯'Çr†Ø'Ñã9l#…FÍÆ  amb%ápÀyÛJô7€‚W”RlˆßÆbÈùjÎúÌ¾²XõÔ°»×¦ }Å5bv•-®ò3¡g¹b,BÊOº¨`ÓE•â?)°¯òª'ò·4oÈÔ1gZ•ªÑ†ò(úqg†jCŞŠa”î€Ê–Ä©‹|-è«Fzòƒ ©ÖÉÔ(”lÑWÛ•·¡şè¤]HÃ…ëÉàd1vû¨Â#nêôß=l‘ÆQ4ê%Â“~5ç` ü@|n¡ó¹™pûáñO¯Hh%²GAõK¥¹Ã)VHy¬ § eÍLî¯¼8ÈvÀºË1[ÏüÊã¥*+â}Zâ÷ŞrĞ	ÛLÑ#©L5§ á[áçQ™`ê]9N Vß& GÛ¢­edIY¯zH²Í>è\HF^µğí3ú¹÷„…q"?1yu£³aTz§¨	ƒQM?×8ÒZ’+v$?Ë3W–SêD7¬ÓnùO„Em­ÖpN…ìB–è?Ù€D¸UĞê*¤¥ªe´ûÛflÕ4¶	™bò0(ŞQš”Åä¯nT/8MC\íraf‹ ‰ËãoŒ"à}€UõÕAy"Ây~³n*Sˆ”–Ø¿F{Á9MAsaAÉ&€ˆíÇí)¿clÜ¦xv»ïİ38ªuSc‘…•¢¯WÎR÷¸e%w×9\l—W{Y/|³ Å)P4L“Œ6OVN®ƒÂC6mÊš<óåF&!p>Êo“v¿ø2ÖîİÄ´ö£©v*ø$¿c½%Æ2©è];äûõI’I +M£ªí¸wiÖ¸MáUæ„•4şëW’CyvödÒZ2Çe¬q0ú£µÿ`ê:d')P0½	À_ÌÃ_l¿SÀvÁQİ^åãÀGÉş¨%tÙ¯ÚqíâXBë~Å¾rÇn]R~r?zÀÖAˆØPî6ƒJŠºct×¾{~ìM€T²„²a¦U¤uáû‚¤æ=®á£{i-ü)T<S{9vDAºk^ƒªrÚ²Ÿ@Ÿ\²§E‘ÆdÏ«¦CÜ¾¯“Ü‹0´åÓÿa¦Š¾O-'Aíšğ†ãü!ß ^²íü½ğ(z6û¥?€tkú«ñ« yÀm7`S”at±ıµƒtúØ	ç•H‹jù]q¹S]Ê9)~¤T¾‡ƒ@]oq<fX™Ëxè+íVß±àô=¿J)x›IIK†´v’?rS«êÕ£·N—^CÆú¬Š;Ì Ê³IçTÊ=Rû¢HdšQ"İÔß5‰X¨@˜Y :»kCn¡ı*ògh^bURJT¯/ûé¢·ªüòzæõt©nğµ>G3Æ˜Ò@r“{Âç,.w+Çö*VVÚÚ$wK£íÀ–òbÏÓå+TÚ¸{llÁwgŠåu½iİ©÷ktx!ùægÜz§ÚSÁ½*GÏÒÊââ#Ü
+’ ã°BrImŒwûöÿï-U9øñB0Iy©.WŠCÁC]‚s¶‰/Ë¾'[F;!û—AA[GTh&ĞÚS–ÄW±š,ÕÔÖ	|YrÅP-ßË¢Ğ ş÷üCÿ=÷å9ƒØE$P<‚¦Šp¹JÂã7ÑRëáåş,sk»4¿ÂàÙÖäyEi1lOeZëë,7í5±„ˆ[H€%Å£BÏCĞPa¡ìsŒ-9Y!mà2¤Œ¾'÷Çøq¢ ƒ6©ğ8A}8Š‚¿U¹-yô3ô~	uĞ_FŠÍº/»àÄV:MV<E`P™?$Q†¢ªÕP±äæXó3-[^l¤o‚ª/ÙÆü¿[Šƒ
+3€ËÃH1qújõÏõOF:Ğ‡²A²'WÀÉÎLİ…m`¥uu\4Q¶6¥Ï¦¨7¤¼N<â
+•j¤[2•æ.ôµğn¾®ş¾}‚w
+÷¡ş2À95q1ÀÖA½ü'€Ó|6"Eª	=»æ´p4t(ÔHÔÄÜ´  10ƒà9ù/D^o¿Æ½ÓÌÄ<{¶ÊïæB\œØ5;n$èÓ$´ó+Z™Ì[,íÌ‰qÓÑ„À/b-;¢ü±şâ>%·q6Ï¢¼›ü•ãc§u÷ÊÌ¤Ø	ÌZ_ÌkaˆÖšoÀÂ™ü²t’EÑ?Wï˜¼§Ïã´‰İ¬_‡¤º¾sÚ¡¦M7Îõ¤…şƒöi==ÛİOD(±½¾QõFÉFÅ
+úÓ´ ÛPxE™­ê9Òã)8©÷¹À"¦’§-©ìÖWÿ,Ü:oº•-×¦P·Äé^mˆÁö„9ííŠ5ÁÿwÈ'øAÀ&k'K—ø•¿—pe,ÄĞï„½¯^¨¥§¦×"jÒß¤vò[ÜÕşĞ3]†”¤–*hDõw;#´d¤:s–ìŠ¸áµ‡m«õÕ3,=4±^V\Ÿ?d.GÁ0Ñ®+ioĞæ52; 5˜÷~5VÑ±™byÍÛ°”şàåİøUÛİƒ#­Eã	`Œ§]Xby=Â”ßI_áj«ßõ±“¨‡ÔÂfFb,Ä®	J‹?Sâ²âˆ¦Í<zOÁ (h7j	jÈÄœ?õa€|¤ÄdN¸çÅ¾®uôM& :íÚ¹áíSôuõgòÄ¤à<Šø®¶A TÇ}äêCÇ”rŸZ%ü+Ù^Ê°+oÅSƒ€sæå¶ªp¶äÑÔ!©ôáSUø-™ÚÚJo9sE ĞP¬şú{ŠÕ”š²/m®_lŠ­—pJ”Z¬¢A7°ÒîÚHË—‚SüQ¤V<©=½›¡€-=ÿ™‹/ë‡˜FÇùnîˆLZ{
+1X5SàÙíö$–åÉW<XK…l,QòÛ®ËWïğ§äM±HhK…êÁÊ&°¸U¯‘x€ëEI²mÖpµ¢±ßºş/½XCò6’³½¾'ĞÕ²$D/‡ËtÒ§’)ÔÒ:Ïe<Wc&ÈV;<•¢3-§U­Àäˆ¬·“éñ¨7)¤G‹º¿xÉMœàI¼#ÛÓz‹ğº'÷¤  6¦bG+o{«nÎ¥²T0à¨§'ø&×Ú5Ïf³ı¸Q)˜X%¸2ãC9K¦„ÓœvÅ4Wò#&Œk•Î¯õ-’Ê8íC}Qz´ÃÔÆaÂ^sx®‚€8K’Ú¨Ši¶şî¡
+âı†_ TÑ½ùí1?Z¯Ë7xpì(›§;Ğó46êÂTë:”£!Æé’ìƒ6Yl¦qaF«˜}Hn·zé[ãGÂïÁ÷2zhv»`SÜqr—Ìğûƒ¬.È´‚¡Ş$V„ú1/8€ÌP†¼S¥‚w)ñeäsŠxmß)Gj3Jï‘Ô™ÙRç>Ï‹”6ëñ¦¢Uô‘xÂÙ°ºÕUP…ó·x¹}õ¾âO>¢ÂènQÆ[^õÂ>Ç™r“V=‘:Àğ $îÀ¤0ûQ¦°n÷µ:0#”Kà=Xa‚H ®ÿµ™Ê'>PpM‚tŞZNRØ}”ÚÀ==ê¤Š?˜ÚÒ3}w,Éô.,­M2&1^‹Å¯…‹1-6ˆ®Á0©„¢ûœ™(ßîşå¸zÓ²Fº“ä³†Q„øïˆC!ûFÇ¹#ŸÍ@sçş–QO>´`ŠntqäçÀDcìÒ(^’(À¼{NZÖ1.–9±.–5«# Ö,¶Hk‚x:I<[ì'¯¸#xŸ,)!eÄ[—ItãS¬2‰òk¦ùËÀo´Å2" ûÓÆ2ò‚dé¢ÀR/Z^¾L+[´‘tÕ1ô!¼ÏTÏÄĞÄz#¹ğaŠZà¯´I%3hIe±øÀÈÉ*p#Aã iMŞŸYò(²+Ö³—+ı›=§–IÅ9@ì·ÿÌuÏ¥sóæˆé×€Ş=‰{Ğ…r»éÏïòÌ;g?Ç^ãËáßk]ÕÃÕc:­˜É­¹¬Æc¯‰ù¯úYóô[:¹;ÙÒP~7Û%¬1S‰A?væ= Ar"'y>•%9—¯l¶)ˆ£ÛjW@ñ„7¨“kìX«Õ¥Kãq%±«(vøÅ–açi\GåfuNÆ-úS‚ÕWEJû+-S=ø}'Wšš“oXºÅî-ŠñÙ›JD•_p°‡S³F„šMgúÅŠ‡¥S{®úÇ5×$]ÙBQ9™²Ö‚£ñÎ'L¹üm“çÖø/Ş +º ±nüv`€1Z”Ñ›aÅqõDÌL¶õZA8vüğÜ r"Â†‹Ùtx_VsåË$M!	G¯“ÆÑ×[s_ÔB á sÅ€ãÈâv6Â¼ş>mÜ±1¶Aø Z¼.!Ø,‚S"OŒ@9©_oøGT+~%°´²´&\q,š¤Pøèÿ?Ë±¤ı‰\c†$]~BÖ]ŞH}ÇÊ·.#¢ùHZ<•dl*-Ss*b"÷åb¸Éú·íë±Ğ^ 1¨>§UQMÑ ö´5]k2Ù!†ó-K¤Véö=¼pã4{oë/§]ï>!Yµ;wAi|Eût	;ò+ÏÂşñuQ1;”j’€¹ók5”	ñ’ÁWDœ<]ÈeÂÊ½$#\dÏzºÀ¨Mù•«£Z@^KËÑTjM:"d%z‡¬ä9ÍÇšd—Nã­èHÛ¦ªo6ÍhQ³¥Jã„|ˆ~š¢‚X)‘ğN¡sÔïÂØÄ%SÉ1˜Œ.ŠWğO;Å¾j…$«»ïŒ[/ñÌÑ
+.îÔL­âF'è~ğ5›‘ä¾ä5rÛ~Æúy«ÃPªKP’RÑrw|bvàj+¬‹ñcÒ¼’á†k®ÙşüÛ×Ù§ıEş>nDókŞ+ïYÂ‰"¸6¹–Æ…ã®åF!¹)Ğ4·¥¤ÂÑ†%SÌëœ;jö­¿XÜ~î:LÕàJÈzµ‚Ğ-’ÈóPL;“Pøæv9Ÿ¸~ª”[w_Zô^÷UíáÓ4 y ;Îšâ|Ó vˆC@ÓY4²Úœì“É‚Óßğ)•U§ °şû
+nLåôëÙÑ¢;Ñ8*‹ô|:{¦å”ğ…™Éñ3äŞætŸ¼í~$•aÓ
+Û×¹ÄkÍV=OZF‡¿SÇ:^êwÅNÙ‡™PÜ'=£ aUHâvËH3nò¹’r²Ç/“ïO‹ÜÕ š@†ÊÛ¢­ANtÊhà!¨²Âßİ ZÂQo¹‡\7èïÁ‰õ¼ÍšÏvÉÙsÍ
+&A&n˜JÃKŞ¤¤IŠ¬~sıÏğB¸¾Œa¼1ˆç(—©¸D=›şü8_·˜ü.œ°ü£_}¹u<ÑbÒvğÁZ¼»IèIŠëª&²«òÒP~zí°-‰õµü§ë«ÊÈjclÈ‰U_‘â§	õœ¶Oh$ùˆé¢ºÙø%Nw	ÌH«}J¨Br†ÿ?:Ó Ìb—ùïp+ÑpÏzæï¨³M=üº[cï¬²2ŞôìÛ½¢¹t¯…’¸ÙcÏáç$y­Âh¸³wzeS¯şÈ¯—„qFuíÀ®'Ì2¸{-/Ûß)h òûp€0|«)ÏÑîîÔìöÎüíXÎfç¸<BŠıßÁú(ÑgØœì˜9¬Hx¿Hd+´ãpìx£67\ØÜ, ¸Ò¼Í.Å¡ï\ğßm|x³ÇÛ5Ì«ß:MšïÿÀ‹·¨1<AÁñ$ñ˜6ÃNêU/¤R©bKˆa‰ßò/Ì}ê`áÌA:†K’’Ûú[ ‘DjbUz­©¾yà"¨™½’eëpƒèEš&›%²§*5Qúé¬³îí&ê@P ¢°®AÌı™;äğ•[Ææ2ådàæòæÇCR‘2±ÖkVƒv6ZàêìÖpSZ¯ÛìCò«ä²í’%Êõ|ŸY† ß? {Ä”ûzĞ.°­'à½S»¥Ç9BÇ6ƒÊŒx8J-İÂYï•Ûn4Å­³Àød„â¬ü
+RGº´KH.Lq±èÕíhÆ€„CõÿFÚÎ®GÏÚ„Ä0M‹êsSá…v,ş_~ğs*¸ç–6r„!à 0¨;ü¥G;ÙúL¿(~Ì·uK{r…:Rà	XÙÔ/CÉîÕ‚ò<JÑXÊ™Í6ô@­S	‡Šf8w–KĞ'>„Îeà%8@¦'B †âH¸…™À{“ŞÁf=§”Œ5üvƒNıDµ3ˆ,çT ÿ(oÿçŸöÑÿu“«ú¶—h÷–Û—øw-0(Ÿ¨8ª’O„évH¯ô>¼ıù@ª`j×€œMÿ4uÁ*¡§t6¢†Ä²˜ØUr«˜/¬`d1e°÷÷,ÆÿÍ h—c7j'‚e@oaıgšÂ7¯	eÒèft¹ò:SJhkÄëÎ*15,#¥×ãÇAg"ØBØcsñés•ªoHÿ³èZH\î<é'æ]ª7VkdÿBËÆÀ…Ë§ï¼T')º°õç CĞŠŸ"ítmh…PİÅü#R®°|Zñõ}qØsÕx5|u°$@7vKoK¢å^é[>€—ñ;yÆ*^Œ…G¢!=UnÆÖXdÒ«9
+°Iµ2ñÏµ˜Û]tOMøŸ»bîcÀ¤÷¸ïÒï*H!C©$3nò7,ì®CHÍ7<µgİÜ#€fí”ÙtO£-ó"¯õ´g<ºWJĞT/ŒËM!7²î+Òó¹Œ^<Õã¨ÕBPª=ÙH%°v–òlT¨6Óš‚Nô,è~Ìè`jCgÙ3X~f.©	~\ïóÉß~'Ğ(·¢uŠÔV ÿŸO,•ø˜ªáæû”,¯½ì#Ï5oiâtÂ¼.ºEŠx\á÷gx#tƒŸ¡2ÀqA$í;~Ğ0 'È¹XV8ën¤)µ³jôüWœ1û=gKİÃ“ã:ÉĞ@xlà0,‹(ÆÍŞ1ÿéüæ;cíÏeÇÀcõo´ä•bhÊF©Öña·ÙÙA¶á^ñèü÷œl‡&LÙáÖVv«ÓVª
+ÿ¦(¿
+©3„loÀF©~‘¥e¦æ"”½#æB™ õ¦bkì èhÂLÿ®é+LjÉÚb™l3„¯Âbò*fğìLÂX·§¼Õeğ‘±°z¼ñ
+{äòXˆV/.z­=í0eÕ/ŸÊ”.nÎmñ‰åQ?,Á‰&õ‚ñî¿`™c —<J]:7Í»nu-\$BöÌ#+Û2G·ÏB©ou:½
+UH‡b-³ı(ˆ!ašóvî,M¡¬tq¼x%>h†Ö_¼ï§õ'ãzÆ‰Z†•g(~6õOùQ—Qß·z§">ô«WE¹¢,­§6•€ÁË0>õ•+²š»pmÕGğåDYåñ‹šF!Ör‡]ó‰×°p~è:´·®l§NìíÓád[îçK‰ÀPÀ¯^Ùƒ0˜Cœ¿I!åLk¤Ù¦Ÿ\b¥ï´°s’æßjAâóG,G$»®ª×ñR Kµ,bc§~¦KÖüsš-YN~ıÕ:=Jæ8,3èc5ÊTPò&¡É¦
+}4vT5‘|Y@ÀEÛçpÛ‹v½‚,‡ªÑå$Ì"xub¥n;îé@Û°¹ÃöÌ\Át
+!İr­.¹Ñe«"æò»ˆ²{q§ë9)òøD‚? èSÚ;´Ï‰Q¼ÿ2Ò§Oîç"\ıÏY2ö÷ÁÇ¾‹lú¬ÎD.‚õ?]É½B¸óŞ]´¥9‘öPRªÖ~Â–ú°+2ÕgÌH`Tg<î˜T>gŠ}=“Hs&Îi¸ñšsìÚ'SkCJÃúGĞi–‹v9.»À-?òú}‡ú“(6ßWYGB /qi6ë1¶!I0¸¬hOVlk3}6SÕfî$É½[÷^ÔÒ¡ëj0[c®gzÿæÀ¿şA5?©¹A–X £÷úoñëx‰ïï:îZ0hjaÀúşV†©]H€0aŸÏ_¿YûÇßµçXoQ‰!ÜŸúŸ»ã<]£•}aQO­¬¥"ƒ¼ÿêUßs+²(ô¤I{|mî< ;"ƒ ®{r#£@gÄ\P)İ…4°¶ò,Õg•ÙEÛ#uitÿ}Cù„Â/Üş®qlZ:wœ¿î”ƒmËûÎ×pöÚ(Bü6ø§ğß·¤Ôk§'‰æú'å¢º~gîı÷üş‘Ìâ·m#\{6¯EŞäÜ¢¾Ë%á;w#ºIòwhŠƒ˜~¾™–Fÿ¿Úäm×ÁÒÅÃ¶)VÅ1Æ)áHQ¸h/C¨Ë¿×/M×§L\bcÌTùQÿb/:ûœ É†¢x¾òCo
+P#šO™³eõäFŒéŞÄÆsh Æ¸˜šl_Z=ş£ŒÌ=³å£1–ÄÒã`pìSQNİ‡Ÿ» Ğf<%Òw\pböÇË©ãA£Ï!¡82ò)8DBÇc:£¢]Ğ5S<÷EÙÒ)JJ²Ç|.W=s¤Õ.ÃÎŒ$„R^Ów%WÛº±š/Z2C~Ñ|hj!å/ªYl÷P¼™ ÷‰®ÈjW;ä$Û@iQmy¥œSN•÷è§,åQnô
+o]•ê”Şøì“®3K'‚=Å·›A?`p	Ò¼ö+zGÈô€ÈKEx<øéjĞÓ’• UëÆåş°°>qVµPYKj¹Ç¯éXóá˜¸HG>uL1ºQ`LÜ®Ş²¦ï)ÍÿÅË+^{»×÷tF-føTç²æ1òC”Usu–)X2ŒúvöÄJdçùŠÅmZ›ñKŒÛe.xÖ5÷Õ¿õ„Ñ!¸ÇÁ¤QI‰3Š,DcK,Ln{b¸œkrcø´?i÷¹½«|»ìØ›-Œu%Í,Å£°CUÛË§~?Æîíò«¢Œ6H]¡ĞÑİöD³¬ €zĞrÛIŒ“ğ›“l[¾³^WÙÜ;g>¶<F`E÷‡T’àWôÔ5§ûîºRÿ-“û[zıÄ—ÍÈ®_Yóh )EN¤|Ä¨ÓûğúŸà÷!RÛ4²ƒK•MûwN(cÜ‰ß¤.ë-ò=ÜwŠjauñÑY˜Zıˆ5ê[è!ĞÆ’aŸÒ†p•s³`5+¿ğJ®^ÿõOû1åçÔ\Sİà)Br]˜¼zVAÑ3D­fà¯Q€yì½a",½]~:ŠEÿ„7“éE$µ­:*}*pÏg@«ëæ‹ùëF—mËnØwØ=İnÒ•ò™8) 'R_-3â+´U DERJ§M/ø‘äŠIÕ€1n†	ñ.ÎçŞé¼¢¼>)‘+t¹6»³Ã©NÔ„ã«=”YÕ²Í11#·È…7vœ½ø‰ãÖ!kşc±ä§­Ç¶1\ë·íÙÕô_ï]<2D(˜¹­ŒZ8¼ğú2ŠÆL?¢ˆ€I2 È6Ø6ü?•¤%d#kÔ¼½¢óTÛÍ¾CMô;:0:>Qu@Ôk»ÄA¦ÛAl¦òyãåWš+M¼Èm ®g¾izrFÏ½{ ÌHE…ó>Ó%ä|ÿ!‰ò¯~…¯QùéÕ®%ĞM"ZÛVjüO°+ˆ[Éû! ÍÚ'›AÎJÈçò.MÛ^
+lòøÂDd%U%8¾6²GdZ#Ä’ïLZJbÕ	´ğ©×ÎºO^”Ñ¿§6°ú×/¼(üÁD˜kÇN ú‘‹á^éº¢ Û›–Êë’io6ËQØç©Pò0´ß®×++âôd™½–ñoı)”üÑFN¦\¢¨4Â1ş2<ƒÖŒHÆ¡É2ŠcíUÀ!úÙ0kR`Í¢yešÍ½t"E¶?^#÷³"\vnö‰¯ *|Ä7¤ü–“›ª¼Yş§1^GTÅZs$r4¹m#‘j ¹f¸[å(N,-&÷ÜYd{g¥Wè¡²ÎÓY½ûÅ`[¹o(Á6çPşo”Š  ›	N"4X¶øÑá·—Ò“Î“jÌ˜Øá¦éô	H‘tó»Æ +?]X4œM¶ªk÷ø6â‰Y6ä¶¥P«²«ñ óÕóªD%Ş²µÂoìÖz Å±d'èw½+ÄÏÎ£÷¬ì:–fç©i¸ñå/ÿ«›—|ÔJ,ú.M¾`5©ô±Àb@üÛÄ {X*\º}áËŸJ%¾iò¤ÃPÈÒn˜²1°áõ*:<ˆ÷Õp®4»ŞZ`¿(?ÉÍ†<†/Î!Jé•£*à2Û+Påéf+Š .KMŸqzÃ³}‚B%“ı±Ğ4¢Ö(/¼Ÿó³hÓ4jgK,­'-A¢J}|ô=Ÿ‡ö;&	ïúEü³vh–WŠ…“âøÈ—PÒQìFƒ¸àª»Å¡¼£`kïğsµ—¯úéu‹ú&€_ä¶Úê°ï‰Ä§Ø–ÊÉ‘š°!Íi ôÀ,Ñ‡²Bøƒ‰%÷':0´Ò°±(ÏC	ŞkØßWñç[C¨Üjıl‡q3¾ê8¢"
+³ŒéZò-SàT(D5;>Õ£{VN·;ˆX½s2’%¸´üáäLèºMšf–â=±•aŒñtî
+è±Sì^è<oÆ™hçä³¾«êØk¯½ÜW3şj[ç¨X³uÖ·!&›ñéÿˆv.ÔÕ$Mn-²Vš
+—N'96cû„¥…¿R¢º¶®@âÎ¼_«RŒ=ŒB¯¢Ï‡¡jxÕiO^5àœ@¡°Ë<øpÙYÕ½½Ô,fÒ8BlXµò‘Éİ’§öAG@ƒ2:ù3–‚‹Uyi· ñ¢#D:áA“Åâh jº{~M¬ïÒ Í»ƒ,÷¸„ôÜÕÉ5•è#¹;ô®#âtD#xFU…yq=ƒEüb·3#ò3ı‹v°Öp¬İÀ¥Ûğoå‡O%ãÀ²å»
+'ØW¨ÒWóf‹1P›†“¢"­ç,Q(â‘õæÂ%˜	'-Üuš$¶ÿÿ}/8µiı®™ÔIöşusñ/ÄJz½Cš”b9¾X+È¾†ËC ÚÙ‘â¤µÿıëïôâ¶İ'ØğòGE5ïOz™ŸœÒ¸ê&9Î	?–ì5ËÎp@'|3OD.è`ZºèIäŒ+Oşø>djÄE÷l2aªDº‹+ÿ:š[V~t>³D²/)8I“á£ÑEà¼™äPB>C]o»2Ì.ıyØÿàHÃşX'Œë1jä2Ncyxl`8ú QIŠC„*Aë'jC’|âv rj>›ï'Y†\CğÌÛhH'*{7$d-¯ Z·d’EßcaHÄ{Èœ´Ä=;§l‚+´\äN€‘Û¢Ï:vÑ¹­¯0=½N+i_«ıî<HfÇNa©³CWù–¿wRsX§6Jk»óÿ2Xf±¥–¿£ïŒ—·ÔÊn§.¼I|¹«˜Ùÿ-yèæ¤;óı”ÔtÕŞº'xL*x>³(ĞuÓ¡@®ËÈ‚ó¼»¦a‰³jöß¶l¯-†àÖ6­tÒêEñóóØbL&û…ë!pÙ	FøÓi¿ã/*Å§|
+J°›¸ÀòJfk$p†•õq`ßqzY7V'à0’ğ<Øâ…ªãŠ´VÓ¥ÄËïhs‡if‡Õxû´Nÿj‘EqàÈá×œıw]Ô‘kJ4A‘~,l«± ´¡Ñál0Šù˜yÑ™Í9Òùı‹#Á±>[ày¢S¤ïù$´›´4$eëp"Ï¾£<*êºï]ô¹ˆ5+âbÁ/-®:lŸ%F£œĞ–CCÂ&wwLÆí·lÜA«®\ZÒI¾9 Cw¢ôG‰²áÜãmY)Øêÿåq”Bu~Œrh»/õİo@)8Ò[êäÄó×p£Ì5ÕÃqi?°ã	î“˜Ü’>şh˜rÛ¹~¥âQ RCdúôm|+Aƒ•Õ0½	MW\<0¶zS	”Á!?ûÛ„äPäş¥vû0±¼î:¦á¢^!p'Ğ=ëÓ0˜²&]¹^m6 ÆŞÅYªËXÏÄÃÙ¸æÿó“%ıy°¡]úIf@Ã#dPek` ‡Iı¹<‰:(›KöÏ1wƒ»dOÁœÒK:?ëØZÊáêƒ/e(>Ğbûı´›CuµÿCÖ¹.{ÄWóˆp¯ïuÀ#ŠÀŠèK3È#uL•rî†“Z¤`ŞyéQhû²R.ŸBç K4G41w“srï-Ê¡™JË%L9ê!Òs+ß®$€/Sˆv2¡~Nl”ğÛfÙ{€º´öoş<¾:óqõ³N<ùâí2½(›• ‘QEßÓD¸im¯t%şàû“ï‡Ìû9âßö&yüs¬òeš8«Œ›ëk¿ãµ|d+Ö%÷[çcó!EOÛ¡•ßd>¨³ê<ÀQ&]v¿çi©À®¿;÷–îg¬ûåşIÑ‡Ö¬pâõ<KnÅŸ”¤q‰#£¤£ÎÖ¨nw	E&%7ÚÀRš{JgÖô÷±L½yÿÕtÆ„y~ºc8z÷»«è§=ºí33” u- F±Gs<üLí —õ~ïwhu}V)dµü„‚œUºÓVÚ|8´pEp{ƒ­&H¶ÊTà,ZÛ„˜¯t¶g\rAv‘#ôï|İÕWu8(¥ëâ½ ÈĞT¬…M‡YİkºW|7Úİ´JEowcá ¬QàÈ |ubf@Ë%şD4¿#Œ9BPÑôYu$Ñ`èJÓÖëmÉiöü^\+äÚÜ®Êf$)ñ¶Wàòƒkú¢HùÛ„ë‹ª¿ã:Õ:òœeõ»tË²“tQó~R²›~zŒ™»Áİ¡V‰l{† Ò½9ŞÜå¬0ûfó¥’;Šsgö¾¥=Çèi_¤zäÏ4gLw’;y‘õ92&µñ#a»Ëo8]°0ôå÷NìÛş.@1¤1ê:Y¨%bÓf›÷R‡Í‡¨×.Ağ³¥|˜çX“ƒXËõ¹ZVÁ‹«tæôqÅ›[)avı
+Î˜`€J’¬÷Õ¯=IªVè--˜˜j¥‹îwAâ|wœ½Ö‚é#[“™Võ}÷e"23¡ VN
+^±n®©ö¨È©(ˆèhıCõešçŞG"+úÀ8tÕè
+ı¢„àd?-—‡×>¦‚C…˜AßV7$W–¹¦İÌq ’òğH2A|`.ÜºwšÂ•½h4JŸ` qÛ, åSHøäf$+­÷‹q*ïu7Mè#ÙZQ0œ¿:Èò‚¹.½bôBõ[ Àçù‰ºqWeUëí*YR2õÏó µ
+iáz/¸»J¥Œ:t…w(šÌQdöÉİ5¾ªÖdêï¨0™ä}OËuˆ[È‡`âdóÎ=pl;€ÿÚ~"ª/Œı\ÇvAÙ! ”›Ğ[(ì¦ô`KÒQ4_£ªå„#r¥†ów8¬	*<@£‹T)¦™¸{êÅ½»ıü|ÕÒH‡Ğ›jÑIšÒ/{µgzë3âl¨Ò(ÍøÃx0Pøj5É;ò=\¨]®Osc2ÈÆÚp?ØqŞŠ}Ò{½â_kÏÍïñ“S\Õ¬~£ôÈÂºKd5r2m&ÔÏò ŠêcÛ+·Ú¥Jéæ•÷/´®Ğè˜-Ô™Ûå4 ²ÚÃl}‘ÒyÉEòç×B á$ŠR¥‡İd²Í/{ÜúïX¦-ÈĞ‚¨/†\ı0}Ôm@ÇÌÜ…Œª¼J  ­Ø´V2ïª+ U3¥~5»Šî‚yú°!ÄÅ˜²Ø•ÿÀm Ï‘^ÕµÄ`?øõPÖüzã§ÈÍQ<åa	yŸò6h¬ÿ
+ß=ñ÷Zç!š¢°[A;`Q­tí¨¦dX³0ñÖhPöhh™ÌÌTô‘Ó&fÂËx‚«Å~ ,m‹kâXÙÉ@èœ1£»ˆ2ÇMƒPˆ=Õ¸;¸ÛzË
+êY}3M€Cé¿°~ó§Í7¬(rºz(OÇÎ<ş˜èå÷z?ww^Šö‘Ü"i¸0?æ%Âà=vVÛ#ëí<Ÿ‚G‘$!®÷´©]ù>*5½Dê¾înœ^2åXoW>ÃƒÂL_ÏwÔ&¶F.—;¡#NPŠ×“N¤³„ë=|­±ƒŠ†;{³©×F©  !†XºøÖÍ´'	5jú¥ ıŸ¿†Ì›ûm2\àCÑ‘<!QÕ4’nÓ}:Äş×pë&> h¾¬q=ÙU†û°$—Kœî°Ëwiôpg¼ó–¸EïÀ8¾‚OPÂ¨{ì½=ôCŸsÚ×ûCT
+R„bBFæ }]¶cô}F£¨£šUº8,¶ŒÃc×óªĞ%Ì-gÚ|ÀªV:IŠ™…3a²zH/»òÈV³ß+­'ÁN¯¹³Ï·ïqD®ÀğİVÌ°çî—i»ƒ˜ô{A2ëµµ"¦×
+W)_B9¢_Vınş@·¸Îâ¬2IÜã8·ù	1xë=ir;|GC´¾$pdTÏj³ğ¥ y…µ— ûKP÷Å=‹h#ä×”§ÊcÜ«û±â;ÀH¹©SKÃ`ªµ/CxŒXœ|²òŸ¥Ö¶?D=ıqÉèÚJmOj³PmÊğd­¬Ô3Ì^ŠéeçÍ#è
+²- |†ı‰·a1¹\¹“àcÜh÷ªUÏ{ûa·F–‰¿ü•Û€aÛ1#¹D£¬¨¯™ğÀ1Q4ıx0ïÏ!‘ëä];tÍ^%³³ëYá?_Y,À¿} 0.ávòP'­íâ@¡¸»N¼°Å­*jô‚·:Ù¦EZãëWë)Ên`¬;¥§< Âˆ¤ú”é.¾Œ{jå®ph21¹eDbL´PNÚ(·$€f}XÈ7¥‰¯õşÀ"ugİˆhÛ†aW¦h§O^Ò‰$íxZŠóÿ2©ÇÊSÿ˜ƒ¸³gQÅMÈ¤1³VÍ-9F6º*°€E4¨1ˆ™ö«áwuë}î1fÈÛÓ›•(&‰WôurÄùî¤UÚH(0r EC
+>ùÆŸqÓòÇÏ
+›eSKÏŒa¬ÕšÜßÿ(KÅ	ã%Á:CîÚœÀ~Â}ë¢ü hù|—ª $rzqÜ›ÁãE]·õÅûÔ“0ş	!Ñ7q×§OÃïcš5çX|Â]Ã˜ãçNÈ…%À‹­ëClÁNs|ë¾tçâ<c: z¹³œÄWÇÛƒ|j‡é‘Ì² R³®yİ¡æYáeÍ×ÿQÏ±xà•gdvø¦;ªgÃ&v„—ıõÀj9¿IA«ú©@ğ,1§»æø‡ä$fq]ŸFƒqR¬ÏÍ£"I—¥˜Y¥ä•€qùU°Ä
+ÒøË½Ùl¦v¯±¢öW„€õæı
+´º¿™|ÏàP>ĞÙ®W@§3«Î-’E
+“g±òè½2»hà„œä»¤<wNpzA?»H5Ei–”U;fl©:’>
+»¤É·‘/¿Ø‹‰ŠÂ qàˆ)}£=ã…¿ï Š’ËÏ¿[Ì\iÇrS—ĞÖ°{œñ¼[pf>Šô	Q	EZ¦a«ÆÍÀw” UMeÅ¸…sÌ t—*‚å2K2C¶¾™5_í[Ó/*”ë7ÿP4Ùj ÿ~Ô^!%‘ôŸ¹ÍŠš°!™kR„ÄI5=gƒ#iïÛÎ3şÏàï¬{6ù¢	LÎøÁá€NáH†Ø{U³ şÉ0'aT½"à—VFFÿrX>åø–ŒÓ4 {gM§ctò‘‘Öwªa3ên„+©àµl„!Í-zt©³fÔÎD»–çVÍŠOu`leXlzµ©	DßÒ²ùON ºô§jGe®ehÉ»i^2@J±ú¨vÏş‚b¶Ët¦€gÿML?nED©ÈZê·{V„{åÎŞÂVÙÆ=ÖŒæÚöşGq4Ùå‰x›c‘5p†…RÊen46K#í\¾Q'ğCáÖÅJ§Q®VçÍr—•5“Ãsı½ß0&3ûÆÓ¥68Üm‘v²ó<ué ò-<jÊ}¯ú,ˆ•¨Â›§›üØá×ì9tÛÂ™Öz½³İ¡•ê’+H4ºğffj´öæ•„¦×o;ó}¢²¤ñùÕR³#ÖİÊx…¨“ˆš²Ã‹œÁÖ‡`°?¢¤ù&PH"‘¼pvqÍ‘Zqi¯¡Káİƒá›4š/!F-£ŞX¨¼¯3­z¼‡8;î­V@à°Ğ+rf»w&¿³ì†#¿ Õ´7u‘<¡DİhÂÀôĞ"Ô}š±áchæ`*Np¢ä)ß½”’pw–ç‘ÖË1çÍº§qîå©7ILvuç6¢c!çkëe!AOúz±:aÊ”$xoá£7vİ7*B†¶0aù-£$w˜K†YîrZb]Ÿ§g
+4HÛøqˆ±…ˆ'£w³®(¦¡]yO—R·i@È< ¼í}–;y”C@Ö„lùä—†j\<÷~Îoà Ï_û”Û°&ÛÏ²Q‰?Ô¨Édò¬ßHÁŸmÌ×
+"WW?g¶¡·S~‚3šl¾ñYÚÉó¬³x6–,€·ôšòü¾~©öW3òÒl`	uüFâÏL…³ÿ“x{AßÁ‰²ñL‡#Y´û»[¸¦bûÏôD.FéÉË&\÷dŞ êc Ş'¬şşÁh±ÁôP]~ öäùI‹¿	º¤-½¢7âvK…e&ıE˜‰pëK‰NÚöX±üXÏ¬=•O<ş‡=Û3{Ş?÷ªS¬ÕÕb!$ï®ï¨¿O"ÜĞª¤jú˜òêàÕ9¼u'iuZñŸz~ı‰°¸“ŠwØÖÄT
+<Û¸É§†,ûìOİéÌ4úÂY¢yßÄn¡n²¯¤Õ<ïìûz:m„ïmçÛÿU2Sb]pò”9*®£ãªßèƒLµ*wºy˜•M¡ƒò½šŠÒİÑŞ;B ,“áÖğG¥úfÔPsV‚OÉ¹>xäÖŒØ×¹]¡şDBj4Ø,»²‡&_«°{ŸŸ—µ=FƒåŠü‹íjWóëH$4{²ÉGdwÜ¦µf†Âµ÷ûF{*œ[sïğpåÄX£Ÿ¤d÷JQİ ó«?xˆÔè¼ób ı}Ìçß“ÈAzÛõ¹šäÑ'EF¦ßGÒì‚~<f›ÃçĞ ¾{ +gã(ôÔÍ	šE¼Ë3´dÔ)W^å,¶ğÌÃbĞ<+›8"»ÎÛç¯ uì‹ú0{§ a²n.šÊuÔT/s³@1è¢ö#?¯üÜbgÄÍ;úçC®ª˜]¢^lH(7˜n’¶AŞ¿Pıa‡ö¢vv”ŠITÆöö¥XÙij0ãˆ@÷oDÍ!pkŒ_È1/ÓQ; T¢ûŒEÅŞ­n_ev=>Ã f²,LO}èWl(D &’·%ŸaLµ¬ËË=µÉOMUÏ5°=kÙ<ïó¬†ş~;ŞÊ º‡”µ´ÂIl‡à©|%ªÄ©foc¸VÔt@¨*á*¸Üª§¯¸£KV¹š¤|Òƒ4Ş(SàZ8.¾æó³Ç¼Wó¦»Ürû™¡Œ¶æš™IuÂ¡­û p	xp‚AÏ*/Ï„Ê‚~h„ıÜ²J³"%:µ´™¨qíõƒ_²'4l?S®o¸wC~!»ßØèQÃÔÍ°ôl–Ãùî~uét5 pc
+$”¨\(ïHùEU<‘söù®ì÷-¤*†¯Y[¹GZ~Ãî×XLFª»5Òû	¶ê"oõ^4×4­oä+ZæYà°º±¸Vy±—šìõ{,è‡DÀ~7ŠjîÇå¸~
+¶Ì×#kÜh>+ç¢ÓKÖ=´¡B9N—‘dLÒ£§«\³kÁÀÇµ xPmá–Â’2íÅÈéÊW*qVK¢PÌ28àbS´~: %W"/5J{rd]óWÙÑÍJ¼÷ÚÌJt{Å÷f:Z1	Ûôµ¹c½œskĞÓğûìnÑVpÓ¡,G}®6d#,ääLTÙT»™/™Ã£?–í#³»ú›p—s´©\”Î/aI?\ÆğyPsuÛÖGI"oàÖ²§Umû²w­‡ux‚Ğæâ‚•ª&1ìÿ€[1x¹aW“x_!àÚ¢‰—>›Æ!Q[OW¿DS£0"±“‘Å] RÊ°;LÀšØªÅî¾¾R¬#(|ÏôäáGjŒÊUõ£MfnKEWN\‚tÊà&0ÕÛû¦3k3d‰t+8ËƒğMÈ\:ıv*XÁ©TÍ =—Õ=‚D*é¿±³m­ÇqÛFoä„g„y¦ ‰5rĞÅĞ¼iÙÿ1×ÛÒ˜>T|6U‹¤`Z'q à.²ÂŞ©‚ûWQıŒŞØqt Gè/é´òŞQ¿”æ§Qƒqÿ(ìw3»û)8D‘ıÅn¿>ê„Qàƒ7])åíA»ÍşÄâÍ¡Š’KÁ0ˆjæ}ê‰‚ÎBÉAê|Ÿó¥ÿjK 	C«Xè›YfôäøV÷•¶×ÂàäûK™‹®;m…¼rÁ4-¯<ë÷›_p2µéøƒ’µßE„æ¼ÜêÔg8MŒ³ZºkA3½%×£<ÓÊş8µÒÚáqYĞ…·mJXïÌnµQ$WÈfCAsñì¼©L±•¦İY4†tùä¿õDS‹*ª¥+”;¶òBTT¬œçÄê*…¸ÌLÅæ)!ZşåXXüÿ|ZùÂ ú¿4ÿIÖqÉ¯©RÕnê,VuÔêpYu+YSXû r‘øp_QInws¶¢ Ü^êµb•ÄñXÖ_BõJÏ›¸ğ…Ï•AİÅış¹Ÿp´Şš¦^õe2ùÖ.æg·rŒõö&œx¦}ø´rSÕŒ´ÈÚü5¿Ë!±{à¦Z€ìßˆAˆèÿ8MÜHÂBqÃ„¨ì	µˆw@®U…4²…ŞË‚Gˆ·Ê*Ò¬öcw¶íıH€1ê¹m>wğ¡ ­Tj˜ßbıû€ïU@¥(JáïÄÂ´Í²‰®E˜BYGµÖÀ)AòãK¤ªï–íšş/Ë¬OOœNc†êBû½…'d‚ˆ'µæĞGá6”ƒ*ÕÁ#“X’%äd4[Sæ ì˜jDåxŸ‡ó:Ÿ×F¦‚‘}qf\˜‹ãUY‘±.´Å&WíÛÏ.ŸqQ ¿?‘¬ˆ)Mıt\y^`£Õ“òåz{oÆWaÌvÅzIÙÚ1™)‚Z×Nk³çN‹_	¡Ñó	pÌ%S†õX}¥" @g${ƒmósågd©ÖqQ/Ë_?NzûÈÖNÏ©×ó‡ôâ“–tx@!ªò¡fÔˆyã´XWìõ¢¼0‹êÉ6ûõV•”‰É>…¨A<¥$¬ 0ß@ pßß€2šÛÑaÔ¶µÂZVy#+tÎ–¢—Íäşlê‚æô¶’^ª7ºß¾FbîgŠf¨oÖšÛ&=£@Å©ĞçxÇzåãô…óû«pãOlXoËl©8>"HYÇ±9LjqZ°ìÃÔô¹¾Ğ^@'Lœ{I;ˆV/W½Z-Œõ=É…â£áíÂxy¾>VCap ÷	[Q¥kI¬¬Y–)Kiİ” Dô’£¦n,•ªeH»„©j4º¤‹F¤ƒì€l!Gı6%[(j Õ—$KĞßd¯ï+Ú‘}a·×`c}­&Wnæ	òßÓøú$—`Ag>AËÂiüşT<§+”zfØçemqO1÷,t‡îâ_q=˜£ZœÁ–µ„îµR*Ì¬”õºêT¶­£;ÜÜUMÜ9f×UZ“€ÉËÇ²Ï0ÌÆ¬£i â…Ê\ÎÙîu¸C¶j¦¡¦öaá4l&Uåª»ËÊÑ™ışH¸5#9b–¯ô<‰igÕ¤,ü»("‹ÍÃ—åUÕ3.]q›¾cA¥Ş<Ìÿ¶“ù2<-Ç0c%ÔX,«®ÈjÕåÑ‹Ü¦,aÄ—íu8ËOqõØªqÄ¿÷Š,o¤àç/®M;æëÛŞ´şw- ¾Ü¾İš&Î;Ã‚¾Œ‰ÛõˆG¦<Yc/ı¬‚åŞÆUElX…Û¯ İ@l;[ùZ‘k‹ÈœÆ?~MÚ;ÀWMq¯š)¤Jj&¦­=NşcM^sIdİ?ßÜ=§@L]µ¦;h’YJş9¦Dc¤¦ôcÍŞmØŒbÊ2_%'©ªŒª¬ÒK%¶á>–À_Và+6]GoIZú§¾°¡Ò·í_6#á´Î3gËQ”*ÎØU<´‚&Jë ÀÙò“‘[ÏFx×ï”/Õ¸2-İb¹oŸE¥uX·ÑÒO,zò%ı4ú¬&}·me™İH:}ÎPˆL=™â©@Ğ€ØSò5r3w˜/†È²Ò!3Éô?ô#œ q*M'×P‘jŸºE§´…Lvq[+ÖX l,c˜ñ[/ŞÂè,Æ˜¢°»ßl%?y&ôl"r/~„ı¼çõ-ıÖÄÓ!×_Ş@TdNØÈs.±©øå2°ÒË6'Õ¤òí^Kâ‚ænıAÆµ
+‡Ğ ²Büj2ÊgQ@VV°U«e)|û¿'å°ôº“Î&]¹[M SÏÅ–/;Q=é*Û’%Õsu3EŞ«8~0$&#‹£Æ6í™WÎX²bt™,eŸ@9ÁJ›BœôıòL‚Jå‡ãÌB—¦ú«ÖÇ+¶
+åq½ƒ¢=h÷ñGŸ%Ş‚±U
+¹DíkmÎ}ÅÜ\’,¥«IrE€<ŞhSx',ÁË„ÿW}i}† IÿÙ³ÙjgR8ıTlK2 Ëá1˜¨ŞĞÑƒù¯:j/ìV]GìÂãäõ	ÏHŸy—Z÷CÎÎ$2S#‘Y¾Æpø×+¶·ò9l
+ºë³l~Ç°@ú#ºÛ7leFÉ7óÆåÅbˆÓÊÚŠìÂõ…÷¼!••õÈ\üC£/ÿ‘Ï}{ôÍzs‹…9aßµî›Ä{0… Yñ8…µ4$œSÜTş”Š(%Ú]å9XÁ40;ó¹ïËRËÍ4®!BhFŸ×À&ŸÍ+*¸UééPx¸1‰Å
+wå ı®›¦|Èæ€6bÉHÚÁw¸µÈÆÖÍÌ~½ša[.eô2ª[Á¨8[‚ù£”?ïEv€í4ÅQ„Ú@ş|¥nde•û¨£Ûâôb—Ab)úÇ&zYV¸î‚ÌŞj¹[;–’ì¤W†p Ÿ5¼Ú°~Š¼€íDû“òô±ä»2â£M^á†E´Ïõ§&”Ó¡J¤BßÏ¡&IóÇîï¢H3¤‚.a.R[ˆT ½‹*~_X±OàÛuÏÃ2ô=oö¿`tPEô*‘å4jóh‰%·õB>V
+ÜPÛ¾°dGrÈ÷¨àù›ª´‘‡v…‹é(‘ø>>?˜2ûÿM¨‡‹í“0"ã8ìÅİ|Nf$¦ XğÀÿ½ĞŞsŒ´ã$¶¨G¥ç³^†‚wX%/]æõãóş£'"•øv©ù Ùw3™: ¯âÉI0å,5Ü­S*/ÙN#plÉYE´¸Î0ú„ˆ´Ğkº°‘GİUâ°hqjq!sèGŞEx/Ü¥Zs¢g+Ÿ”1\²o°~ÊÏäÖZÏñ&ñ|dëˆwi[|»„¹Š4Ë%Å¥,6.Ç/å‚g•\=#/-T˜c¯âÚÓ‘GŒ×‚Ú<`3)çpñ=á›—¸©Q,©şıŞÓV8Öñ¡ùŒûG¶C»UP>ï\!)§Ù¾?/|Àò€à½hÍìæ" 
+\M£*¿ñz¬~t–LA&Ÿ‰rr3¥ÌÚVZ#ó™Ûã*w`ˆ”S7·‹Öª©÷ÕbP‡Îˆ%Ó¡TÍë¦|º/™û.î"A÷Æ"Úàìšç^öCe ¬pGµËâıÉAQ(V¢‰Ó*² EfV»¾N+ q<•½nE‹İf¢ŒeRuä ¼Cëm9ÚÆâİÂM¡íÀ“lÅ—{O“¹Ò†'ÕE\­€P˜6˜Ì§ûÿ9K
+tĞœ€[ß‘áQe¸ä’#Ö%A\ÿƒ©çO	v×ƒ3Wß5ĞL¿-ü­òH#~æûNø]„ß¥/|~ºŒî
+ÕêÎæ×İŒ¿íàB.rAğş¼é¤SÕÚ½ˆ˜§æí€–©Ïé´Ôğ›Q¯*¡Á“µ—Rò0”´Êr§WĞµÏôSß şş‹(iÈ†$'ø¹Ñáü#Xmp&¿ÉÅN-Ik£÷;w<'¥GÂ°‚ZœN‚dıÌ™É'|twi¡ÎBps’5×üáÔBR¥€úÕúë\Ñ€Åƒ–ˆ~Ğ.÷†CsZº9?äy÷Aµ°:mĞ 
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: image/webp
+Content-Transfer-Encoding: binary
+Content-Location: https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_30_49.png?w=1024
+
+RIFFê  WEBPVP8LŞ  /ÿ‚W G¥ $åàß¿æ…G
+Ò6`a»£ m¶;ó¯°mÛIºï˜
+16˜u«[\Ç¬İªfcÃõù£
+0K¥°{2T-CPŞ3ÇŠ¡«[â†„øzïŠÛş/iµßÛİİİ§»»»cm{œ±¡(*Ãà™bıP„ï¿yãèuš7~ı‡àF’")¼|”Çü ÿ#ÿ#ÿ#ĞSÑÍ¡gi.·÷c„^;º<ô¬CÏ¾š·Û4BÃÚôÔ³sàv!´~„Q…0¸İœÄ<XxÏ
+ªå÷xÔNĞãYÎYÀ¥æıíë'~{sè^Üşzimëk„"_ÚùÃëè»¸ÓœÒ~{âsƒyù™şı'¾|Şâào+ØŠĞ¾î>ôäMp§9Å¼‚¾‚ÜËO|“|}?¡§çòÀ„®ƒ;Í!yú9[èÓò»è+óGôVÑ]oğãîÕõŞ‹»Şø,îzµ§¾²õÔ9`ö‡ú nxFeB‚påËOô±wŞí}õs¹òÑ_‚¥ı_šĞ×#tEßĞi\høì†5k¶<xpÛšÃ0(îÜ³é’éÓòµ(o_³æ¬²gÍš“Ê5kbpËá-Ï"Ë¿‚[ûy,hÙü;¸õrZXXHo¤Á­§;vìlIò?ò¿ÿÀ‘Yî^W„>wÏË·@aïvü³\±†ïqİ4à¾×ñ2,Êİ¡å4p7”Zp3ÀÜëdJchy÷#‰ç…>ÜA¿ :Áî[˜çyåƒšhØyˆÌóË£ìïöFÙ´R}0HêÀWp?NÔë“Ç `¤ÆàX·Â8¯+p€ıpwØZğ3Œ–%ÙaP1oDÛÎo2Lt”CZåy[iY×õs	İA¶½z wCIjµZF>[’N©-ŠpEë•ËÆUu.oŒJ;_ÖíÙùæ€¡Ú2Ç³Éeƒk¨l²FËF9¦ÀğìeZ-Ü`“ª/8(Å”[Àq.ep‰º*õJõ…ÀŒ¡à%V6ä(/´T¹W’£BŸ-5’áQ+*½^ï\¼×“Î\h
+g&Ø€0vÒ¬1ŒûÑåpx¶s¥­Üì'Š”8Á İ[ÌVæ%oŸ’®ğ†½*%–ù$7Ÿõò×…P›ãoñcå11¨D¤ ÏŞõp8_(Å“L}¶¨ŞP€Ôå„æ3í`q²p=EGÜR´ªrí Äåré¹R2¸©]ªFø›#WÓ4ílLÓÎÍ\9î]?³›ú)²[±Æ¸ yÀ2cÄ%xÆÇ¤`,Tİ´¸ÒŒ	özñ@¥pi:™]”çu¯ŸºÉg›ağJ=>½" ”ój„-Ö.züU
+, ,QšÏ ã‚Ø€Eß…*ïMõÊŞLÛ7ã÷K¸%ù!Ğ¥G­ [OöLã#Tàêüøôí¶ã­+c2îGc¢¸¤¯4¦Q\¾áP´”#¼ß¦†Wó…9!Y.Û“Ôª”¨˜…áÙ‹‹bİV²atH‰/ÎÊsœ×–u Â]©fÅh#ÍSŒâQü-GN²:yj–:{íœ÷ä?§wÍßn‹äŠÔdišÁ¢YÃlg‹fU‹‚¡Ë,šLÛŞàÛÑ4K69MmcÅ¨˜<_i«}	*†DòÃ[[j’¦ù¶Ú“Õ£J·°íÛk½
+¦é˜åT¹¥€hZ÷×aEÜ¢«¦JË¦ÚÆ5PéÚ`	ºLª#°âªN'uòôUşÚX“½|b2.F;Ñ†5&ízôpø½ƒÕRÛ‰ÿğşŒÃÚ-¯ÒrRO2N#RnG<ÍÜó@»÷Ÿµd¤ùá1:ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿ‘ÿı{
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: image/webp
+Content-Transfer-Encoding: binary
+Content-Location: https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-18_59_24.png?w=1024
+
+RIFFB  WEBPVP8 B   * D>Q&E¤£"Õ@H±¶ı.hùl7°/Ş *¤@“Ø¹E¬rõeÆ¿ö›Ó3ûŸúGâÿl{Oñ²¼ô:[şÇİ‡Ì¯ûÀ?©z”ÿHÿ%ë—Óßü?E?²?µ^ëŸù=wSÿmì%ı[ûşşÉïC.?ÜÏˆ¯ì¿ñ?r=¥îêúĞŸZ½@ß- ûÉjyjÏA0ü“8·{Ë»›ØŸšxÑQÅ¦©lsô€ıÿ²Šî¤z™ñ:Suü¼¼ü"»»{ uoñs>¡i6\¨Ù[øÛ=$(yˆ[ÌG}leOéõÎIÖ æøÔ…šÓ)@t3.RĞk­ø?ã¾¥}¨ÿıÍ ±èî©ù4ïv§^_õ*ÈâÌ­G´šXÁRiC’Ü+÷%×z4Ëz€ïg÷¢B<£^gJ­Vû£ì±èŒó¡Ô‰úüë»fğW•ë™Á‰!Un÷^eò`3*¦µõw)”´ŠŠô_ê+²£,‘ÅÙ½fºPyMÙY3D´€Øy'Ÿaì
+Õ`³( P#¬’â b˜«
+@[ _¥?T2n+SØZ-gKcrNP.°ªêÎâ?ß|„Ğ¹2ißÿñ”Ñ†Ûª’(—®L +À•8™+=O´*eÂ¡NÜ‰Ênº×„{ˆ *`M#ğ Œ×bu¯˜r´¤ÂA êÈBÂF»÷äzQNeÑ[4¸.†¿ÿÿÿ6si•uÜ•†FÁò—•ï¹ßv:Â€e“M3,UŞ ç2åd!~¯ËŒ)«6[qK¤ˆÁNoè_yŒ)‘ßÆ{ÿGê”MÕÓ03<	Æø3„²·ıí¶&ÕA‘5GáÊ<Üñ°ÚşÊîûï_(ù½ÿÈ–PSƒç~øÁB‹‰ô_$û3•òàD3Kmqİm·Ó²sºUŞfrc*í…µËÁáD…ÖKÚ¦è:…lÂ¯ïw ”íÈµ
+ı'f¥AæÔãçwLúâÜC·å\!šWÎ‡{_4Â0vYe¢i«Œ{™ğA†õïÖ9ªğ¡a8µ'À>4»P®s·H¿.]Ë—Qœƒ+«ÆaeÂÒ²ÿşRnW@ ÃDùg¦ğÆZLä¤a¶½àĞÙ?ŠÍ[ÈPoá×¹1ÌWù‰×ÙŠ')¢¬PF‡øİ®;l¶È nOÊÉ	7‹±¿
+†Su@FCº$fGü¿¨äÓÂ,Ùõ\iïØ¹)ÙÒ~dN¼+ÑòXæCÀPzUŞIª¡Ù»ÅµÉg”§Gtìó£HÖş}Í™ù¶Ï¬ìê€‹¬?UŸTÅF#ÓŠI6õ£½…¤Í÷0a4¤	±[R+Ã	µ©ÛÇjj"Bw\x¢6ä/9ŸÒÊÕcö&È*oS8|uLpôƒsÅ,”¹ËÔgB¯—jhğkgÔbkkÓØ_ã²¼#Àï}œûáö]%,| o®{v8Dê“†LĞîQ<ï|'YLe9O2é¬4-T4Î\&Wÿ¾²oøÌÑKìüb%Ğ·Ÿ^İ·–ÅÇæú§?Ğo@U§ş£‹Ã+ÇrMÃĞr–µÚhËäĞä³áÄÄ¦É	 Ô«Eò)¦y–ã¶]†Ë¼ÍÅÃğ¢È£bGúƒqãu7ùE“~[Ú¬#ÌŒQ«åLÙVömÂ‹	÷âMm>wË‘ª¬:z’¶Õ_ßQ™ß jsÜ×ó¼ª†5¹ŒáÆÙ¶‹š5Ó¥¹W©8‰.èpÉ˜Ş«²Ğ¥
+ßçrÚgŞåjºC–µ]T
+£¼ßå%­Åä‚i	¸5’‘Ãï·ºğ6sôÁÖ;•Tõ«ôKãö‡aïè‰xğDò?GÒÙQS±RéÉ¤¡¤J×cö˜AãñYNí¯Å0°ï:y+—í\Ş–´æŸ˜OÊ¹&#ú¸"]ø'øäËÅLD¡a­ü¨Ÿôê£–_4zÍ™F4àhNÛÔiß~Áôqg°…ds)`˜-ÈND½Ö…Õu¡€„wu…¡ÉÙm›×}fºi»Õ®ŞB6•w,×"½Òôcé›şUï@¯DSŠ1„4V$Ó@”ÁŠñmËDÎM¾"šT…Ê±SÁSAk7øÓŸ¾ÿÅÜ>÷Àƒóf‚EØâ²°„æøC]L¬oĞRxl)ã§7š
+Y¶‘†‰$õû_„Ğ_¤;á¬$]|Ê«QQKŸÅ>Åu	wkWc£^‡Ø7µ÷‰… Ëo–ßÙ“—Ğ¿Û±qMßÂQóÓ½¼XÔ#å7‹ùäâÅî»¿@Y÷dR–`³Y2•vìîNp¶üã¢êaÖ¢SU7°a¦öpÇ^çŒ#Z¢—|‚§§È>ì‚a­ì R]UB£(˜‡&äY=<¢#ƒ‘>ÀDKUq¥Ã8]Ÿ-Š	U.|£r\>.¤YÌ»Y V¹µhXnÁi	á~U÷omÙ
+¿ÁCU™¨WAu”7’±ŞŸUm`)Æì°eóĞgË`ù!´†¸¡ ¿š.ÌM¦m
+n« •yº…*lÛz*q'v<®wşDí:W\ûà8Ÿ”eƒÉ?­xOªlr¨çC!GÆ!ák–×¡ÓşÛˆô`m'ÕeZôÎãbôé°Şpf€•-–~©RÚ°£e”¥$¾X¬»õd˜»qùnÈMe*üŸÈi^0ÖÎTÆş%Ø¤¾…Rè¼ÓÔ[Œ(=¶$ULÿ¤pœŒX¦dãN“tÿIO¡™5O®õœà_@-«**™Òš¨!7ÅìtF­UğÍÍÂiæBr“Ìå„µÚ?Ş-—3ZİO3I£,P ô!ùÃNï¾ğGïø“óíÀ-r\ÉSÖ,!°.³¶Å<fÆÂvËlPM^×¸Ÿ¸lQ‹ÿã¯Ìqw%(fı¾óJ¤]ÿníî·C “Èíwq|:éÑ?à˜Şÿ‚ÉPLzCbIì{×¡q‚B‡:0@=G)+©²«ÏØ¯s÷JŞO¶º@úæuœXW"ûÉ¢nGĞ$±c]£Íß‡öŠ"›æò,÷ÑşpıÿhİdÁ<ßÎ0øÈıŞ‰`¤¹·ß3¦FÇÕ½Ú}K?GºêU…3l›0†wpÁ4}‘Áe)íƒÛuÇƒ4x~Ô{oÙ‘¸A8‰.ãÚ ¹ö„@¼R€/¼È3\Coƒÿæmêƒ3ìK¼›~/Á[Şp¯¥Çß&UĞèJÙ¨Ì‹’œ%o.R k%Òq¶oş¯Ëşl*ßø)ü"ñ\õISèÃbÄ×ó¬®—W½>O—óÚ™a´ğtbÉğ/Ú Y‰ôU@å lÌM®Ÿa0Ò -¬ÒËœÆùQIc ¯‘«Şe­Æ—N†][b¤¹Ø¾…kLj"†·=ÏŞNúşó †øà­‘úAbPCc í—16ófÛ0lu0İ]§÷2%•ù,Z6ÕdQÊh´VmÀ®ÓT^NÍßg0Skı3hêæ·wÀ…!°ê(îâşF¼â‘…F8;FôTÄÊS•Èïbq{ƒ¶ÙçR‡¬<©½Üá}ÙQgî¡ÇTTTVŸ1<Í‰œ^‚ßG
+d6JW}l‚õVÒ¹/ØKµ0î·Ü¾Ìl	…YJìÊ2¿…m!iy±ø|e‚ÂaíğYœ¾³1K¾†ømz–Ü=ÔK×Mˆn ¤³i|tŒêù,jPbFÀmP},Öºaé_î‘ÒD1ÊNF|@úJtÄ‹ôÙ£Ç¶:)®èÔ,Çÿµˆ,µ‚m\—²\¬5ÇGú\ğÙÅ·Á†ÿÌ†Îyeƒ0¸ösR¬Å{d=xWcø“6ƒKJK^]òèù°¹ ŸÏÅ=
+Ü{æ¨ÉŒC–trâ`q]ú0v´ñ9$×Ì‚LÕ‡Ò$o9~m©¬Óäk^ãKÒ-$Ç´óÈWDõD¥ú„#×¡uàıô^×È	rÑ6•Ø‘@Ï±:‡ÉKYQ¶”(‰ºÉd(…ª+–cúÁòdß³Ù¼ŒóñæcdXõ´)RBò¸4<B7I]á©—eQa3Bı)Q9‡òdì¸±ê!gxº-ø¨&aÂ"VØ¶¬ıDcsŒ–¿õ"HÖrzœÑ«;O!éGôfò]‚"LÊŸ‘‹Øæ±ßn¨_'ª9ÂÑPîb ¿öağ09S‡›|ÍÎb~0*¥è¨vesŸCáI}læép‰_‡gˆ8¦	ör(‰_µÇÙ÷4'`{5¨`fŸ3ç›Œ ±¡”oÍÏš
+£z%x;pÉÎ]!ö~K§ÌÊÈDü­Š ìá  ş÷âÿ\ü;ò¸
+‹Ñ/@,÷Ä™àfIÃÂçSw&øˆú) ½ˆÏëK€{J„ 
+şuKd¢QÕUòª ›uÕ^Apí9¡ŸÈôÏ	–L¦úÀ~Gn˜«a/ÄÍ¨k¨N”…·ûqŸ\Ói–Vì?7ÚùtË¤?ô6E¿]‡Ä}…\¦ıÔj.sâBşOoû ¯ÙVéÑ‹G˜+pP´wpÿ7–lÓtÆâ¤;¢»«Ô(çqfùKàA#9ÖI§:™å¨¾«1}jÈ³^q³pç§hÀĞšwr&|Şòã)Ó_öiò‹öÀ¨áÉ$,±/Dµ|‡û'õ¶b¢iúæX…ÎJïıá"Ûƒê©0X‰>271 _€†GgmD…˜@P×=¨úP¡½´ ™¿‹rDwBBN°^m=l’æÊ—!;p”š‡s³M¿¾_úmÏˆ0–vÍGWÎÜiá©Ïd79Unyñ¤]Ù+ú‘£|xƒ	+D!:Êz:WTz“ˆöG(e8A™!ÎÍ¶ &íUßòq¾OÊôEöøÍšĞa^A_‚£bšO6–q;{niÇh‰]1Ö¾ñ‹¿£Xn4. Ë¬ób½3ö óï¥ZÒtS)›B=ô²À~ÚÑ³y;é}sßÒé tÍ·9TNø-ÒÉŸöLä\Ù3>í=ñçbßRKNxu1ïN9á¯·(nÆZ|#~ˆ86fÎF„$çÜEÖód»w"¬÷,¡wZlôÑ&XUpÜ‘°©Jş“¯qx/ànsfuê¥şºçé9ï2Á#%ş4ÅšhÄ{å~d…1Ù6jÉ°Çn(ªNßt!ªW†ÅK;¦£˜˜L¨o˜E]Ì .æ¨£ØÂt‹Òû
+ŒÓ=ù@E[Ta,ĞÙ‹8®‚„Jzn…ÃCeoV¬õo‘ƒíCÇ‚¢e•šÖ6ƒB?dÔ@K>4ú ¨XîŒ·¢ ÿûæ˜k[uÉu¾Ÿ4è(/÷¢,û!/Ô1LHL‘@U/dĞˆˆ–+÷7mX>¦ğ¾D94xWha&„	Í5†2í*RÅíĞ«la?sõsİ²ä%j¹ƒ÷d/ÕË²O±}ÇŸ`­u÷ç‚|`Áíò™¬ç45‘Cà:¿Å ²ôa‚â ­$ÚK«ö*îkø!ÂYş ]7Î:¯“È
+ù=`‹ADŠ;tĞ€“®Z[®Ğğ,»è¥Ö°Ë²q(fOçäÕïıÿèçX:Í«u×'Nò›9ğVß”Ú¡ÓğxöıÄÓ |/-A¡/ÀêÙHÑÀe]éAçç¯A™¹ú/9šõdÜCbCBlã¾ÚUÄĞc(™ù¡4Ü³YÆ¼Âİxb8¦M¼Æ(¨i—Ò…T›²[o¸p›şšÖ|,;W•LîöÔ¸`ÖØÂ(ƒkÍÂİøä•°WK«ë=¹\¯4)¹P—£¶\Áˆ°²
+¥ŒîÓ%ıeõ-)æÉ·¾x,¯ŠY´ùíí$eù­U‘õ¤­)ÅÍ€ 0õVx;Lö“'.ÛUbb¼O:®g
+G¯¯—¿€’rà¦±û¤*bµç±†‘¾Š¥³ıÍ˜.ÏşQ¿;ûX±§^ `…€-¤ Ì’ µ›=[\VØá9Ü \J±îmç|+œ¯c\œîÆyÉŸàT±‘b»Q¤õŠÖÁß}È\´Õ8Ó´ê¹5`ZFØvù•¤€ú®¾¬EFâÛ[ùv<;Æ‘‚Ş BÉ­®3kß¾À¬$Âß™2ÎœWR„ll¶}m[_Öí¡O¶[ nS'‘Ü€u TàI‡Uà<xè‰¤8ü˜-g+­X~ŸSAˆ‡ÇŞ¤T°g*Ô«=¢ˆSñ–Ã`ˆ‘§é5¸1ò?‹@–}UÂ²ùù‰o­	¨OÓ„jx÷CbæÍxM¿$L¬¨3±Ê‘Àó¡V²I_‘¡Ô†y\Œ©y×ß’m¤$ÚIıV1‘›•÷2³ƒó:?z¾M 4µtñ_”ÊTŞÉ]lê(yl¯Ou¼«´@L•¼Š«7gäò3 	XfÕXğ_×®s€áò3|šqrd™‹l9ïV×3± CáÊªÉæx“$tOavçÂ¹*JE2ñd”¤Şn°ı»ıdTœerr³Xos¥å¨¯xŒÛf&³“õäÓWôœÅXÖœ*pb`aã¾! 'ï´x^1o£Ó;öF÷OÏ¨Æ!ƒ¼Ú3ÉŞ-âƒhSY-;.5‘Ö¯¦¶E…ıÃõNc~î¦uÒ±áÈµVñ™°ÂÆ¸]„Š:{cŞ€ æcB£ÿßøåã·1}ØÕ,ËÉü:r!Çü1¿f»oçÍ\ÓJ÷@Ñ>f7P‰êÔü¦,[Ÿ¾c÷ İ!¥J¹íƒãAä¯2›«f_ºóG¥5CKW”õS.VíØAüqAÊÇN\º3PêÅ‹‰`eáÖó¹E6~ë5J²ÖXğĞ¨²ùáºìñBµ˜óu?r[Ìœğ(Qîd¡)yÉ–uKÈÂÅùÑ¹âT*·±vySùtŒv-K.T‘…”©Ø‰7ññ!•älÏ¼‰ËÙ—(_˜¡š6#:	@lßáÖp5;f¶?î”’ÔØ:®–}Ù5‘"úÌ0Êƒ_'åê]}pëBƒÈp&Æ=*Úßì¯wŠ‰càü”³’Òä(šÓ*baó¹Úh/õ(¬øœíOèâ·„U¡F®õ‡WºÉÜÈäXÌÀûcüA-ñgæ¥›¢Ö!‡p|èa°}6$ş]›Õær©»mo2ÊšEİúğ*;xÙ®ËÛ˜óL¾3'ƒÃúÒÉ¢Á¹©£Q)Äú³/›d‘—…İÙÇDv~4zó³ÊVM¥$vıùÔÛŸşê…Õ+ ¥¸"è+mÖaÙF8ød5•¡F£slß.‹,Q´­‡å|£Á‡‡2Dœcrdª‘…·çŞ«ş“­ò~ÏÈ‚ê¢¹ÌˆŒÃ ;[¡ LwŸa÷K±å°è…,fM•iZ[le×x½“FëØ+‹9†ÖöT!Ë@l–¾ŸV*;&Î„¶Â_è¾Æ·ëLÈ«+owliÁL–«+g8ú#NtÇ>Ò8?Âí¬rx˜cæ"‚ø¬î6M³µŒ£ Óág3ˆNçòø ÂçIõ2ĞäaÔÁ$u1Õ–t.$±£R˜Fê²h¤e&ÇióÚ¨§¼Â8ÜÍ¼AÛ…m†[:èçQö4Ş€âÊØÏœuc‹²M¯Â l@)Zñ§n
+5À­³	î¢•›ZÂğ…ù+ãïÄkÃÍP?sYÒc0³±|ifqíå\g¸Cå**[Í(šüÅ\V ÌóŠ›Û ã¥9÷ÕxÓ>=Â˜EIæPXU“wàéÁXí'ô9 X	bxºÑ~Êr˜ÚÀbŒ6à²”ïjîÁùG-Û+vş'<ÿLBkkŒ}~¦Zr@^Í…,x,½¾Wì°òúÏV½xøˆwuÓóÔùK·>G¿ıîH4ÇzÏ)\y¢;Yó7˜yG2øØ*zœk£I{[t4ªı¶ı¿-`[Í Åéf»ƒ‹;õñIF;®BÁªˆn< ã&ÏlÏ6¸æHÍFÒª"®ÀFço8ø—ë$ÉWŒ},Ñfns#µØÑï†¿7Y<7ÑP’¤Ä^=î]6À/i¾s  xôÆ;—…?Óô;Û5Kş‰7ˆ“3¦ñHrù G²FvpáÇ©Ò¯ÀÏLDLYaÍ(±6Cï|â„Òh•Ï\éşû>•€y‹üáW¬ÑMˆºÄ“P?ø1|® Iº™ŠÑßîT`hi±¾$§Y&Ñ~7ş ¡C<[mz!0Û®$Yuz¤$>ÀÖü«ğVÆ]œÍp?ÕK«»D´Ü„ìÏóá?hÎ³ÃbÓğ{ÈP3ö‡b©Şj×Ğuäëßù6Z/ò‰õg•¼¶¥ƒßâ•‡†è5k™äjY*MÈîøŠòûˆ¯k^¹fP ªh)½Xš:ˆôÛXvç¿ã\{} ö¶l\¥…µÏ6ÓÅ·Ì¾íŸ¼Iş³ ¤ãq‘êdÔM¢Ò×ô'šHBBş=1½ë®ŒA^ƒRwuéÚ€¥Ó6ñµ9 [ó13İtX… ıó­Şcø…W	*dÅ˜¶NZ9¥ÿqDeÏ¹ óı†bm³Úù¸3GŸ";?Ê¶]Ï2M	ÆA'ë["F¯)ò3´¦Òì:Æc.Xåê9©§§“¦$§ÈÙóªÔhC;BÕNe¯GD‡]kîÇdƒØ®v»‘z&UB§Õ¯¹{YãÌFmLß&¬™~‹0©€*â%ø»úßBê”Í'&4FL¡r‘FİØTv‡b†²¥>>òôsqîzñ·èí›Çî¨Àèö~ßt36Ê Ù,ı`çğLïÆ—ÿt'7,ëß@ÀĞ0›WáñÛ£TäùRÇİÉı){zÒ´‚8¾X_×Lc7±.éØM+^1a6³&°ZÍç;Iò¾åĞPH¬|lüõ»>…ú®{ö¢C«€qmn|dOİ 0\D! ë¡^níŞN'Û;¨"ÚS~Û[ú˜ÅÉfÍ|˜`iLHÇDdƒáÊfÆ­4´¢J…I>à&$sr0ªœ0<x16x&èÖ(Ş³ÎÈÖÿCƒQş)Á»×JòB¹WJµlìyİyy¹{Â½›~_Š(}ê$ §¼±Â•A	†æ02—ÃŸ|Ä1Ç4„C=µÏí:V{µÉNv1pÅ‡ò)ŸHÌ‰A8—$^b‰ä}•îäŠŸhÈÓm
+”q8ŒÓÏev9>›.R<õšßŒr‡Ù~P“æÛ1Õë`¥ ŒpëóÇßØk|Ñ3¡@‹¦¹¹ß	¥BDU…ùÔt‡SipR¹Ÿ)¨‡”ïê}¿œ˜¿5„y!Ìº…Á\`äÀJÒÙâışZÅ ÏŠºëÍú£ø!šrxNŒ·€ZHÜŒıĞTS‹ÜK°®SQŸpü[?ˆ(1‚Ç ‰ƒôoı£¤¤ƒŠ„°ˆÑCdå“ı vËmÌ…Ìåïñ.Ÿ;Pü	ÕÍAhÙ*ø
+%èP&ƒ—@š«fBÕ^İRìèfKÓºÒWsÔºp:fL¨÷‚À9$Å³½µ,¥!«»C†u‘{ÊéıÔ<3!ÀÄGF-üíÈä¿/)šûµ@^SmG©pÎõ.¿JÓ‹¹´“=d7m«r-ò1©´°ÒˆşØÏ.;gêZM¿órG"ù1'M÷i”‹äÄ%æñ”‚CĞ/gWS¯şÿ‹sckÇëÍİÒ¶JùÕ](êÿk¨Ç0>ş
+Šj–‡b#Ø5@Š(LµÉÏ1áK)”:·¸¡¹¶i¿üÙ[4v`H[Á/¡øg3øÏ>êË¡÷:Òh6Ş[²Y3ôşk+áeX&Š«&pïMî2$†¬jWÌ^v{sÖpìşõs˜uqâQk„š¡MAöÜí:~îúWf½ê%QßÅ¤TQò…ÔzDÿS)pÿp0pÑËñxŞ@B+ún,¥¥u¶oiÒ¿öÕ3Ç“ÀµÃAÛ%ê1 ÌB|«€G%afø¡iƒv'zúV/'5=ó“†ùÒò¹¦N¶:¯’GøÀ—›‡¢s^GxNqé;áœú+3yÓyÚXæDË'·>fs *Œ¿‹ÏiZ¥ªàrğ|f‘ícvw?¥HoÇì*S'¡‡+q»p~ÊZldb^ÎÔ-#‡Ú1h’& ÇëñP‚ª–£—Ğ>ç€xÈ8“¯Ôcp.\okÔÕDY	´ãÙÖ?_¯ÛÈ¬ÿüPQ»Ë¯ªLÎ#ÆıÉ]6”uı“ï¹PE®]û>m–âD¯nœÎ`DÙÌU.ûèœ˜I‘$SÏ_¬”Sóhˆ¡µ ®ÌÇï¹T«4ŠD;%¢ur©H´¯c¾:¬ Ïëˆ1 §jİ[6°%G%$òo“¥îúCoò[zSt×¥ì ìı`u!¾‘ròi†ø@=•<–B{µ%ÓÃä\|&($v¯D,]n??„Ğ…™ñÍs“Ïåoc¶)„.‚{'=ö%Ïè¥Öó»Ó•]˜PÖ:Ïïı‡¾f²¤ºü‹-¼ZÜ~°¢X&]¶AŒ…‹rÏsÛ·ñ†èz¸•Å}öDmWsŠiDÆ³Œ­.^·`tkÆ?¬†%xX[âl¯fW¨ÛB¤ƒÜ+ú[³P £a±ck‘àUÃ”,¨šIº“QéĞÿHí%M,Á|8/˜õR¡¡\T gÖØÍ°læd[âlºÊì–‰–ÉÊ>mŸ@åB²õş&äDQ<.F¿P›½²Ï@6İuØ˜~pìs‰¡]ÒuõO2ı^T›fq|»çG&h1öÕù…\\'ÆîÆC)—FtÍşÀªô•ˆâöw‰xëwjyúÙ€3ç‡æùAs#œZ”L_ÔM»ğ>ïé†»!/rÑ¾>
+qUK5¾À¦ûşŞÃè |î¤È¢$ øÀ6ıIŠNÍ^‚é¿šÃ÷¿Í½œÄP•÷ğŸP{K|îİU?<˜ÿSó8şjÏô¦D“úî¢ËÍÛëÕ>ßĞVì€wœ:Á*	%×ÖÓ)kXÑŒ€§—Í*C
+_´ŠLCmQ	ÙQÇØFÊKUl¸>ÎÉ«—< %%CA»ĞÆM5'tJdOòï¾P(G6ş$ÖÒèú×Æ8}ÏS³Äà¨HéĞÇÕ„Ìºœ?Ø<•*£Çş8-©Ô,4™ùó™ç ªçÓq£ åŒÂU…!ãªĞ˜­æÏ"åPFp–µ3ı^A bôáE4µKC
+{•á>ˆÌÚÎ¿Ûša’^©PŠJŞ¬•í–Db-e$Ã–Ë˜É´åV8 å¿%Ê¦‰’ˆs'‹Ûîå_ÄlïØ#‹ïÖ9‚m²fé4UH›2RŠ'zôŠÔ»xQ›;âáO|ÒjUûwc	·4ıı&@9Ú¦¯´EÚáÕ€µ”&!Ô6@éş’¿¸/´èM'ßvEË·ûÉĞÀ±Ïfn“]½¬2(p$a{§hç«1or4~²iª­ÎÚÕ$ñ¾›rËYñ=ÙGh=³ÌN¡À¤A7ß)dàĞjc÷ş³m$¼4„|Júo§q´s¯ew¬.…Ğ™È:=ÛCJº˜×ÊĞPóx9aí6;{Pj­[K§P¨Ûâ¸ã½Í4‚ñ}øbü#ùîÿiï¼’	dˆÛıe@XÂo;ôÓ®µ»¬¢\„¸ğõ~ñéUiw](TÙÀikÃi/}İUR{§?»z‡¯k(s¶zf_bèi%ºŞÑŠÎøëÉFİQiW¨ßÆD(­ÆLíĞ¥›ÿˆÖ’#ÑAßlfÏ½ÊÖú¯U±ò4ê›Ø£UfœÛ	hì"¸½1 ¤u[!+`HÔêØØ´£6ûo®j}ñSø®®0¯U(zvÈeGÍ6X®(-}rÛ,"€#ç5Ñ|™ú44Á¦n©ø’_ã¯ÏÈkÇÿJõĞµ?®ya¹.˜²ÿBµÚ5‡SWJ\`Ö£ÇúrÍë°ÿm³yú®{òe®­†X«>W ¶iÍ¤)\ğ©œ TûæyaÆÇ	CdÄ7[#XôY]–PĞ1Æ=QÓ3CšW–†X*Ö t¿ç?#M[yÆ;M®‹Y,ë§zÇ%%éŸ™(°|ğ1^æz5Ã(“¡bã5ãí¹ıD•lân2™0>\·w-vyÓ)a‘î¥1V&U †x 8Ï»Rò÷Ô`@›ŞâebcYï·şjˆP²‹^ûØÏX®	û0€oPÃĞÏÛ ´æ"oC/†7—ëFÑ›´@‹¦ÅÇ	«³ŠfìÍ½Ó7×uL¬.>íÜ«ÖhĞ†¢™œŞ‘Îoà‡tÖúÂ IœÆYTußA#Â¸ç’#C#–Ñ1ŞŞ0uŒ.¹íŸ4õMÔbâÊ^è«×mÁóu:¢øe™>jz×cÿfşVÈµ*\À%x8Ò~ÒªŒÅ”ƒ(©õ„/ßx0|#»Ü‰Ú–ï@s4„†£	f_±T§@ÃeÇ9ÖR);ê™GS?aÃ­û4ˆä‹÷Ïq¥.i[Ø÷§ñEr3Åà6‚€·€iØN,ÕØ³•¨"·ã@q\Á]+ååE«ô‰û©ÙŒO¢í…Äıü”™/<sàë ?34©´Ïª¿æ›ÓÈİ	ØuÉ¬º5½Ã™¼Su–n$Ğ&‘üÖ°Z!ı÷¯|~İşÑnLÍ±¹ß[ øøÉ–=ïXf¨Ê4×³ÿşÁkÆ'ÆTOü#`®ã¢&ÑÆH]ÏÁÈ•Ò\P8³jëš§8
+e8VĞq}Tô´]"˜“xJ][·óüª‰ìw·iÿfu?¨[tQnëÌaße1S¦iĞœ² O°~£‘ØÇ9ÅÊûXôfı±1\¯šBSxvÙRò2Ô·²q›;Êß‚a•›Ê€É&Ó×ø‚u"`&&(ò”ÄQ¼îr5à/Æ~Yõò‡
+ÊO×à§ØÑffÀîæÖxW2Œ¬Ö»\¦D1ŸôôK”960°fCúp×*û¨7@$÷Ö}öÂƒÍôö,g9µo&)´bd›2Ğ‡ÌCı+nßàò¦ápÒèã™+wÛ°îvm‘ï‹ ’ĞæAÿ%ej2+Ô!Z‡BMOzu%Ç·;‚[ÜÂ]Ñ>]¢‡ĞÔ¡Ë*ôì.Ë~+Z3åØj­åuÁq‹Š^dşonV!ø ìö˜ñŸ½éØY g[e“ÛÓ&ÄÁLıMÂk?ÈOmÜ$y‹˜äíçQüõ/)ğTK/MÛ´ôÓƒGv'ïm!
+9Eæ¥F+:ıØIìº5\©'¾ç#á‹ù½‹â­Ğ8X¶‰x ”xìt¡Îâ3´é`ócnó–=\k\ä'ıÖ¿'©£(1/Év9½ïÖ÷c¥¤¨ÒÆ¥jšöOD¿¸S†„”0¬diÑÔ¾»|ÈşÉ<42\×|‡È)Ãz9jŞ7[Şh‡7°*5ÂğašY¸yp!D9¡ÛLÓã‘ÁÁâÓN9˜¯ƒE>¥ë„myÛ—>ˆá´*ÅŞİv# ICŸ’DnÑ¥ ”E¼KH¾Äsët—pÍÀ¬É¢æá¹·<ÿîdhŒ°«À#aö`3n6¹ç-ÛG¡^Ÿ×ĞK%î=á‰—§Ÿóª]Æ|GšÇN?Ì
+­ãçÙi«Úâ¢€#™	—	BæU£{%¢ÑÀLCŞñ@àÃ¨ -?·*©ÍËq4n^£ÔkG‘ÇÖm¿?&ŞÍ2ı4”`4açı/¯Ìuˆ]PˆN”Z_Go2uù¦iÏ¥nK°lòÑP§ïT©Ú’i6RÏ˜©eKQxı9<C{GªXI£ƒä…'mEßG¤“ÎS_œI·¡,-•‘õ®	nuæÆZçD‘uIóÙäŞ:¬D”ÑÎËI¹ù^…Û4ƒnè-šgÕ¢¡5hİ{L8LÍº1v¥YØÈĞ2}u±yñ)½ĞÁ³(õÖ®—ù±a€Î©6Ÿ©Vòİ„=xY }Šhd}Wg²t+dcföéÚJ÷1æµØRB­A—.&­ø[~ıZ=:K—Y²%iE±GŞ¾ÌÇ¢—)B?öFÁ?ınÈ¢üü¡`Ü¹í¤'ÁÀ´ájËâ¢_~W\™¡™ñ“ÇÖ€äf­Èôš¢ßŸÄªq¹|²Fe¢]µs˜Yœo‹'y÷~Q`¾Ÿ¯gIÚ›‹BÆŠˆ4Po²BzhÇ¯‰W³0¨&+çf›/`§Û²z ¤n_\‚ëgäÛÅízÏ“å›7üaqÁˆïF4Øm-k8ÿyèêØqóÖ¸Ø.NI7müÜåé6#£-sÇOW†O‡õ,GO#0¬œ!#µ0¨û¸¿vÒ–dµ†Qv‡¥¸½û.	P"piy–%Óœ¢B·Áoº¦Ò[’]ï®ë­§Utš¨ıó¹:ÂîøP¤
+- ø—»é0çIy{Gii±¸,ç€CÔ®ÛÎ–VCçqrÓ·ÙÛç]~§B)îe 3¶WWTœ~3IŞp'=‹–Å’’1oTİ9ÿ¢…Pwn¡\]®ÿ7Ìô¢*¯FP½û.ìÒnmÕ€-và“ÒûíÓi³›" ©B.7-ÔÇ{GmV^´*‹ØĞ¥ŸØÖ®+QÌÎØÎàşÓ< õXÁNÖøÀJôT0y±|&Èõo¦ËŠÂH…a»•ÌG¤ÎŠ0{†ï›Û¥fDCõyø™±—l=ÛÃ‹\u%ôIbxÒªßŒRƒ¿ò¶¯BÆèGDh ıFš¾ ¶aİrfãq¤àBh„|È€d©Ò`jdŸSêb[Â}mÖÏÎ‹àsßz´gŒsåHFÉ–ˆ•Û/\¨ÜQşŸ|Şm(™hñüÌOÇÿ½H¥Råç[ŸNÈ¸á¼	;‡A`NoÕ–_°'s]ÆLÔãÛ¸ğ Šÿ¢*5Y“g'*˜}¢©uXÖØV³ÖrgÜ”ñOjmgÅ-˜’[d–QSèZ?³’ ‚Kı]°§ãÅé9ÆÀµ<÷I7r^OÃDvüWÂÁğY¯;K«“Cb&¾U®q/'­G×ÑYn1”L"ÏA©Ù³Q?‡mÂêPŠˆ.İ;V|BÆ“ÜãìŞÇşVµËG´ºêU{¾ş°CU^ <«;°ìnéäPa"¯ŸÍ#=w ¢³ĞsÙû¥–âLèÁŞ¬ˆª×x.=åx ıÃ· –2_¤\)(>€´ú â&jæ÷¹ñE·T{Vîpn»Á¤Šj)Kiç…»5ù¥~×§¢CsKó¨Œûªù^AHÊğSÉËÁüÇÏB	oı^ÎÔt§–y"È)gàèÜ¤r§7c€Wx¯óßÇ«(Ş=àbìû	g#ÃŠ&sãà~8w·<K@q!VI|r.vuÑ]"	ËEeïóñ“ÍÂœóÇW”%D&‹q—”Ÿ<[Êßİº¾F~Ïç»]ùÙÃŞlLğ.›–ˆrj&™Wæ¨Ü5rŒ¨"¨TØ»n¹N——ñ“;D çñmCI˜B\Â?O*ã9d†õ›Æƒ ¾Ã{;f0a—~'±®ÿ¹–ŸŒø:¹"`<Øşä«tG2’$1wÇË›;ÚŞˆÍPU(ßºJ±A2(^:5*•olˆ¢¿ fÿ"Z£ 7º‡õp|\|ÿ}#-´Ú­ÂÍ;îYçpK…¹8ct2•y¡í¿Whã_„–¼!^,úV>kı£*ÍİÅ°”Í°7»ä§2Åå{æ»U¡En$Ì˜È¦Ğ(`¹\C:~í8X¾·»eÔå´6yhØøì.F–Uxø&9å¦óU«’ed›mõ~ï7¬˜;\f–†Ò×7Ö$Mªê¤?mj›ˆxwHQJç½®³JõııU±İE8‹Ù×¡5auÁ#¦‹T<¶›Şmmä^õûd^GšÌÕ»@¾w2cİ@Åky¨­ ÙŞkœh®UèCoáf«ØD ¯ÓöØƒ}:ªÕİVŞVc¾Kç<¹t¢¥S®ã¿ú7¢×ÃlÃ-ÚtQ:N-Wß~¶©·Âóe\İõ~	ƒ APB–ôĞ¸SIÙ@$°J¿˜›È¨ÃŸb·ş7"ƒo¨ópÕÄœ¡C7óyÉ¥Ñm€p¼®tâƒ“÷ãnØˆ¯ı”HÆ8‘lH•Ú#%%ûß°fIÊÈ*
+™mÆÔò™ÔSÒP¹&»•q÷ŸD®•}ä¶*ŠTÓÌVÚå] †Ô©L0rÂçÈİ),«¸²ËL]í˜ÙGûËÈ“QäšÌ·_¦ıèV»c]Rl>²û¶Ùsr¬Œ™£ÀGôF©©! ŞB‚èà±lA]O*œ+Àv3ïÛs<l6–1˜x’[ç Å'ı~Váö0–?i“Û×$ÜrÂèùó½WÔ€AÁ+(ìà¾È’^ü¨n	«Úo8;ì³lfˆš2Ìh‰Š!~ä–ÂJ…‹|*È”0ÚúCÆ7¹¬ºy„ı5°€O×ŞN–zx¯1Òö!Rjfi×Ñ™‹Ú„‹ÿ (Hë'Cûnñ˜-5wf¬§aYÊ.Êı…ß(ŸÌÿÎÕ|xüÕØ…à^HĞFÄ‹h+=4[~¯A$m¼aÀœ_Îâ4$¾,eÕÖ>]åñ`u5û¢ ·Q]¢Î©LàèÁûÃéš ¶ÇC:¥=|EŠq‡ÄÈHˆt}ÂV°œh´ªÿ-ˆ»k([¡/‹VæıJBZæp«Ë§ø¹Öß«NN$]‹ÍÁ""Í	;Íä\ßŞ úTtÛbƒ’`¢ÿ›agëÚéÖ4ˆì¥â-ãá6¿PšO$ÁauKÿ©ª±“vmÌ``Œ×û|Ål•ïrÔ’ïey÷Ø›ÿ•xÊ7!”d‡„ujÆİ/Û~ğ	z`şÚ„è€ˆS÷&¯cÜ@aDNF_»Ç– e±5¡(¨İC,Ù>ÉÄĞT¸ËÕùÇ`<¸>0)]õYHV¡Iµ_‹VÎŞ­v­uk„ d–…p!FÆˆ—à@ĞÃf^ E#©(ÉìÓİ¦uÆhìf^î¬y>;º Y	J,}›İ¼s§‚B¶F”—)Gˆ!ÂÿÚï{ØSaBOT_.)Úw\ÎD¤pó‰_ú×î:ŒØtÆo9­O¼#é‚oœÇŞ;a¯FUT›ˆ+İ=OAÆ¢8Îsíz¿ûîczb„ »ôj8Y›‚T†^‚¤¿QÜk¦”ÂÏ§Úıú¢F8ÄÜĞTM"qwŸ£¡Í~5Vê~œVŠº–i¬_|~˜Œ 9ù7fåÂ5œ×6õ®m’$)µÃ®9À½£Ø„ –¾åcºÎ¤±#òc äÑy>PF
+hStšİÃzG¸¨™ÉB’H/ ğáQuh9œÉ=¥±•ï‚ı#×ßïÊEÍĞqÚ. Ô'™‘‹Î¾h\Ì˜6 ±ïĞ—’‘Æ½@ú5z4oİl ^=V_?=ÓØXÄ‚¾ÈÔ&Ãî·Ùù%šZô‘˜ÿ¬ç1E¦s³ßö>z¿ÔÍC¿£ÿ dk%˜‹:²„sÿ;ç“âiÜG¶+NóOÚe·SñtÉ¨ûuûX3ôJ0ø÷AÏ•ëÌ|tË1‚~.ß$&)1i4Ü‘“égÔLF´«„)1Ú!µBD¤ªœ¬°«ár£7“´r¶ìlñ×ïøˆ)6’ÅğÚ÷JH²(8ß‹%qñ1'ºŠgÕ.rš'°âiËÃ—Ã¨×Èí8Œ‘ÒxÇÄ`‚µ„ÀŸckg¨›KãküyÑ¿Gä˜È+£ª•â¡Õ…|æq’>8€é.™¸ø®aEŞÇŠ‡UNFf|İ!Y×m‚+æóæb4İ+”¾r/°ªA¶qŠĞU^e6•N=
+Ì'‡ŸÁ–›]Mœº´ğßCÁK_ßr)"Ìg(ìDÓ×ü›åH/aå’ÛÆW²“ŸIŠ<ÛQ¾:	­Öß ÁùƒÃ-ËàQñçp{7Œ¡´A"õx{ )s´ë‚’}«…T‚I$[JFóå(S÷Næ45cI90BƒÌÕd”Js!q1ëç»øR«¨,Ö1G4İ±§Ë‡Ğñ´\ÚEN6™çn‘aXİ›c«jd{Èwe¤—‡L†èé¢×ãØhİ¹¦GtÙÄ Øıs`A"Vœ¶uÔ}úÛÅ»5zv(ÚíKõ¾÷Ê«'ù[AT¦K5Şhª–³e¬^të]ñª¥¯Wúz§«à…'\P>íGäÇí¾:k_E¹AoåsP“È¢ÔÈ6ppŸF¤õîf2è<ÑÙ¬Óeüâÿ(
+Ò0Ğ7äÙŸÙ’x‡Lş×BD>JcË§ü÷HÆ?Q`Ç‡¡ğÆKc11G!ö÷é©µ‰_pÑ] ™Z9ÿ/Dê¬ÊÍï´Ï„âo‰@U¶Gí’êÕó»=f7Í»@få[ÆÃ'Eÿ?9ÆœfÍ P´mnÊ_  Ñ¾d'Œ=,hF#A[¼$ªÚTşu:Ş|ZBÇ‹c™™ÿø Šf‰íPà¾Ÿ¢Õÿ5 w4Nv·Q9E‘%“b ]œ;B5ıcOx%-Ü[ªRó‘‚DØKê­Uº5”6:Çtù Œbrp
+¯:Ş  …ÂHüxj¨zf—YN\ĞûŒ,Ú­»ŒÓ}š5°“]’]A_,jó?]—£Vã&¡²•Ñr_ Fê‘®kpŸë.xmèÖ»_ÿ Å{Å…ÅŸÎl§Şš‹½Ÿ…h(<çÖËª}ôg&Ó+-"¸Æ ~w¹ö
+8İ¶ÏÇŸ•Ù®»>Ã´K±MßOæ ‹i=qŸ‚÷@B}l4#ãä0¢ÉîÂ5Ê µ™CÉö|ìØ…ÖòcCÒtğj³x5¥.Ôù{?©å"=ª+8´O.¬9÷¹Áï\ç8ÉsˆÈöÕ°ÜÜ0³‰ù3œ²½¡‰A|xå2@<>b|MÎZz‘…kş«ù%¢~¢´bÇ:SbÒ­“Q;è*®£4lt˜é†¶‚$+“£ƒ=™/|ˆñFÃ-gÆ™,:¢ã«º‰:LgµğR×‘ xû»å4{|KnÃäÓıHè_	ÏHæ ÓpSãğæm”!oúµë_É¹^°UYbŒÃíEÄèúºí\›ÅŒ§Ss)ÁËCj¬€éç8ìâÆû¿H1Šx‹ú'ƒ‹‚'á¬ÜøWœFqÄÅÁœˆô¤‘ï³’m‚‹vw»iíúmÔ×ÙG`™Ù«)­¦ù*gè#`œØ]§I…S‡'(9o$Ÿ,¦Üøµ|0áÃÍ,ìáíEÛ"ú®zÜ×H
+u{MœÈÚ^bfhf„c%ÂO	qA‘JJÑ\¤±¹÷¿ñîÓ!:úíIOÈ…ÍùSÄÆs¶¡æºğÑY£e¹ôr”9_4zo9Üô}o(as1A·Tät¼ï­ÚˆÊTîÜ&N*öe
+³¡ñIøêŸäót¯<šï9ûKüˆ_Ä¡@srÃ®ÎSşÈê°#|î¹¤QKªXÌtW7(P† ¸U¡æ7)´å‚æ£&T%3,ÎH[®v¶3êÃU–tQÇÂÂn¬Ü¿ŸÙJún¨òpÅd8ÿNå‚¸÷Í~=qö~Æc}a|ÿÖÄ²¶?¨"«ºıä&ÅÑ9ûÕ
+O©$ñ¥wBuù=oöh¥Ÿ®_'ç^+@Ï•D>Ö ™zHTß~ÍÅx$ûë`×?µ›°dÙfÌ¥{­§Êœ
+“Ş}­oŒõ½´+ov¤ƒòĞÎ/íc¥Ê û£Ò÷ü4Î™N‰”“€ÅêßŠpÃêìÉmã;Ë°şæÛœø”Ü4O$>fÃù‰!U6OÜéÍó½G¹¼É˜&ZMÊqL€Ô#Ô²’wñòŸ†t*Ú8-X"aƒ\ °Ví.18"ùò9`‰µ0Ÿ¼!¡£^-?SÍ™ÿubXö.T·7,Ş&2Î~4&e‰ø9ÚÕTÀæ¶’HQL;Ìy¦#¶>ÿ¦F’*¶¬]¥øË‘‰Í¥S(¼$)ŒK¼p|ìRÛ!£ÇX’²£)ĞhB}hn¦Û<ûÅB. ˜â'àjù4~ïïŠ{j°¯ÂØ¾±$G…ŸÉˆ‘¾ësGâYhÿ4ãâ„[¦S:¼Öª…¯>b@«ÿ•“ÍÑšJeùqsš«ù¼ˆš³u°™š±Üï'ŸõŸíoËuIÌSÒxb¼à¶jô§eUŠ>9;7ú7 ‰ Éáºú÷-—>\¾yiIëˆ-¾²øœŠ¶Õ&‰ 6«;+CÙ¤µºûu‡~ˆ³×ä"WÉßZ™‹w&|b© tÅérã_˜íKDá– ÄåÜ…ªZ¡‹ÕJ¾¬Ğ]^Ûşo»¾ÎgÀe>Ë|‹^FfÏÕÜŒ#•½ÜTR{ˆ¯¢h\¦ÑùÑëõ¾ô#–.Øş\Û û†!óŸ3å^3–”™ãb£˜ò°x;BeªªÜ®€1³‹‘é´`ÏÆ¤¹'xBÜŠaÈ.plÒOã%êA?¢ÇH‰2S½)°‰i½WÙçd¼LÕrÃV¶˜«¿µšøU2YÔ}Î~Ì'G§¹¡–¹.ÕÖ¥(û¿>öŞc8aŸ_;›–fI—‚˜Î¨.8í¹Ô@‘&Ør¯È¤‡©ô{…·Îü>*tİ.-n"çÍan'çro €AÀPvÿF5½Xb?ÁÒ~)ß¬9çş*kXqğĞÌJ3ø{›Åæ±«ÙWƒ3D“Ùs[¯ÛCK>Ş¬§ü#,é¨åL·Oš=Ï¹ Ø\)²»ó•bÈ¤õ¯	pÚw9ÈİYµÎ×Rí,Œ ½¸•kî™I kªòVœw¯úƒ·Éã|vÜÇùĞ|ìkµº÷\I:Ácóh!"åÉÃ3ˆóoõğÕ'ˆœvÇV;ÃõÙ9m®låÇ''ï÷¨®J‹@Ó.ÀÚßhœôì`ÏÂœßš|·:ˆüiôyaî¤­ŒÕ¨ÜNJª‡ï«V.ÿlãjLëLŸ-°2TkÓİ[<Ó5”8@\VõP™PWO[*	åçÂ8R@DÀRlÌ1Abîsİ‹¨N(¥¶kZ0Rnó\‡-Á`2gÇ Ğ½qı¤ïw:‘!¿Ô”,¦6Wî.Ş ‡#‹ÉÑ
+âJ%³ôq}ÆÙ]„G[‰İ˜é+»Ñî­ëæW4GÈ8b|œô§«ÌÓ„½ÏÈ­ËH–g¸İ†ÆÅ­z°]æ×IlÍÎî’%èC°‰¤k,OQx‡pàrmKO–$åÙ}MC°59-’ºÃŸõ¡;°Ò6KÈïöm3)¿*°œŠšÈ[^}^ÌEñØ~Ó§—a;…¸Å°ì€åä¡±ê]“ Rğ&ñêÕ(œ`ÃV‚#T9"1»¤ÊÎ}ò+³q·íŠG>ç5i'Æ†ˆ†_]"Un-ô—l:â@;_3ë
+á@‡@ë/læ‚ô­PP¸òXğ&IbëYÀñH ĞáJ0±äå1TívºÇ[·=ÈÏM~Aô@êŠ¨Ÿ]ôõ‰R&
+Óôé8”¿Mëy›iBí¼-^d•£º&O®7K›á¦úêëj›M0İ2Â|V~'À~Õ¶lV+4¿-Ã­AcÅ¯R«2›ÊÖùeÕ¸,GfUƒ(Ür‹î–$çå9òr «¡Ó»ıFÔ¡UHÛ`ÇE|²£¢ä	…¹¯‡DÙçö´,Ï§PÜ;)p~ë¡	ßìŸÊ57‚WğLOQ×X¬L·X¡öùŠ«ó;Ô®!ÚªŞ3È¾PeOƒ@ĞÏ0§šş©^z“¸<Ëgo<OÿıCˆO+]…èÒ„Y)|UÅ†Öi8ŒìVÉ±÷‡«oè“O7Å)g%F¹MY÷ugïd<÷pSFÓ_Í@Š2˜ş:ïgøªŠw\Ê4”Ö•xJÖôBZyugÄ”^ePk˜   
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: image/webp
+Content-Transfer-Encoding: binary
+Content-Location: https://maztars.com/wp-content/uploads/2020/05/screencapture-file-d-lessons-login-html-2020-05-16-19_22_20.png?w=1024
+
+RIFFØF  WEBPVP8 ÌF  P½* _>Q$E¤£")•xH±·¸]‘VµCÚş›hÑ|SŸEˆ7õ~o¼\7V\wòLçúÅĞÉò½ágyêô¯ı¿ºÿ›Ÿô½yZõ"ş—şkÏ“×§ïªŸÜ¯W_ü¹Şı¬·öş—ıwÿŸdç¡‡—oîïÄÇö¿û¹×ºÓâˆC#·›¡Èñ5ã¨	ã3¨·ĞüßÃşÅà¯Bû5ñ‰Æªû¹_ˆİw#Ìo+eI³úå—Ï]^9]A¿i¸·ø€‚şpáó¦m\kÓ—YIobŒ Ö¨ëÖòç»9ş*¡=-ò‰7h°ïb©mrÅp)à‹CÌÇeÿÿğoûJY?^ƒåÊı’^³GÈµÊÇ¯Æ©©ÃéP¨%ø6|Né€Ø38Ì©3¿ÿgø¤×¬uÔœâRóQHZ¨ü“ÿlÃ:»¼‘˜‰[:À BPö·ÿnšê¿·ïÚ‚.±+‰ÉÿxPø|“ƒ²—a};Ûâ‚Òù¢¾?Çü¢¦ãò¹ÙìÌÿzö_–ÿG\/L/ƒYñ—¿¾øİ°6šy1])l›òd–Tu…$9^Ì³Ô«[°ø1_Õ7N
+·©?(vşi­TŒ›ãÊr¦½¹b¹µ×Óô§ğS¶G¯²8Ä:ÑpìA@²¾Û79tèa
+cÜ¢µws,öTDËVZ$‡ûe‡•ÓÓ8„ûœe}ëÿÄjƒJÚó£ê’Ùš=f¹fÍ<æ\òú„Šsøy{uÅšİ®8Ô{‹8FÔhYÁ’ÊAoÊÅ;Ç) Ÿ‡ÎÔlfHYnÿßd±`4A1ì¬4y|Ikjä‹‚YÆéW@ÇÍ&J;¦:µ2 ŞÛ?Å®+şÍ±Şµ¯}hÛ´ğG½ù=@T5ï¤×Æve„K ÄœÂ©0ÁóŸ%˜¬nÏæú‚£Ğs˜°KõÂ&'FsHÎòBAÌÙBÇ0ã!wÚul²ş	 A¶÷
+Á0ø›F®M‰x¸Ö® «ÅvÚ&O¢n(Î+pÑ¢ïA©i/›} •ÅÒ-^hvöÕ U(¢~¾j3_ÿÜƒÂlÍ?E“ªò–nìó 
+µÿ¯æaB@—¢»ªïôT|!xY ™«\8à _^±†-“qŸ/8ŸZŒAãª*S5 O¬ıI»—RïÕ¥!m§7uoÍtø?qÖgü“¥Ì ¯g	Ö ±)FÇ1»ğDQ‘'?]øQs÷ÿXe	É$A’]ÊX—ïÊÕ'%eıxÒeú/]_·F&ëñ€‚Ê–Bõ%†>÷•şâ,ÊÒªw,»Êµ9»ÎAûÚõæUSh+[]«¤Õİƒˆª1N©ó	ç–'i:ÄêØë›ñ5JG…í/×z´}³•:š‹¬‘‘M™ eaÕ´yÒ©bpa6ó§—òËJôá¾×OÌàİ›3ïpÍ®gíIŠ¤Ó[‡–B….÷úãƒ:7}È‘“Ä¹?´½7Æíá\E"ïaÏCkÀ>…3¿ü”ëVj\ª‰ª:G>ŒÑ–÷¾®è@ ‹®”Úó“gä³{@eºƒ(O¹öpb Rü~ÓÁÎ—"ˆÚæ×MŞˆkíı?¡¬DúnĞ¬‹å#U Ÿ<xãö€áˆ¹¢ÌTÃ5ş_î¾ü™x¸µ½'ÍI7‡G8~yüî¨1 …ºá.7¦½íïĞ^Ò˜»N?ø Û°ßÑKùDëûñ‰Ìú ‹9'F?9ÈoR­Š-õ4íÈºÀ2S
+I¼ÿÒÆù¹­Às5ßu*P=)8-¿ßÍı¨ÿÂùx¹<İz,órg=&£ØC/&„Û?Eq QA¥Ñ$ÌAxÿšâßOp*>q<2YÇâ¢*&kk,^¹ÜbL>ºã3yœ"•AjĞ½†zûÄŸüñJ®c£İgcáĞ¦â7£µØK’–¶,Å«Š uæŠïßk‚ÑO`ª[Æ‘`oÀ#[¿Â·Tï@ãyüK~¶‰–¿C	#dÏNgÈ³†Õ‚×Ç68T¹tÏµ¡%xŸìôäšE…Ö¡ç1ô¼K+—Üş`ÖY×~ŞÛ
+í°6A#ƒ ê!,J†± ÚñÚ×ûîĞÎ‘`ÿ[Õö%À¸á³g– şUcA˜gw«ƒV”¤‚˜HßÖ:Ø˜¤€Z¯Í,t%#ÒbìËàC÷Ï•º B5|g]ÙÄ-9ØquéöÌ2?bŠpÁ\†‘CérÄwËºÆz©Ê`óu“ß]Š\c C(|ÎxÁõVÊ»#üøB“Wõ-\«™-}3ÚIÆA~ì¬dÜJú!¾u;Ñ¹”Amyd}Ù»”×l«É~K.ñuVO©$çU[ä«›åéf„švGŸ…)©r˜j†<Õ H\<8ÁD‹œ	[cpC–ùö9	à‘Õ²¥-Ø<è‡ïËÕ¢y^p ˜I0¶j[¿•½ºuïh.¾ÕŒ„eœâVÉ/÷Şè/ŸÂÎ„Eq¡Gc˜0X‚0Â%s«É>‹9À}»¬¡ÂmúZhÚhD‡¿Œü0Wt"¿õ[>$rU¨‚ª¨[1fñ†¡ar 1ËS'¥<Ä.kİÂ@IÎ`…Éç¨^=ıSM›}‚µòÃKö©|ªulòœG!.ÈUª‚ĞJW İHbÕ¡`asm(ÍQ˜–,{Dµlq1“ƒø}¬sƒe>€ï¥4í3èqD«ZA€ºZÜî¿>} ÇŠBğşœAÇ¹N7ÃÅÔğn°Ui¡†.T' ”‹"ğWj¶¥y“•G™#Ñ– Ì¼ûÆ‰Nê’ïu:]1•^Æê3ÁÛBÂé~ ö¥ Ïî´v–Í\³I/Ø’ŞìÚ¹¡9u!K<#Jn¦"!Maö¹-7>[±­Cbxƒ­
+099Ÿ/‘)•æ?å4¤àåŸ<3Ú ÌÃ4¹ä¸ª ¸{ï’9•`^s36¥‰Í§mâÖ}‰5c€`<ÈÅ_då«õGŸªQã²œÕY´İ‘İq)ƒ&`
+‰ĞUğnå$/[¬T:õ»`î×%`µß<ÆŠF>YÈPğ|ÓköŒæ³Üô–_å“_±!ãËc©c¶¶ÛûIâÈµÔvåÎ)–ñîÅü¬ùr·?+†2"hiÊcš:½Êóªä¤vÁ¢¢1?.ÄÉ§¡Xô¨ÁíT²Ck0ªÛ¬QzõH*ó:¼p¬`íæ=}ŠçÔí¥ µ¿ó^TS eÕIòÅ¡i^r|­Ïõ/š¯¾ñ¤g~j±oº7÷/SîNz¶ˆAÒÃ€
+®…Õo†Ãğ‹«.RU¶ùæyòöw=ã>";
+1¶r“~7O"Ía˜t64nËÈHIÊ9Sœ^£Â@lbAÙ¥pğË’@Å±»:uË×äh9M¡,úU…â7“ñ´‡À”ñÙ?+x©Œ^õôâãU¿€b™ª¡8ñı”Æ)<§²ŠDéW³É¨åPï4øÚ~Fî  uô£Í‘`›YÖä”f@Y[|0©LÈ-¬À_n¬	;hÍ_nˆF #I»ìıÕh£%Ê²d<m®Ÿ„“öŠ)êÁp%¦Y®zÏ®'fÓZêWüCÚÏ‘¾¡ì³­$ãÊÊ3ş_|ôljâßŠB|Q ˆÆFgéCÑãg/›<+Ñ¶İ7üUçæ¹éQO¶¦b«æëÛp3ö¡vQ§˜è[²ôÁ!fv¥#%­•Õ~š¼AèTa…ÏcoÛ¹š˜â¥öîˆx×”Ä¼³é½¥Ğx•¢«ö,q³<Ü3åoè"Kî,Ö‹†IyµmpäĞø–Ä»?4ó­nşAcÏË/¸Í¬Ñ¶qëÖ´º0@\ôºöIÇ£½ äÑÆyÄ–’puÊ‘ê‘à’²½}XDóü)„†Ñ­* G1Ù)òÌ0­ÀÍöÀJ6ÉAÑö•x.Yğ¤ÓÀ6ÄxÅ	ÿ¡nô´—İBÔôñ¡ÑÑQûeÜ_çtÃşÍG¸…VHÎçğÉ£¨nÜi””ÍcŒâà§P„8Ù©ÇÓ[`#ffUE­ÈÖÖÓ¢şÌÜ¦¦N
+y¸º'ƒ>çšã.ó6YœvZ5ìÈ@
+A»“Ã¿iãô¿ÚmäsÑ#CSÎ'ä¯Çœ|fËU‘ù•£Üg…k«}·]+£_wxiz÷ø]ùşmTü˜Ì±@ù…k|FeÁúÄ'ÑOœ{m%.]õØB k:ÓäÓ”ÏHhÂ Ã!ª¼İH~y›{€VPGìQöáí~1ü‰ÑM(_,ŸÏ‚ç¯§ “¤vh»ä®MÙ#0Ü‹J=	÷ª”áø¼"ep"LÉsmbê»„ó9áÿbG/_ÍÜ— üİ~^İ¦—)D©,p±4ìĞ¡'h Ë†ğö>kwÄz&Qˆ ~@b
+bÕ/XíÄo=º“¾
+}÷nUÿ×†±x+…í±~\™ğÿç:CgñFÿAëy\æ»´ÙØêœ{Ãí\#°5‡5\É6OHªêèßHİúìKîuœÿ7µTºùÏ¯İÙËß–¿¦<'	qóï£hì?/iÎ€}ÌÛšRò —#N9‰¨Ig’¼TÃbäùáïË½À¢CP‡=ŸR1}ıZ¹Â€ şÈUÇü÷øNöŠ$_‹°Ë+ëˆ¸ĞÃ
+U¯4‡ûHõ¥æ'•é;ÍÂm}—u M=¯õü‹ˆ¨Á'PwD‡íÕ<R ¦FÇi	ı¬äpŠîbò”]îwà¢EÑŞ·Tù°Ä*âñW­6Q'[-‚´÷!%Ø³÷lvˆL«fLz‡Ö}È’Ğ‰Í&;‘„‰ZáØıRG_î©[!M˜8DµnMo–ùÄuJÜ—Á7vBL½øE¡°8ç/kiÜÿË7)lŸ³LQ/(b–£×îõô]÷uÅãb#uø³Î*À `¥.åO˜şHSÌºğÍ)Í×f ¿ZÇ®æK. „š9ƒ°PQü%g-SÕØT€m¨úòÌ½q°Öl?Õ?ÆCÜIQ”1,Ô0¹ €³¾ÛâµØŠR<2‘Äb»ÿ8ÊO]&ÏÂ‰ZÙ0áÍj)C¯'Æ¬a‰h¶{µ}#IâF—áÖ5[¡RÚ%jí•GI‚q.s®#<–+¥KÖˆÕu/ÛjXJµ0€'@Ã³ Ô–úïP¹+¾'ø(éO2¶Îp(W3k|–“^_÷³tºhÌåŒ Îóƒˆ€ò ÷…8æGî.hp¦}<Ø©¦Iè½é‰ú5ğ}¿•Üg^1oÓçaœ)	uP,©¯—ë+á¯M»£¹YQôÕ•İ€	ºHe]-ÁéáàzFÔr#Ü"¦Ê†*¥¾cCß×ù×FƒÓErÛ–yX?Ñ»ªíbì‰X:/î/ì0^X8]5z•Ñ8Ÿ0NNÙŒ9
+Ü°Öœ_1#&Õk0æø¾™U}Çç±¶¶oEFTÕŒ,åìöã—|–œëU;½­I¼'ù,Ñ ö
+¾o<‡§ôÎ*víÆ•?ŸÒk “V…8ÛiùËlrºÊ
+™°–ì)@‹¤&£toçw^×¢~ÒÂ]Z.?U\•,ßQ½+à+Júx¾äÕ¾°z®<-YAè•–_ˆ®òğĞZï¼ÿ)’@§òÉ`ğÒËæû<¶r‹ÜßŞ´HëÏI+l*so3 ÜÙ8Óø^gİú‘i;¾~°Û·{™ÌHNw~‡œcèpWEhî¨ =<ıK­š_PSênş®LPrKR}`A_. Ò+WèGÒ Ô[qnÄ™Àû¡ÊÀ¼ƒÎ™ªsòæz¤¤ó(œ¯–èÅ°…¿Ó`H.Gnjc»`JÃ€ÀPÓ‚o›æ#‡*„`$C@¿áa¢•Inÿ+’›±‡¥•¥%y«?¹ˆ›„³1k£z”}zÕZŞ¥ôçrÛ[°óTùAeHàÆ	ÕŠéÙèÛ¡û•¢£Zhù¦*À}Í°ÂSêíB 7ªåş-–ä×·3‘âˆÂK`P
+ªà
+ˆğ-¸H”i:P'hõé$  ;ÆNbQ
+3‘™kš×ô–é))¯|iÿılº›Åm±£jõÉz°-}(ÏR&_9ÕÍ‹¢ê}ÉU'nv5‰Ğ5F×2<Œòå&S}Á<vS^Õ2bÃ)¬Ê S¶>.¶ƒ4qOèBÛŒW"äİÊ™ïì"9¡$Än‚8´ä¹¤9yÚ#Ô}°zø£&GL¼k6S•å{ÃpuãÉÅÒ*G1±HŒXí|ø,´æ­ OÑ*iˆöÇÅïd°&ÀNp"™‹w4 İƒböã6gË	²_ğFúúòÄu÷ĞI#Û…ï;¯Rô2êœĞ0IA[lyŸÒPÈs­¡°8ì=Üpy¬æ´w-«Y#o.8şëÉÀ÷ƒìU€>&|iÚô;0~=à;CT) Ø4#M»ÑCÍ¯Äâö;M.².½ÓDM°Ù¹¼í_0,®!·ğŞ ;q²Îè	Ç˜Yu¯®¾#:¹˜/`Zè¾ÅøWbD«¹‚yqªŒá_%fWZÕZ‚®·ä§¬‚×Ú'j_„ş‰Ôt>^Šç†Uï Ìí(?µUóê'é––õ[J×ğMQüÈâuË&üævğÀÂñ Ÿ¬’úl¢P¨˜¾ï—©ºóce½Áù}HÁR g#ú³dŸu’æ6¤”„¬ß¸²„û[‰“Ky¡^¶Š”=Ğ±éŸëóµ ˆ»áÙ×™çh˜$cuLèÈyÉÖƒX‰¯äd)ú‘¥³¿*[•¯«‹¶’1l n—-îê)uºOzÔ›Wáˆa^`‰Í]Fw ¥«¯øM Uhé³¢x6SmRñûƒø:ıÔww;ˆŠ{;Ú/ë¼$¡qmø¥.s,:Ëa>åQoÍõ%°€9‰Á“*Ãá5¿"wÁq.Kâç"ÃÀ$Ëã1õiSğrhğéõj6;Ì¶\MÄöô3ˆ®j~=EÇáf†E¨a\8EÄ=SNDµÃ¸§æ2RÔÉÁû!ßìş1¯1©„w5hîF†øPjMŸ»Q´Û‰B•Ÿ?Ÿ`N£ğ%wØ1L0ŠÓë©jŸü™”`ˆsuù«‚ËF‘™] ”ÁÙÏÖ²"¨‚*°Tx‚¦Á$ÂìÕÅŠì’NV±õq£>L½ïU†"ÈúF<í¯Ü
+Å£±
+aÌtiòEÆ²Àş¦GymÈ9i[À—(³ÃŒÇAÁbéßô‘ñŒ3‡ñuH‚}iÛIÒw„“¿¦æoaúĞşòİ$‹ğHmó·šiÊfìÌ3¶^#ğCŒ¦7ìTÒ<õf=½@ ™ş)Hà:{Ü&qY¬õ÷B,"cF²D©{CPKóËûÒ„ƒwnì(ùÿÒ1Wë“^Ò½2’Ü@€òšuõ‹8¬‹ÕkÕ `?ÿ&½½¬øKø@VŒ*Ì,¡Hêi'WÓ¨ÈuÓÀê»
+a"H»*¹A‚uf|—TƒÄ8oİû†	/İ­˜ıGcê‰¦1 ŸP³[Ş°ı:àˆ³ÌQôûçmÅò|5p½À™î‚¼ˆ¸¥_0cËZEwæØrvf'ã3ĞÕäünUêú¿‰‚Z¸#zh+—îX4Ó U8×¨'Ô‚„ölÖÃaËiŞ‰9À/ôNZüÿ%‚&¤„I¢³ô}¬ÎÕ‹RâÇ+´t!%g`Oé€iÂÊ­Øïy64C{%§D~v€:µÕ)¡Ã4kÇócbá–ÓÀVšç >S~Ó˜‡Æpº¼5|q'lãIÔaU*UV=ò2ì¥¯Â½iÏ˜cc#Ê>ÉÛÙ'-ñM*á}&Áó ¬¿ÙşX¥ä-…Ò'“ß^Ùò/Ê/-V¸†ÿ¹×D‰íË0®i'ó’KDSÑøYv&c“¿çy†®¦˜b•‘èéJÄæ±Æè/YQ¼º=İbíÀJV·Ø?¥éÚª+Yœ˜¹“ÆÏ‡ú?OÅÆNJMlë=µ³ÌéQ¨Y¾îñI‚İ‰¼à2ßÛCçe8riŠE=†2™qA%ipE†Ô!dï‚^¼û«ó¶õ•x‚õ¶ëi¦ñ»–ÿ³ÄàÙ5Èîõ¥T7üWPsl7xºyì"ÆhËnÆbVt{ö´
+ÜwÛ›¶íëÿâBí4ç¨¿æ”K*£«u8Ójt<Ü¢òI˜Ák¯N‰.,ëbƒÔkó`	¦Aæİ#0ƒ>º]-©¨I!vv>Ëuë¹ÉB©â µCFíıÅÅA,ÌÇV·W l@wî~‹6VÌ×k¥z ŸC(>¤ß… 	'núœRÁÛ¢	,>Áâzˆ‹MÒİ«ØÌeO2/3ìÇ>”P™—‚!ÀÃX›hÅÎÔÜŞ‚’5ÿğfDºİã½Ş›‰/åûæKZ‚î`¢øšØUµPUşûd#˜IÄıó³^ñ†eã™l†¹rû;S„ZÁ‹çÊ4MYWTßª$Â>¿{µüË=ˆmÙ¶œúAÏI=kí¶ÆHøï›à<næß£ş•CÛÜìŸ3QZ7ñqç´˜©¦{zO{©TRÕ†g7¦—“ÿ'6º5X(A¼a/v4Çû™I)HÎge÷µ[UıDww=µ$G³ğåw§j"·(ÃY¹	ñKÛñ@ ‡ê—¢dÖåÈÌò6Ò0d(®êÂ¨8¬¡JœR‹Æ÷ıŠYñ}Á_Õ2É³˜²Ï#z7ùÕÙ¿€Ğ`C2Øåõµ/°ò˜çøÖñtV>’¦vNŞÎ±†H„€V¾“Ô‰…ìü54½8vò©CÂo7ÚiĞ?E¦ãB½B	ÀS€¹¿L%edş^Ãº_'OiïQ/®˜U t”Ç¨µfÜÈL,Mˆ¨Á®¼-‹$µ›-•æ‚4TÙU>¢UÆlÚù†ŸoğQ¨ÎqÈ‹†jE~œ…ô)ñ÷„uÁæç«íXÃØ&ïd0Ã‡Ä§Ö¡q…ÆˆL„){P‹'ıáÙşH7’†ÆóÌğƒjšB_ÒI*ß±û@x\Æü£âè2‰L‹hq*ˆ£d×oÍìªœ32š(l<,\Å¢ğ~)2pë¯h…ÄÍü<IU÷ŞækbÚ›C¸kïc…§?Õö/Êµé)*"Iî7¿À€@écM3ĞÙ¡Ò©VÒ%I©¢Jöí+¶HœÁôš;q‹#^ÎËLV™d]ô­Ï/§¸`R¼kkwœ¥y¬‹Ò`!–çD(ªãÊ~Lt‚¯½x/Œ¬[áœÍQ}¼¤·X)ÌQúCM¨wègMÌ€râ:Iİ³adûÒ@ ]ÃÏÚóÓÁOÿâ¢=İkî”›èsÊ¿"N¼6knó—ÀŸZ—o8é6|œÄßU÷˜ø4èŠç¨ÙL¾zücdïeÜ'«¨wÏÈáoÅ¶Fò.¹Z,³ò>a¦›¢Zà*)bx<Ô@v…¤ƒzÍ=ûmmÌ'Yeë¶¾¯Ğ0ø(õÒ®@Œ‹óG çŠ¿ÿ|KİVh°¸ké1pç(4§Å§T+í>i1D/L×hVm2ßºöØ$ı•HWçıóFÄ= (ıkA¡ˆr¨›oimÃ£vOÌé#PÇªÅ`-aÀšIÆY©và‘ş	w³ëîü0z’Ën@”g˜å•VÏvŒêêíÁ’½#êãÈ‰çw´p¾“§Tün;Ój.²x8^MÓ¼&ÔÈÆô§ÅgTZ,Òw ,dó!dÒ—s]º#SG\]º€J½?¾Œ+­°Ónˆ›lÑ&ÅÁ!ÖR§ƒ½_Å78~ş±2¸ØÍcZ"ÔÌf(n©ŒM–*^Ç£/7¡]Õ)œ¤>á[âè(ğGzœëmÖu€cÈ_û\åpÂÂ:;GÓüaÙqâ÷$ıMû~d¡ÒWOP’a?v)¥§¯yù§ÑÆxÖ—ò¬PŞ5õLÛãYè-mşrVÆÊ“ß‹Œ8ÎöVk†»uXMû0ò)€ˆ3Óâ'é+—Ü( šl9e˜|bõªRbNh=d8hm =XÂ‡”£Ìm
+ình°’…Y·ñŸypç”ê:·İ->±ö¹ÜÊ™LŞ«¢ïöæo´eª¬Õ÷›÷@™ÛÍ.i¶‘Æ”'#]y.˜Ğos:¦Z6AÒgÄjÚ Ñ((tƒÀ ‰uRÔÌ^SŒZæ^H!ÒAw–,ä³¥k?Lw²eÈ+Rc|–H”©õšqL‹{ùN¼«?†?Ğ~fGæœ: ·ÉÚ­P3Àì{G|ö´–M]…!ÎZ^ÃJ§2ºeŒ‡ì~Èö&8›BÀ—g˜3í7Kh¾(‡^šê4ì$P3^ëzSş”?Ïµ_é€…™?µPãİwBŞ:pÈkr§³/®,ŞË	· îÄaÃ=¼U¶“5C_h'ûœÑ¸Ç›Aücdåå^À£„Äîh#Â@³Å`2GjÔAµ_s*ğ€ŞgÅƒ.)U¬SÙ©¡è˜½~g'ÓÁÃÒke§@"gué•8š	èÙ@õ0Õ¬Uü·sA÷I;¿Ãqûvöiá©ûÅ¹ìÒ¥'ĞŞkšSu‚˜©Ú¬±ÊhUX%ˆƒ8‰@GIÓ	½®e„ÖnâdeB@)N¬§ğ©û/vkq”6m¶î"n˜³Û×›çöXÜ~¿mğøO­™òĞîEü‚ºjåV°ÇÄE™+½æUÎ¿ø¹˜¦uŸk3jê7Ä8<ò\°2åÙğFÉ¿?æ¨M…¢u ÿ±~;k‚n¥Q!:'Îx²,–:‡[¹ß™´OÕ#íİ"Q­Ñº1k‰Q’†ïx³KÌ‰<n¢öíãßsg]Cj7ÌO¾±}m°¢¶Ì£™WkôŞh" "0®¶>á2§óY,toeòË–Ô.Cã½ÄJ6+š) Â3Nañoc:¥7©y]Vó³÷[z¶gâø>C³oŞ?9¹‚h¤ì¤¯85„™q6$+ä'Á$aBği£Ç\¥|ƒC]yšvÁÑÛù0±Ää—÷`‡ ‹¨›Ò¡&÷#)¶h^p¨Bô±–¶m%]*ùú¬†rz­"CH‹ûÉ@9nƒÂ7Ä¶¾J.™£ìù^ñ+ªò–¿>ÏXç¯}ç°öÛ¹ÇÿMÙ¯hf-×*Û`£3µÑ
+,&ûÅ©màÇ6Î¡î|%ß‰\¥Šà”O±Ÿjr ä²?ÉóîıÃ’s¡Îy¦ú/§j¯ıµoĞk×“¬Óm*Ì+&‡tLÊ®Ì‘Ä¾ßiÇaYqT"ç½•Eî¢,ÃsÊøG'œâ\As¹vàËÇÆ¨5\‹ƒ~ør§±n­Qˆ|«‚qÆ@c70å"‹êÚ'²“›>¾‚REQ¦$¼ßWFÀ»T(Y™m‡OHí 	…˜“xhÑ_Ù÷ÒiÙL°1ûŞ‘B‹œğü=…sK(Ø‘&;TÜÏ“öÈÖg7M/É×å	IôN‘˜©ŠCÒã¬|÷˜‹ı7¨ +ˆş=Ïä†”µZÖ´DeZÔË‡ßŞ$×¨.½4rswèêøz§Ú®tÆş6HQX1ëtU`ğ&_ÀXôœì’ĞCİ¾íÙàwJ^;{Ja L£¿ØÓ._ßÏ3PÍ@ìÛİXòñ‹ZòYâ{tæ»¸È×şï3C°?Fÿ¾§5*iææ„Şr@ç˜	¤’{½n3fÉÊ¢„èõï&Áİ±Ü¾BŒ)şU &KGi‰§sàJíH6[ä¬†ùÄ/‹ç(Jøò{ÍnÛM’`?øjÛË¡Ò`yãŸ·µI¯£Şu•ÁÊìÆ„ÜLO©Šå|»V+¤„ò\ŸK,•ƒ`†f>æZ’wáĞ½Ÿ¢ş ®<Ìû0:­Yê^sÎ/'84ÌÛ¿€RG½Çæ=Ôğ5g5¹Ò˜¢Pƒ7ÈIq$u]‰ò$ŒùcÁ ¸}·|D«8vÿÊPÄŸëPËwL4)pBòÏÇG:ld3[Pwˆ•£40ßNWÅBíAQ§[?lp‘±Ù2l,”¶ş7ŠÀÃ¤p•¶&|VY¶¼¤dqı@ø8åôêøŸVTá›\ç¥á²ú´î­^FW¿]§¡'û­N¶1xA}e…¸PSÒ»$)Ï”ññ(kFuM‡°Y¸l~ÈèÕClpR7
+ş¤J	‡î+/pAi~ùx™#5]úÿÊA«tñ¿¹¯ºêIÁµûòù–hÁT”@ÚŸ$)Z“Ò¯_Ì²¿ÁWã™dÚòéÉûl
+;Ì÷÷‚a}d¸,O’_Ió¨õ‰ÍEãıU¿ê%93•~÷åj9|ùj~£Ù¹pÕ²<şàíóm c,6ÿ’
+…—yú!Î J²8èê9ğîjÃdSYêµ#^±bDòı‡qW·çK–Çâºş¡›»ŸÈ÷jƒ¡yæ
+A,qeŞº³8áqç ŠÛQYŒ×M5À†Õ?a=(ePÖ>VwC­İŠø@fú·[*ÃzşÙ¬âğŸ„…„âÒµš¸Ñ6ƒFô½1jx·ôouxQŒAôömö4M4
+±,WêsKFëü7Vr_éú7›åY¦5Ç$,Z,¸¶Rä‚`,ÿã”ÁÂ£Ú¯Ó!KKš„Kv1²Ê;•ëÖŞç>Ò˜Ö>ZìÊ)éÇë8,j±x.D6N«Ò»X"H"œó˜ÿÖª¤/)Û“5#Ş…±d¸²ğ~Ç>©4­@fD_íÎd°¤üüÜ¿jı´w§·ïĞ}ˆ$_VÿäÇ´!‘gŞG×D.ğ˜åãªFö€*f˜~.ĞæTkî´JUåvVq»­€VãòÙÉAæ_Rƒ$ù ™ôT&º7…GnøcûÙÓ9ÇNûU¬6ÅËK±_¤9”fŠı šşÓ•„äòÛÏÄÂşÎé•c²àùPd¡÷NM¸$ø§üéœ*+ÊŒÒû/%€ıÈñ„ ^Ä¡wÌ„<¢ùáı…\“C³ğxÚû¸%ï^ßD¨´‚ĞXå–/q«c÷PN³†sp^@‚:U<)9?ŸĞ–r¾¹âf_]ö
+Ü-¸v·B 5ĞÏ%‘/¼Õİ`FÄDúOé}ò —!S*qeQ†OBöŞê	ÇÑU§^r­mp‚Q•…ÆÍÌZ…X†ÈœÆûÜ!céÏÈ#ÍLj›“¹ÀE<p;ÁWƒÓ&ø·ÆómêtiÆ’ù¶ş“-²¹>+‚']©uºpyöâúˆƒ(ğ<¾İÀH')í‘´#×ˆ	°•L•"{Ñ+ÕK{~÷Äb*C8Í+†ÁÏİO0òRÒ§Ğå~®2aTÅu”RFt%´ndwğWº}‰ì¬õİ2Öâ6 ô5Y’bİ‰Äx£ˆğîÈ-k¯¤Ë‡Ÿ§ Şš¬wöDßSÎd¸,QX˜òú š{Ñ­s¬jKu‹ßOKB¿k|ĞË¶5B|÷<»çÇ†‹Æêà½€2 ÔÁr"ØÈ6-NæzşWF|á#w‰bİÇEnêÊ)»7°(t
+=7ÊVrÊ×ÖC>UèbÛâÊS³e–ídP:è<ò“|8ÿ9Z ÉÑTmN^:ïDZ¼‘áÅŞ|Ñ#	5D$¹€p†®­Úl'™U =¤˜İ,Zd¡l²ø—AT‡è»¤RÂlR(ä½cÜÉf#FWºÛ–õ¥ÖÈ\¶¥ßX„R SœT,t°Ù@ŠhŠZljÆÓ¼WáJÏ«¿¹`X­â>•!î<tLŠL¤€MWñÂÇ&ZGî'’#@Óô{â…ÓnÊ…#|=»7{æÓınİKßY_Œz`äg+¼7ÆIcR¦A´$b¡õììk…QúŞÄf¶áê/cˆcßåXğµfëË7œp´g\O¼İcìá1=¶ºHÿI¨Îc‰ùºÌm'`Šî”‡¦ ˜ĞÅKÉyÛCèpØÌ AG\ü˜_mÀÔgXs"íp£½<eêFæ.öKõ#¦†W'–ˆ¥_Z]0}»C^¢jV°ıh8ëèö>†Æ¤1‘Ô_u†0ƒi¢ß²Ù>^ÆY1Ä-[Òhò·sJ»ÊúcGlîlÑK&«ƒòŒÏø£Şí¼k"ñÕú.ùåA›ëœ'6RØ+qddÉ<bx¸€ø|Ö(›a>×åÕáøÆÓŞÈÂ.Pq‘qåJõ¹Ùñ˜i%xâÈ²‹0XO^¿¯lYê]mä"o*»¸İ;k+—Âè8•¡¡•˜§¦AkÒ^É“@hÓ57Üpmf¦<›Á&$«)0øfı]†w8ê=mù`ºKGW™4õÔhâ{ŞI½0B$#z1×?,“ëæX‹†7›˜ÀÏ&Ù-¥À“:……41Ö¹tÁğx‰£0ÇÏü°3zö¤³šç£¥w›¸¹¼<À‡0'4Ê»Aür©“&ó
+ƒ#6AÈ]	©®NZn¨Eµ¾jáÊQˆOñ'£a!…¡Ù‡®zÀVæTátï#GG6tšÏ1à@‰@âav2ÙxNíRI¢K»ò$ g×£´;¤Qó.»êMæ(å¸§7o‹»—ßå°›¸šOÌÄ¸‡K>¨ ·’‰U•U›`µ©º	®2ŠpCV1ÜYy“G	*Ñ\ì“0¨×ÆA·<úÓÎäw¢tÎùêª0•ÌÔ/ä.™#Í§Ú´â<vüRg7.’.Í‰µÔ—K8¬‡ñè.?Ac¬6`é"TÅïó£^SµD]%(‹ÍŸş#³ĞÏ#ä®YÓ®"‹¿‹“œBÓñÓå³‰¾'é³ÜŞ^¡WÌûÆÌÎ‡é\åµn S‰{¦aéÊşÍ[€È÷[|n>óİ«Jçˆ"ßƒí\ÂÙa€ÎM MY÷‡>W´~»çyÇmôçÒN2% ô};¿²òÃ
+nåµDÄ¢úğCÇßEk2T÷¾R˜1Óeˆó‚XşA5îkç¤Zşa~-Æj›ıÆ°T^ƒ€Kú¬Ë½¸„p¬¬<3mÜ(B8Cãú+ß7f¤çØ²Ç§˜c¹äJ,Áy¤¢®‚ FîªeèG%	’G‚ v„x!âà±KwxzO)]RıŒ¹7ËßŸ|å;<£^;´ø 1ŒĞÕ&‚¿’şÙ’pÄ¼ÙÇébIæaÕE˜oàØáT¯ŸA`÷ĞÕ½ÜöËtP6:N·S´ÛÀ@[F¥q¹%Yë,ë¬’­UéhÏŠ?ÒˆÜñ”ÇÁ`!ñê5¹ş˜¾ş	&PsëIz”‰’íVNçÉáÎ—?tƒ:æ%½ë}Ï?pßB¡»¿é6µ`1ğE­ÍYåŠmnÃé¨5Çùå¤g«möÕ¾èlù"h˜™»”ğx¬‰Ïïn©µˆî`·Ä.y×yÏ‰ÃJêâ¨*Ñ¾F&(ÆŒ8:#*|ò#êWz¢Åq³[ÔÊ¹ïè‹·÷cøu€£RqØ/·o XpòIÄUjí; „4õ?«*Ù˜íƒ§‘½OÊ‡¿d[®«4ÖNRJé{eª`ÂÛš‚‚Üü]áü$›qûÚ!ƒV2ø7ÛäÁ68]úW*ct”*Øçp”pÏÍFcÓ®xN?=9‘­zÿ½LºĞ¹·éÍ’­¬œqÖÊÓr@’-uÎğY×ä\À5ÿÏÈ[Õ‹qlÚ¬ôeTCAkÉö‡óñ)ØŸÕÙYÃkDªÉ¹‘…/´Tn½³c¡ôV‚şÍıñ8kãÿGš°¥±ÿoqİ4nZGÀ:5 Öd[“Í0iˆ»ºîBÎÅ×*ÛkÍ
+ÏøÉ5´›ã,=ey›xšÛ£M‘aoÌC€˜@È%gÑİÕæPå¼¸PŠUXº07»£¢³iĞÉ©ÓÍ$«p5Õ´š¹e^x*Éÿ›Vr8}şfÉ…péÅ>wĞ™ù\aÚó"î×b„ ĞcbMİâxøõ„<Å¯<èiÏëusFeâgŞqØÍ9{Hôßí!İÛ[‘ĞåãÍÔŞu3rj©Ô7uÊYLOig/µ	µRhfy´§ÃÑHl`ªM}GÎ€¦à§ùÎï¯µ…"ö?˜¤hí°d9)§’ÑSˆJñÁ[<B–ÒÏ¹$q-(tÇ-…È]¨oèØÄÎ®Ø¡2æ]D¦©][y²KF’Ô3˜†7aâ×¹pH kŞõ•P1wEuîñºã÷¬ó¶átXWÒ’gÂ¿HäOS;hÓR?ÂL3a=œ`$z5Í$“aw) ºh0‘s±ÈÍ˜Œ«İÛMÊ•‰6nul¤ÆîÂ˜C»4˜ªæ.-{¯†·å°tf½<$Ÿ·Muø—Èø¬{CmÁ‚ô	·eĞYŒyjá²ç¹¹0™©Ş dá‡m<)×0mÄXØ=8,zaIcõ¼,Kó«Ë$nW³iØä€ ˆ»c!e\)7òu¼ ğ¾ÿ60j®0Œ²‘…ğ/é¡Œ‰+t‡ùéÇ|_ÁÈQíñ(CY¹œô‹ûweüèÎ®0‚$§û(îû´o2²p×iUš6ˆYÆÂı>®¹vdp’É<ºG•µÙ^).‚øú™QñqÚ"óEO\!ô·ıönå·OªA©¥¢Ğn¿Ğ'HÃŒt=xâESEŸĞ×à£ÍÖÓhQ3-’S'jÒˆWô1íä‡‚agÿúØ^}Ğ×ç•ä§ş[’bëtõB÷jr_Õ‚¨…e“eÎÖö+_i.ÛÿféÏˆWñ¦´ÈÓ}jYì/£¾D’]‹JşòİÛªCíÛ™ßQÆÅó3êŠ{XÛ÷ªôÓhà{[bĞ3EheÄlfÜRDk[Qú¡<K(ÒU-»	˜U–xT•$ÁŸm(DAï÷ÁÜXÕq"ÃğŒ|¦4:ò¬ 3ÚPÒğ‹
+5ª¶vsNĞB[GLî$ËüêÖ;“fóŠ«xoô
+öØÅ Â[Ä8¢âO‡xŸyñ#Ë1né×`¾á‹Î¶æ_øÇë'Nú9§ŒlŞa"&€Hùeïˆ«Õ¿V 3ÇÎò„È*«Œõã˜*Nû³¶çà«™DáÜÒ¢%¾ğô¡
+%®§3¡Ÿ½†l,n¢×õwHi‰šê³Ò³KGÓ]'º@GŠ?Ï$-«‘ötìR£ÜjÛAJ°bu‡Tù{Z¼0†Ëö(láÜ	M$ìVJ~5k
+‚Í¯zì(¤Fge¦PV†ÛøÑ?¡-É:Ô±gõpÉ­Bcz-d§Å-9³êöãúêÉ©E¯ø4pq¤¡ÓgôXˆv»¡EÈ“D†g¸dI6r3n)j¦|¦N%<)n³@aA·y£ZÖ ö‰#ÑÇ­r#>~
+H“@ÅlCcúÍ_hárñSš¤‰[À‡«Sc¬¦t}­Q†`«~D}£Ú2	’Çr´ËhF<öGï>O?¯ìüF cœ}³
+¬Ê¯P^B[åôZTÀqj–˜ú±øõ(’ÎltRÕ	ÿ½py9d%Zş"AH³VaF]çÅ} ƒmÃÍBÌB8˜-}ä~„É¬Våuä„Â}9¸ÁZœLA¬±ñayü¸&è´Çcà=|¨…Ôr®_æÅèDÄmFb¥_Q„?-µŠyzôRŸÑÅã±M_ÇX•#Å¡ö5}Àùñ@a	ñüKceÁflOé/~Zª:$µC}£Ù¦X!"bj£^ÎY4¨(Ü*cÙÍoşÕŞ=A¾G}vIybÓ÷sv]VAşgM¦±Öß®uQ!ÓÚmº7ÒWX¼üıséÆ·:â CÈTûA(öTÏjM,Çz—åcÛ»úù²¿°kÕÁ²qyçÀG#Lˆí#ÔìŸ‡z%Cá·LkØaàÁ9Rıå®°ï*Î¨Û•²“»'êÀÿN÷~v´Ë‹§º‰iÃ9ê1fFKyø:¬}uàHÎË•‘¾WdÏ|ñËo«­Ö`²ÜN¢d%ĞPU<(S¡*Â@­!™m2ß†çTê#ÏPË×Ûç‚}.Vìb¯„Yµ€¶&“•W]Ä¥À¶6FKÛ\š«Ä9›ûÊë©±U7AŞ¼šv†*maÎ¼çÃ)O—õN›&IİóüÎ×ëMƒØ²!—åëkôŞğ
+;7(YèMæú¤È¢,^/%ÆÓe‹(ÛÀë˜ò›v`ımk­„ÔcEÿgÖ ÌĞQ³æ~’ åÁÒÆ†»(:û£>C‚l!l,Í®¦–í_LƒŸzk†›Šºüq8ßÂ;r àùÛC|ĞuMş†„Zà’å×}O›G7—.¾ÔÙúA}ó™ªÙì^Ê<òù?ÙÎ	«MØø£®"’S5ÚåKa¡£éégÜ'¹âz_áìGä—fç$l¿IÏµßVh{:‰‚J„Æ[ıœ×ªÄ>ÍÉ%ª;`ÂVYÛh”gÂf‡Ìë–äÕÌ×KŞ½í æ!h†iqsvÅ½$Æ‰N€¼İ*­á8çûÆ¶pBúÍè5ƒM¶Ùÿ[™BKû[ø)‘Ej¬•HàæÕ(¤·š+…µ%n·m†GYêA.
+ËÃÕB] ÜNzÊãw3Q¡ïÆÄ.‘ŸD;cõÂÓpxØ©´5slˆ£ÂÛd1İ™VTvÓ“7ÎÔRY*(¥Z=ål$ä¢ŠæJLç>¥´é‘õû5ëb•d9º¢~Şqÿ“Gz£h#†SS0´r(C¨› ‘cÀåÓ[IÇâ")³•v÷ñ½ÕJ¾ıyX{W•GFk³T]‰ºà’<"Äˆúp$İ±İ5Ì²™_6Í]ì<‰i[TÓ™W‡êÉØ7JÄa×Ã@ßàÇªö©÷YyıóÈÔğçKèz¡Ö˜
+“WVÂPgDƒÂM*ˆ†©1Ö<…q›`·\ôÌ¢ãÍyL·w.2ü!„ÿµc›µö«İ·ùú‡«Ä‰J#¬¬ó”%ã¼}Õ&P+q5ó(¦çš™Ñ%¼ˆéËzüëƒÜú÷2¨]—_†%Ë…¥ìÉ+³jÊ[]ÚŞ.ïºÈ'Í*çr†@>B®ú)bßbÚe»ÁV™ms„ ä¶!½.İ¢tß¾ÕÀ{¶‘îœÆ—õ˜ÙyÉÆ‡¯™wtQ<Ç¼¸šPzs Ø ºå[¥ÔÀèıDÓÓfM+Ÿ$ÊPäÊ_³¶&N1§Ìâ'MR”Gw©Vb,‡“ğù¶R{::6Ü§6T%àÎ'ÎpÌeQ9æ«…ÙlD—ëZ#ú¤7ÿíóÌhì¶ˆçÓ7<‚‘ïšm5@®—\™§Á^p	ñšûFuºO^ââıR±ô6ÉtÄÆ]šÅMÓ_/¸ë2_ÄÕ¥5ôÛk¢¡ÎrÊ½|,ä#B÷½8a™Á½lFx'¾)Xµ02´¡PÁ¸PpGIE–p-kPšÛÈ”ì/Éí‹ëülY }ÉÜ—@ÆU–#Ùä	t_a¢¯©¦&i½ƒÄ­qÍâÔ	Ïı…šoªeæë\Gı‰ö¾ô„&öˆÆ9„Ğ”.´”ÄÚBÓĞ“‰|N°Œ7Ë1;`Ãi}¹Ÿ=`Sû¶öãüÿ•WâI*‘d‚°¡YØ¬s*î<&æO
+<,ÙÒTaàÏQ›t&´*Æ9RKvlK-Y|Oç–çáßd›ßI}£?´¯Âg¢*GL<nJKóšŸìÀNv!-;¹—%+¶!Ö†{û)’Päì%)Ì|ƒ5PEpA*Ëb1špÈ??ù4_k/1İôMº(;`ä¶©Ë³lŠ´JçüJ<–ÒBáò“ĞX¾©0xÄèãşÊº§îİª é”Gë`[YşK›üW~^i +3®âåÊ‹Œ‰«ä@¾ıİ‚éÚG$¯õ/e]Eş‘%‘‚•ÃSØõ¶lıìêuª’Û` Ùg8±IÏkê¨	\¯’„4Í7è$œK2ÜAöKaL£<–í÷ö3³æ6­~|¼—{òÉÜ–g§øm_-–ıÈµÃ°X	Œ¶ø’®	0¦~óğgšp¯éşw¿B4„™ëÎ±§;‹¥x¢‘Œ¡×«DøòyNV×Ææñ!øÿdò_‚Ğ;AĞ"ğ5ÑŒñ¨8¨°ÆdDL¦÷5$ëí
+©n–Tc!°ëGrÚI¸áŒ4fYÚ ÃdÌåŸ=\Óy„l‰Ç<¿Öqı›€DùÅÈ˜Á}å£ĞÃ‹|çÕ>TĞZ&'õàN]´d€²œûÓì4¼{û8y#]9Ø«·ˆ$ÖˆÍ6	À»UÍFF6vàRŸ‹7ó(^¡n"¨#Dş"…<ßÔ×_UÃ)ÅÛîN(¢Ü`<±Ù¯}ø^wÖZ™n)½­vùC~åàÌMë8®ÙE. 96¦ğû_%)‹‘äCPGO ¯#Ì‚ğ U ÂkÈŒ"Üè`Ï¦«ÙwïšÅ*ùb§ıg4	4^&îLúŠOğ¡]¸#®ğÏL¬+­b•¢ÒÛ¸  æ3(3ÓôbÔN©pà #ebaÆŞ*£9º±å¯%Ñ3W%®;îí4ÉEWÚJ`héÏ†11‘Œ†”ğÎÖZ§kÖôš¨ñå~9ØñEóÍíû02ˆ%¨ıƒUàvTâ¦¦¾‰ç	F|o:Š]¼¿mõ[í>óˆïhK¤áÉïV¥§sØŠ”P)_w¼È‰]{uÌ.?H9†ÉLlk˜ëŒe_*2=7tºİrÎséaVRªôòºİ 	¡¥˜Bb¬’ÜÿJ'·›7³fIR_S¸~¿¹ÿ¹­»`{÷^Ê½J˜gClPû}ŞdEFçhiQBèIØ£êŠ .ûÂTAŞmuòÁò#&ıl¥1‚Ö“ì¼½C€©pÎÆ<s_ˆ)º>ı~Ú”V¤?êäØNP=P©Ğ¤Ïj*ßƒ ÍÕâ4ÖP2íµ|ˆ¶Æ’‚Øs¡Í¹ä/úäe½E.j0gEw2Ö-iŸÖ9tGÿB’»šÀHrXWæ
+É©´ÈôõßÜ¤âLº<c ïzsI‘¾°œ(=¥à4şĞãµõ×„ÉÒôÂ‡3¦¾²e¦´}5Rœ‹»=?¼ä_—¶TjD€…t³¸a6›åªß`.Ö!Ï,ê‚ÒcÖçŞœ€AyÁ/†@ s.LãSkÃf>LD³&c¦ìaŞ–kã³BcâhPé´Ê´\r¢.š‰C©H|øãÙ°€1˜Ú¶õ$e-áüÅÀx@—éÓÈ8û’°R¿«'yû;_”£íºH—e(º,Æ%JÅßpšâ¥½ÂËô¸èŸaøùe³¡°ˆ¶¼Äx5ÛW%Ò¿ŞT3®›é´R7ò`ÂG5ÿ¼g7˜İùâ¬§A lú”^Ã¶ªN`¼®ø¾³?ŒI5úJı‰V½whñ"åê®¡s¬E”M>ësK
+¼!'áx$¿Åk~Ğ,z ÷“ ´ë³Sèaj>[<_Ğ‚öPLÃî¤`R1vˆgo0:_í™£‹åå˜B)ÌëjT ¢Yxš1pí÷ë=d“o¢×1dÁÉ (Z{c8áFr!óP]‘”ÙÏÛ_¼gûÕu®ÿşTW^lÌÂ±·EB„øäâLˆî×"ÅvnùÉøeºÎˆLäh'–›éÿD:êy#¸p#êòÖKdÏõDGmºõ}±ò¶ícíë
+"ãü'&‹ñ|WÃBê7ä)¿8R²=¶ifÇ7jDñ€[şm!qæ‰>ê²GÂÔ±¤¥òçg>k;Ç•s¤Cº%¾ÑÊ+Öâ‰?‚¥£›É§›d…WiOªäOSâjvÅOJ„æÏÆ|)µ°H_}æŒKò™s20êw¿Şlğ§!ÃÇ~yÄã·¶UùIn$®¸ü2¤4¦Íeà-š”®ªnš`V¥Rm‡ùÛ{rğdQ,}
+×*Äèwc?fz{Ò`û¿M
+ÎYçÜ}ÿwıÑ1õ
+×Ü‰,<‡È`[‰M‡
+ ÚI&Áïœ€®&ˆ›çî¹!l*÷…Ä+ºæÔÛë?xìÑ’Éó"ªÄà¬
+««è›óP Ó™JÀì!¬,ÖWÒ[Á'&™í7ŒMŞÜtÜUîú?ª©šª¦·\±SÊşµ å ªZâUCËÑƒäõwXZÍ€±tâ7º+®¡ó¼K/ÊE0ÎR«f‡~Ÿ( $"ğ‚1i¥1`^GX¥~´],¢ùy,)ğ /{ŠS6š6Æahg8XÙ’eæ¼vØ'U.,4
+ßÕf<cÈº™ïìVzŞ$ ±‡DÙ?¹UÃ\çmŸå¢>|)Q76tÀ€X“ìxiWÉ“ÉC'¢˜ú'yë<-D±·¾Ë.üZ./5ó«„7]@ùšP\?*‚@¤Û .Pi'h}ø”˜.ña Ïâ	‘ÂÆéWÁÏ úE£_€àåDB}±zÎN˜4
+ócÂËãEÇa@~}~›‡Çˆ3ÅX :«Cº×Ò '‘K±’d•§â{¶X¯êC¡õ—Pã¢.Ú!şúIÜR´Bƒ&¦Û‹Û®«ºB@İ³·DÌÑGœ#x@WTäïŞkaZäOÙ,¯¶’N²Cè^÷ëÁ‘Y’%çká;jO_ÎY<f"è*½cnŠòÑ;A?ğ»G#sêÕÓÅÅreôô^QØNA+uKÊ;Hb>ü‘ŠïËaÎyÇÄSY9üÔµç¤£~ªğüs¸?ù}Ê¿ Â”u•˜¥öSH™ÙÊ	D²Œµ¿¦-ïïrÀ]5:‘±a–B•Œ6é)ÔØÙk8GD‡²ˆ§r¾ëĞ7bTß¬)kÅÎlvÈ»2'.‹È%@ìj.ÀÀEÔ0fúFàö™Ô8Ù;ûû
+9L $Í‡ ãÚß‘µÆrWUUÅ6ÅÂ»ÓE{¼	%'Yˆ„¤ÄvzLü#=¥ñ‘ã)—ÕµŞÄÅíŠKŸ¡¡?ÿ’Ù”H’ç-ë…Âà¥ ÓÑ~&˜Ó&4ga¢y«6/hÒ/‰‚!~òÍn^ú*OJÃøJ(‘½ZêÈê§Í^e#¼h\/Q^ÓÄîSm)ØU‚\`'RHİ¡±JÓßÛÁTú2Q6”¸_¬£ œÒ¤Åï/XÓÛh”h¸’Ğ6Aöê/tò…q’ sÍ.«C”7*ÂÌ\HÆSû¿‰¯Â!L(·Ä¸rÄ¾v}^¦Gó„|YƒÆö–Øœ¢m	&TÕP#f‘ÁãSÆ$wKuYé)Sˆ‚%YRÁ4ëSğtµ~J7e°7-‰NKÍP¥‘ø¬ÒµÎÍ£tˆ†½à:í©€7ËÔğ1®E€6™ìEaô`…UV–·ş%X.PŞ›çW¥ä‰vN~§¾Åìˆüîæø›,GjN7æˆ–xÆE<ñ?z¸zæËCpç“í‡ÌìËİ"’Ìò„¨M7Ğ¯7„·‰ôE‹Òv¸NyŸ[9l¡eÖ  
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gstatic.com/images/branding/product/1x/translate_24dp.png
+
+‰PNG
+
+   IHDR         àw=ø  IDATxb HôNN]n…Q ísT=SïµÆU\Û¶±ÛÉØ77·çô•|q»Ö³÷ıt!]tâ_x\ ¢à˜ ùaò• ¹";nNû­@ñ	+:!ÀÅGG²~+ÀÄq&gBÁ¿ÿı@DN$ß=‘£`ƒÄ2ã—Lš(ÏW	Hä)Ì£xÜ.WÁP˜ÁÁAˆĞßßp:=éqüòÂ0y$ pÃ™qìQ›Eéwô<	$ŠËñĞcçp`dÕöI,ÀG9"/?›Ál¶S„äDœœ	”Qö‡ññ	|ÒÀÃÏxxØÌá¾{|DN¹ëEµÆ§‹É¿ …dĞ¿èà-*»sÈ–¸îÔ8vtêÁb±Ëåúq€dŒá	T¼ää×j0>1„Ş9Ir³D^|6No›Í›+d˜èëë‹HÆ`#È¦-y!;ï¡İ2‰Ÿµ\D)°°¼×í•à†Ò£¸©L‚›+ä¸µZ…[ªT˜ £ôAh‹kpè)w9¤÷ûîò˜EYˆµ'ÇñÚƒ—ĞÚÙ‡¤—nã³µ©G­ –b¤ÛÆáÀphUŠ»*VFyõ3ìU]Ä·u°]r
+ív;x½^’Ç²Di*2åQåÒ ºãÁRå%ÜP&Áú–Np:´è,’:À„ŒŒ0‰òt‘UÇGpk©
+wHNãÙ{‘„Ûí¿ß¤Æ#Ab&'Ò$A<~£ºÔz(=~ÏİyŒ,àóùbA.•”‘ÎH‡n{Q£1‚Ş`„Ò“ñcCKr çèHVš4L—òÀH‹a©$Dš„Ç´£—†Y}bµZ#ÚMqë0åW¯½{?Í[Tô½"pAá+<¤l@ƒÁ´ƒŠüv€®-»ê¿E¢ZQ=j˜Ìq¶¸€Çãù½Àayó®E%o±J^ZĞéŒ`°÷[ŠŠ–¹ÕòZloWƒZ­ƒAÉ‹¬V+=|Cƒ:wÊÿ¸¾‹ÇÅe¿.?’    IEND®B`‚
+------MultipartBoundary--X9NWTCMRXiNrlPlOjRB1hKatpLkCKGJa6Fzia07fvo------
